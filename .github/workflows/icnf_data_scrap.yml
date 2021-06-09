@@ -3,7 +3,7 @@ name: Run scrapping script to get ICNF data
 on:
   schedule:
     # Configs when to run this script, helpful website: https://crontab.guru/
-    - cron: "30 14 * * *"
+    - cron: "00 01 * * *"
     
 
 jobs:
