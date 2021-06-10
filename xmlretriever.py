@@ -18,7 +18,7 @@ df_actual=pd.read_csv("icnf_2021_raw.csv")
 # XML Query 
 # Get data
 resp = requests.get(
-    'https://fogos.icnf.pt/localizador/webserviceocorrencias.asp?ANO=2021')
+    'https://fogos.icnf.pt/localizador/webserviceocorrencias.asp?ANO=2021&MES=06')
 
 # Parse XML
 et = ET.parse(io.StringIO(resp.text))
