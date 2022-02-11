@@ -19,6 +19,8 @@ year = dt.year
 month = dt.month
 day = dt.day-1 # Variable day equals the previous day
 
+print(year,month,day)
+
 # Define XML query URL based on date 
 
 url = f"https://fogos.icnf.pt/localizador/webserviceocorrencias.asp" \
@@ -29,7 +31,7 @@ f"&DIA={day}" \
 
 # Get last update 
 
-df_actual=pd.read_csv("icnf_2021_raw.csv")
+df_actual=pd.read_csv("icnf_2022_raw.csv")
 
 # XML Query 
 
@@ -46,10 +48,16 @@ df = pd.DataFrame([
     {f.tag: f.text for f in e.findall('./')} for e in et.findall('./')]
 )
 
-# Append only new records 
+df = df.reset_index()
+
+#Append only new records 
 
 df_actual.append(df[df.isin(df_actual) == False])
 
+df_sorted = df_actual.sort_values(["ANO","MES","DIA"])
+
+df_sorted.reset_index()
+
 # Save to CSV 
 
-df_actual.to_csv("icnf_2021_raw.csv")
+df_sorted.to_csv("icnf_2022_raw.csv",index=False)
