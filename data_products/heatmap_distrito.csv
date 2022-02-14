@@ -1,0 +1,185 @@
+,ANO,DISTRITO,NCCO
+0,2013,Aveiro,1615
+1,2013,Beja,406
+2,2013,Braga,2299
+3,2013,Bragança,505
+4,2013,Castelo Branco,471
+5,2013,Coimbra,857
+6,2013,Faro,453
+7,2013,Guarda,576
+8,2013,Leiria,717
+9,2013,Lisboa,1726
+10,2013,Portalegre,256
+11,2013,Porto,6231
+12,2013,Santarém,828
+13,2013,Setúbal,897
+14,2013,Viana Do Castelo,174
+15,2013,Viana do Castelo,1708
+16,2013,Vila Real,1281
+17,2013,Viseu,1931
+18,2013,Évora,198
+19,2014,Aveiro,591
+20,2014,Beja,310
+21,2014,Braga,656
+22,2014,Bragança,414
+23,2014,Castelo Branco,272
+24,2014,Coimbra,368
+25,2014,Faro,345
+26,2014,Guarda,424
+27,2014,Leiria,444
+28,2014,Lisboa,995
+29,2014,Portalegre,208
+30,2014,Porto,1503
+31,2014,Santarém,598
+32,2014,Setúbal,568
+33,2014,Viana Do Castelo,154
+34,2014,Viana do Castelo,228
+35,2014,Vila Real,504
+36,2014,Viseu,627
+37,2014,Évora,179
+38,2015,Aveiro,1222
+39,2015,Beja,338
+40,2015,Braga,2049
+41,2015,Bragança,686
+42,2015,Castelo Branco,544
+43,2015,Coimbra,614
+44,2015,Faro,405
+45,2015,Guarda,556
+46,2015,Leiria,856
+47,2015,Lisboa,1676
+48,2015,Portalegre,316
+49,2015,Porto,3994
+50,2015,Santarém,1059
+51,2015,Setúbal,1023
+52,2015,Viana Do Castelo,170
+53,2015,Viana do Castelo,1151
+54,2015,Vila Real,1316
+55,2015,Viseu,1418
+56,2015,Évora,250
+57,2016,Aveiro,898
+58,2016,Beja,242
+59,2016,Braga,1759
+60,2016,Bragança,449
+61,2016,Castelo Branco,390
+62,2016,Coimbra,456
+63,2016,Faro,274
+64,2016,Guarda,439
+65,2016,Leiria,584
+66,2016,Lisboa,1080
+67,2016,Portalegre,237
+68,2016,Porto,4285
+69,2016,Santarém,790
+70,2016,Setúbal,804
+71,2016,Viana Do Castelo,60
+72,2016,Viana do Castelo,1049
+73,2016,Vila Real,972
+74,2016,Viseu,1134
+75,2016,Évora,202
+76,2017,Aveiro,1661
+77,2017,Beja,356
+78,2017,Braga,2019
+79,2017,Bragança,854
+80,2017,Castelo Branco,636
+81,2017,Coimbra,741
+82,2017,Faro,394
+83,2017,Guarda,639
+84,2017,Leiria,880
+85,2017,Lisboa,1273
+86,2017,Portalegre,344
+87,2017,Porto,4729
+88,2017,Santarém,1033
+89,2017,Setúbal,719
+90,2017,Viana do Castelo,1163
+91,2017,Vila Real,1423
+92,2017,Viseu,1857
+93,2017,Évora,285
+94,2018,Aveiro,1122
+95,2018,Beja,235
+96,2018,Braga,1293
+97,2018,Bragança,544
+98,2018,Castelo Branco,424
+99,2018,Coimbra,266
+100,2018,Faro,354
+101,2018,Guarda,248
+102,2018,Leiria,351
+103,2018,Lisboa,995
+104,2018,Portalegre,227
+105,2018,Porto,2427
+106,2018,Santarém,640
+107,2018,Setúbal,400
+108,2018,Viana do Castelo,893
+109,2018,Vila Real,740
+110,2018,Viseu,955
+111,2018,Évora,159
+112,2019,Aveiro,817
+113,2019,Beja,385
+114,2019,Braga,917
+115,2019,Bragança,342
+116,2019,Castelo Branco,458
+117,2019,Coimbra,314
+118,2019,Faro,417
+119,2019,Guarda,291
+120,2019,Leiria,480
+121,2019,Lisboa,896
+122,2019,Portalegre,289
+123,2019,Porto,1842
+124,2019,Santarém,703
+125,2019,Setúbal,398
+126,2019,Viana do Castelo,556
+127,2019,Vila Real,639
+128,2019,Viseu,776
+129,2019,Évora,312
+130,2020,Aveiro,653
+131,2020,Beja,247
+132,2020,Braga,969
+133,2020,Bragança,263
+134,2020,Castelo Branco,305
+135,2020,Coimbra,230
+136,2020,Faro,209
+137,2020,Guarda,300
+138,2020,Leiria,353
+139,2020,Lisboa,586
+140,2020,Portalegre,189
+141,2020,Porto,2469
+142,2020,Santarém,586
+143,2020,Setúbal,338
+144,2020,Viana do Castelo,606
+145,2020,Vila Real,572
+146,2020,Viseu,577
+147,2020,Évora,167
+148,2021,Aveiro,639
+149,2021,Beja,306
+150,2021,Braga,740
+151,2021,Bragança,227
+152,2021,Castelo Branco,241
+153,2021,Coimbra,155
+154,2021,Faro,299
+155,2021,Guarda,217
+156,2021,Leiria,201
+157,2021,Lisboa,724
+158,2021,Portalegre,193
+159,2021,Porto,1359
+160,2021,Santarém,486
+161,2021,Setúbal,493
+162,2021,Viana do Castelo,563
+163,2021,Vila Real,616
+164,2021,Viseu,527
+165,2021,Évora,213
+166,2022,Aveiro,72
+167,2022,Beja,7
+168,2022,Braga,213
+169,2022,Bragança,68
+170,2022,Castelo Branco,15
+171,2022,Coimbra,10
+172,2022,Faro,15
+173,2022,Guarda,33
+174,2022,Leiria,22
+175,2022,Lisboa,68
+176,2022,Portalegre,13
+177,2022,Porto,178
+178,2022,Santarém,25
+179,2022,Setúbal,17
+180,2022,Viana do Castelo,191
+181,2022,Vila Real,233
+182,2022,Viseu,149
+183,2022,Évora,4

@@ -1,0 +1,2935 @@
+,ANO,DISTRITO,CONCELHO,NCCO
+0,2013.0,Aveiro,Albergaria-a-Velha,98
+1,2013.0,Aveiro,Albergaria-a-velha,1
+2,2013.0,Aveiro,Anadia,41
+3,2013.0,Aveiro,Arouca,128
+4,2013.0,Aveiro,Aveiro,88
+5,2013.0,Aveiro,Castelo de Paiva,74
+6,2013.0,Aveiro,Espinho,60
+7,2013.0,Aveiro,Estarreja,38
+8,2013.0,Aveiro,Mealhada,31
+9,2013.0,Aveiro,Murtosa,10
+10,2013.0,Aveiro,Oliveira De Azeméis,3
+11,2013.0,Aveiro,Oliveira de Azeméis,89
+12,2013.0,Aveiro,Oliveira do Bairro,43
+13,2013.0,Aveiro,Ovar,63
+14,2013.0,Aveiro,Santa Maria Da Feira,3
+15,2013.0,Aveiro,Santa Maria da Feira,236
+16,2013.0,Aveiro,Sever Do Vouga,1
+17,2013.0,Aveiro,Sever do Vouga,117
+18,2013.0,Aveiro,São João da Madeira,5
+19,2013.0,Aveiro,Vagos,39
+20,2013.0,Aveiro,Vale De Cambra,2
+21,2013.0,Aveiro,Vale de Cambra,188
+22,2013.0,Aveiro,Águeda,224
+23,2013.0,Aveiro,Ílhavo,33
+24,2013.0,Beja,Aljustrel,30
+25,2013.0,Beja,Almodôvar,14
+26,2013.0,Beja,Barrancos,2
+27,2013.0,Beja,Beja,119
+28,2013.0,Beja,Castro Verde,20
+29,2013.0,Beja,Cuba,3
+30,2013.0,Beja,Ferreira do Alentejo,19
+31,2013.0,Beja,Moura,60
+32,2013.0,Beja,Mértola,15
+33,2013.0,Beja,Odemira,52
+34,2013.0,Beja,Ourique,14
+35,2013.0,Beja,Serpa,27
+36,2013.0,Beja,Vidigueira,31
+37,2013.0,Braga,Amares,58
+38,2013.0,Braga,Barcelos,196
+39,2013.0,Braga,Braga,184
+40,2013.0,Braga,Cabeceiras De Basto,19
+41,2013.0,Braga,Cabeceiras de Basto,120
+42,2013.0,Braga,Celorico De Basto,57
+43,2013.0,Braga,Celorico de Basto,225
+44,2013.0,Braga,Esposende,24
+45,2013.0,Braga,Fafe,250
+46,2013.0,Braga,Guimarães,272
+47,2013.0,Braga,Póvoa De Lanhoso,13
+48,2013.0,Braga,Póvoa de Lanhoso,174
+49,2013.0,Braga,Terras De Bouro,35
+50,2013.0,Braga,Terras de Bouro,32
+51,2013.0,Braga,VIZELA,2
+52,2013.0,Braga,Vieira Do Minho,4
+53,2013.0,Braga,Vieira do Minho,117
+54,2013.0,Braga,Vila Nova De Famalicão,25
+55,2013.0,Braga,Vila Nova de Famalicão,210
+56,2013.0,Braga,Vila Verde,247
+57,2013.0,Braga,Vizela,35
+58,2013.0,Bragança,Alfândega Da Fé,1
+59,2013.0,Bragança,Alfândega da Fé,24
+60,2013.0,Bragança,Bragança,74
+61,2013.0,Bragança,Carrazeda de Ansiães,44
+62,2013.0,Bragança,Freixo de Espada à Cinta,29
+63,2013.0,Bragança,Macedo De Cavaleiros,8
+64,2013.0,Bragança,Macedo de Cavaleiros,52
+65,2013.0,Bragança,Miranda do Douro,22
+66,2013.0,Bragança,Mirandela,80
+67,2013.0,Bragança,Mogadouro,26
+68,2013.0,Bragança,Torre De Moncorvo,5
+69,2013.0,Bragança,Torre de Moncorvo,37
+70,2013.0,Bragança,Vila FLor,28
+71,2013.0,Bragança,Vimioso,19
+72,2013.0,Bragança,Vinhais,56
+73,2013.0,Castelo Branco,Belmonte,18
+74,2013.0,Castelo Branco,Castelo Branco,70
+75,2013.0,Castelo Branco,Covilhã,93
+76,2013.0,Castelo Branco,Fundão,112
+77,2013.0,Castelo Branco,Idanha-a-Nova,53
+78,2013.0,Castelo Branco,Oleiros,7
+79,2013.0,Castelo Branco,Penamacor,23
+80,2013.0,Castelo Branco,Proença-a-Nova,18
+81,2013.0,Castelo Branco,Sertã,51
+82,2013.0,Castelo Branco,Vila Velha De Ródão,6
+83,2013.0,Castelo Branco,Vila Velha de Ródão,14
+84,2013.0,Castelo Branco,Vila de Rei,6
+85,2013.0,Coimbra,Arganil,57
+86,2013.0,Coimbra,Cantanhede,69
+87,2013.0,Coimbra,Coimbra,88
+88,2013.0,Coimbra,Condeixa-a-Nova,20
+89,2013.0,Coimbra,Condeixa-a-nova,2
+90,2013.0,Coimbra,Figueira Da Foz,3
+91,2013.0,Coimbra,Figueira da Foz,86
+92,2013.0,Coimbra,Góis,18
+93,2013.0,Coimbra,Lousã,25
+94,2013.0,Coimbra,Mira,36
+95,2013.0,Coimbra,Miranda do Corvo,43
+96,2013.0,Coimbra,Montemor-o-Velho,54
+97,2013.0,Coimbra,Montemor-o-velho,2
+98,2013.0,Coimbra,Oliveira Do Hospital,8
+99,2013.0,Coimbra,Oliveira do Hospital,73
+100,2013.0,Coimbra,Pampilhosa da Serra,28
+101,2013.0,Coimbra,Penacova,115
+102,2013.0,Coimbra,Penela,24
+103,2013.0,Coimbra,Soure,32
+104,2013.0,Coimbra,Tábua,46
+105,2013.0,Coimbra,Vila Nova de Poiares,28
+106,2013.0,Faro,Albufeira,40
+107,2013.0,Faro,Alcoutim,11
+108,2013.0,Faro,Aljezur,7
+109,2013.0,Faro,Castro Marim,11
+110,2013.0,Faro,Faro,32
+111,2013.0,Faro,Lagoa,25
+112,2013.0,Faro,Lagos,24
+113,2013.0,Faro,Loulé,76
+114,2013.0,Faro,Monchique,9
+115,2013.0,Faro,Olhão,33
+116,2013.0,Faro,Portimão,33
+117,2013.0,Faro,Silves,78
+118,2013.0,Faro,São Brás de Alportel,11
+119,2013.0,Faro,Tavira,42
+120,2013.0,Faro,Vila Real de Santo António,8
+121,2013.0,Faro,Vila do Bispo,13
+122,2013.0,Guarda,Aguiar da Beira,24
+123,2013.0,Guarda,Almeida,20
+124,2013.0,Guarda,Celorico da Beira,24
+125,2013.0,Guarda,Figueira de Castelo Rodrigo,57
+126,2013.0,Guarda,Fornos de Algodres,17
+127,2013.0,Guarda,Gouveia,67
+128,2013.0,Guarda,Guarda,47
+129,2013.0,Guarda,Manteigas,1
+130,2013.0,Guarda,Mêda,54
+131,2013.0,Guarda,Pinhel,48
+132,2013.0,Guarda,Sabugal,44
+133,2013.0,Guarda,Seia,60
+134,2013.0,Guarda,Trancoso,61
+135,2013.0,Guarda,Vila Nova De Foz Côa,52
+136,2013.0,Leiria,Alcobaça,92
+137,2013.0,Leiria,Alvaiázere,20
+138,2013.0,Leiria,Ansião,16
+139,2013.0,Leiria,Batalha,10
+140,2013.0,Leiria,Bombarral,32
+141,2013.0,Leiria,Caldas Da Rainha,17
+142,2013.0,Leiria,Caldas da Rainha,59
+143,2013.0,Leiria,Castanheira de Pêra,13
+144,2013.0,Leiria,Figueiró dos Vinhos,20
+145,2013.0,Leiria,Leiria,135
+146,2013.0,Leiria,Marinha Grande,34
+147,2013.0,Leiria,Nazaré,14
+148,2013.0,Leiria,Pedrógão Grande,29
+149,2013.0,Leiria,Peniche,51
+150,2013.0,Leiria,Pombal,87
+151,2013.0,Leiria,Porto De Mós,5
+152,2013.0,Leiria,Porto de Mós,45
+153,2013.0,Leiria,Óbidos,38
+154,2013.0,Lisboa,Alenquer,117
+155,2013.0,Lisboa,Amadora,64
+156,2013.0,Lisboa,Arruda dos Vinhos,67
+157,2013.0,Lisboa,Azambuja,93
+158,2013.0,Lisboa,Cadaval,41
+159,2013.0,Lisboa,Cascais,73
+160,2013.0,Lisboa,Lisboa,125
+161,2013.0,Lisboa,Loures,135
+162,2013.0,Lisboa,Lourinhã,59
+163,2013.0,Lisboa,Mafra,118
+164,2013.0,Lisboa,ODIVELAS,55
+165,2013.0,Lisboa,Odivelas,102
+166,2013.0,Lisboa,Oeiras,76
+167,2013.0,Lisboa,Sintra,279
+168,2013.0,Lisboa,Sobral De Monte Agraço,28
+169,2013.0,Lisboa,Sobral de Monte Agraço,13
+170,2013.0,Lisboa,Torres Vedras,200
+171,2013.0,Lisboa,Vila Franca de Xira,81
+172,2013.0,Portalegre,Alter do Chão,9
+173,2013.0,Portalegre,Arronches,8
+174,2013.0,Portalegre,Avis,12
+175,2013.0,Portalegre,Campo Maior,31
+176,2013.0,Portalegre,Castelo De Vide,1
+177,2013.0,Portalegre,Castelo de Vide,5
+178,2013.0,Portalegre,Crato,7
+179,2013.0,Portalegre,Elvas,67
+180,2013.0,Portalegre,Fronteira,11
+181,2013.0,Portalegre,Gavião,16
+182,2013.0,Portalegre,Marvão,10
+183,2013.0,Portalegre,Monforte,5
+184,2013.0,Portalegre,Nisa,26
+185,2013.0,Portalegre,Ponte de Sor,32
+186,2013.0,Portalegre,Portalegre,12
+187,2013.0,Portalegre,Sousel,4
+188,2013.0,Porto,Amarante,562
+189,2013.0,Porto,Baião,220
+190,2013.0,Porto,Felgueiras,402
+191,2013.0,Porto,Gondomar,500
+192,2013.0,Porto,Lousada,348
+193,2013.0,Porto,Maia,251
+194,2013.0,Porto,Marco De Canaveses,18
+195,2013.0,Porto,Marco de Canaveses,428
+196,2013.0,Porto,Matosinhos,96
+197,2013.0,Porto,Paredes,808
+198,2013.0,Porto,Paços De Ferreira,2
+199,2013.0,Porto,Paços de Ferreira,398
+200,2013.0,Porto,Penafiel,670
+201,2013.0,Porto,Porto,1
+202,2013.0,Porto,Póvoa De Varzim,16
+203,2013.0,Porto,Póvoa de Varzim,108
+204,2013.0,Porto,Santo Tirso,443
+205,2013.0,Porto,TROFA,40
+206,2013.0,Porto,Trofa,52
+207,2013.0,Porto,Valongo,181
+208,2013.0,Porto,Vila Do Conde,1
+209,2013.0,Porto,Vila Nova De Gaia,55
+210,2013.0,Porto,Vila Nova de Gaia,422
+211,2013.0,Porto,Vila do Conde,209
+212,2013.0,Santarém,Abrantes,62
+213,2013.0,Santarém,Alcanena,25
+214,2013.0,Santarém,Almeirim,30
+215,2013.0,Santarém,Alpiarça,19
+216,2013.0,Santarém,Benavente,53
+217,2013.0,Santarém,Cartaxo,32
+218,2013.0,Santarém,Chamusca,48
+219,2013.0,Santarém,Constância,9
+220,2013.0,Santarém,Coruche,49
+221,2013.0,Santarém,Entroncamento,11
+222,2013.0,Santarém,Ferreira do Zêzere,11
+223,2013.0,Santarém,Golegã,5
+224,2013.0,Santarém,Mação,15
+225,2013.0,Santarém,Ourém,57
+226,2013.0,Santarém,Rio Maior,40
+227,2013.0,Santarém,Salvaterra de Magos,30
+228,2013.0,Santarém,Santarém,136
+229,2013.0,Santarém,Sardoal,9
+230,2013.0,Santarém,Tomar,104
+231,2013.0,Santarém,Torres Novas,65
+232,2013.0,Santarém,Vila Nova da Barquinha,18
+233,2013.0,Setúbal,Alcochete,26
+234,2013.0,Setúbal,Alcácer Do Sal,12
+235,2013.0,Setúbal,Alcácer do Sal,2
+236,2013.0,Setúbal,Almada,100
+237,2013.0,Setúbal,Barreiro,58
+238,2013.0,Setúbal,Grândola,30
+239,2013.0,Setúbal,Moita,108
+240,2013.0,Setúbal,Montijo,100
+241,2013.0,Setúbal,Palmela,152
+242,2013.0,Setúbal,Santiago do Cacém,40
+243,2013.0,Setúbal,Seixal,109
+244,2013.0,Setúbal,Sesimbra,46
+245,2013.0,Setúbal,Setúbal,88
+246,2013.0,Setúbal,Sines,26
+247,2013.0,Viana Do Castelo,Arcos De Valdevez,20
+248,2013.0,Viana Do Castelo,Caminha,6
+249,2013.0,Viana Do Castelo,Melgaço,1
+250,2013.0,Viana Do Castelo,Paredes De Coura,8
+251,2013.0,Viana Do Castelo,Ponte Da Barca,40
+252,2013.0,Viana Do Castelo,Ponte De Lima,24
+253,2013.0,Viana Do Castelo,Valença,32
+254,2013.0,Viana Do Castelo,Viana Do Castelo,42
+255,2013.0,Viana Do Castelo,Vila Nova De Cerveira,1
+256,2013.0,Viana do Castelo,Arcos de Valdevez,271
+257,2013.0,Viana do Castelo,Caminha,133
+258,2013.0,Viana do Castelo,Melgaço,67
+259,2013.0,Viana do Castelo,Monção,174
+260,2013.0,Viana do Castelo,Paredes de Coura,96
+261,2013.0,Viana do Castelo,Ponte da Barca,193
+262,2013.0,Viana do Castelo,Ponte de Lima,340
+263,2013.0,Viana do Castelo,Valença,163
+264,2013.0,Viana do Castelo,Viana do Castelo,197
+265,2013.0,Viana do Castelo,Vila Nova de Cerveira,74
+266,2013.0,Vila Real,Alijó,71
+267,2013.0,Vila Real,Boticas,110
+268,2013.0,Vila Real,Chaves,191
+269,2013.0,Vila Real,Mesão Frio,10
+270,2013.0,Vila Real,Mesão frio,9
+271,2013.0,Vila Real,Mondim De Basto,1
+272,2013.0,Vila Real,Mondim de Basto,27
+273,2013.0,Vila Real,Montalegre,239
+274,2013.0,Vila Real,Murça,46
+275,2013.0,Vila Real,Peso da Régua,45
+276,2013.0,Vila Real,Ribeira De Pena,34
+277,2013.0,Vila Real,Ribeira de Pena,44
+278,2013.0,Vila Real,Sabrosa,20
+279,2013.0,Vila Real,Santa Marta De Penaguião,7
+280,2013.0,Vila Real,Santa Marta de Penaguião,24
+281,2013.0,Vila Real,Valpaços,127
+282,2013.0,Vila Real,Vila Pouca de Aguiar,121
+283,2013.0,Vila Real,Vila Real,155
+284,2013.0,Viseu,Armamar,20
+285,2013.0,Viseu,Carregal do Sal,30
+286,2013.0,Viseu,Castro Daire,179
+287,2013.0,Viseu,Cinfães,262
+288,2013.0,Viseu,Lamego,153
+289,2013.0,Viseu,Mangualde,74
+290,2013.0,Viseu,Moimenta Da Beira,3
+291,2013.0,Viseu,Moimenta da Beira,77
+292,2013.0,Viseu,Mortágua,13
+293,2013.0,Viseu,Nelas,77
+294,2013.0,Viseu,Oliveira De Frades,1
+295,2013.0,Viseu,Oliveira de Frades,73
+296,2013.0,Viseu,Penalva Do Castelo,1
+297,2013.0,Viseu,Penalva do Castelo,33
+298,2013.0,Viseu,Penedono,18
+299,2013.0,Viseu,Resende,88
+300,2013.0,Viseu,Santa Comba Dão,22
+301,2013.0,Viseu,Sernancelhe,60
+302,2013.0,Viseu,Sátão,38
+303,2013.0,Viseu,São João Da Pesqueira,1
+304,2013.0,Viseu,São João da Pesqueira,31
+305,2013.0,Viseu,São Pedro Do Sul,3
+306,2013.0,Viseu,São Pedro do Sul,35
+307,2013.0,Viseu,Tabuaço,23
+308,2013.0,Viseu,Tarouca,24
+309,2013.0,Viseu,Tondela,166
+310,2013.0,Viseu,Vila Nova de Paiva,94
+311,2013.0,Viseu,Viseu,267
+312,2013.0,Viseu,Vouzela,65
+313,2013.0,Évora,Alandroal,13
+314,2013.0,Évora,Arraiolos,10
+315,2013.0,Évora,Borba,6
+316,2013.0,Évora,Estremoz,22
+317,2013.0,Évora,Montemor-o-Novo,18
+318,2013.0,Évora,Montemor-o-novo,4
+319,2013.0,Évora,Mora,2
+320,2013.0,Évora,Mourão,8
+321,2013.0,Évora,Portel,7
+322,2013.0,Évora,Redondo,7
+323,2013.0,Évora,Reguengos de Monsaraz,23
+324,2013.0,Évora,Vendas Novas,8
+325,2013.0,Évora,Viana do Alentejo,9
+326,2013.0,Évora,Vila Viçosa,5
+327,2013.0,Évora,Évora,56
+328,2014.0,Aveiro,Albergaria-a-Velha,45
+329,2014.0,Aveiro,Albergaria-a-velha,5
+330,2014.0,Aveiro,Anadia,24
+331,2014.0,Aveiro,Arouca,41
+332,2014.0,Aveiro,Aveiro,40
+333,2014.0,Aveiro,Castelo De Paiva,5
+334,2014.0,Aveiro,Castelo de Paiva,16
+335,2014.0,Aveiro,Espinho,19
+336,2014.0,Aveiro,Estarreja,24
+337,2014.0,Aveiro,Mealhada,21
+338,2014.0,Aveiro,Murtosa,9
+339,2014.0,Aveiro,Oliveira De Azeméis,17
+340,2014.0,Aveiro,Oliveira de Azeméis,49
+341,2014.0,Aveiro,Oliveira do Bairro,14
+342,2014.0,Aveiro,Ovar,26
+343,2014.0,Aveiro,Santa Maria Da Feira,25
+344,2014.0,Aveiro,Santa Maria da Feira,59
+345,2014.0,Aveiro,Sever do Vouga,12
+346,2014.0,Aveiro,São João da Madeira,35
+347,2014.0,Aveiro,Vagos,13
+348,2014.0,Aveiro,Vale De Cambra,1
+349,2014.0,Aveiro,Vale de Cambra,26
+350,2014.0,Aveiro,Águeda,54
+351,2014.0,Aveiro,Ílhavo,11
+352,2014.0,Beja,Aljustrel,18
+353,2014.0,Beja,Almodôvar,9
+354,2014.0,Beja,Alvito,3
+355,2014.0,Beja,Barrancos,3
+356,2014.0,Beja,Beja,68
+357,2014.0,Beja,Castro Verde,10
+358,2014.0,Beja,Cuba,7
+359,2014.0,Beja,Ferreira do Alentejo,12
+360,2014.0,Beja,Moura,58
+361,2014.0,Beja,Mértola,17
+362,2014.0,Beja,Odemira,39
+363,2014.0,Beja,Ourique,19
+364,2014.0,Beja,Serpa,29
+365,2014.0,Beja,Vidigueira,18
+366,2014.0,Braga,Amares,22
+367,2014.0,Braga,Barcelos,58
+368,2014.0,Braga,Braga,36
+369,2014.0,Braga,Cabeceiras De Basto,30
+370,2014.0,Braga,Cabeceiras de Basto,16
+371,2014.0,Braga,Celorico De Basto,23
+372,2014.0,Braga,Celorico de Basto,32
+373,2014.0,Braga,Esposende,12
+374,2014.0,Braga,Fafe,49
+375,2014.0,Braga,Guimarães,117
+376,2014.0,Braga,Póvoa De Lanhoso,2
+377,2014.0,Braga,Póvoa de Lanhoso,64
+378,2014.0,Braga,Terras De Bouro,10
+379,2014.0,Braga,Terras de Bouro,13
+380,2014.0,Braga,VIZELA,1
+381,2014.0,Braga,Vieira Do Minho,8
+382,2014.0,Braga,Vieira do Minho,23
+383,2014.0,Braga,Vila Nova De Famalicão,39
+384,2014.0,Braga,Vila Nova de Famalicão,18
+385,2014.0,Braga,Vila Verde,73
+386,2014.0,Braga,Vizela,10
+387,2014.0,Bragança,Alfândega Da Fé,8
+388,2014.0,Bragança,Alfândega da Fé,12
+389,2014.0,Bragança,Bragança,56
+390,2014.0,Bragança,Carrazeda De Ansiães,15
+391,2014.0,Bragança,Carrazeda de Ansiães,13
+392,2014.0,Bragança,Freixo De Espada À Cinta,6
+393,2014.0,Bragança,Freixo de Espada à Cinta,35
+394,2014.0,Bragança,Macedo De Cavaleiros,12
+395,2014.0,Bragança,Macedo de Cavaleiros,26
+396,2014.0,Bragança,Miranda do Douro,10
+397,2014.0,Bragança,Mirandela,54
+398,2014.0,Bragança,Mogadouro,23
+399,2014.0,Bragança,Torre De Moncorvo,21
+400,2014.0,Bragança,Torre de Moncorvo,39
+401,2014.0,Bragança,Vila FLor,20
+402,2014.0,Bragança,Vila Flor,11
+403,2014.0,Bragança,Vimioso,22
+404,2014.0,Bragança,Vinhais,31
+405,2014.0,Castelo Branco,Belmonte,11
+406,2014.0,Castelo Branco,Castelo Branco,63
+407,2014.0,Castelo Branco,Covilhã,53
+408,2014.0,Castelo Branco,Fundão,27
+409,2014.0,Castelo Branco,Idanha-a-Nova,25
+410,2014.0,Castelo Branco,Idanha-a-nova,11
+411,2014.0,Castelo Branco,Oleiros,9
+412,2014.0,Castelo Branco,Penamacor,10
+413,2014.0,Castelo Branco,Proença-a-Nova,7
+414,2014.0,Castelo Branco,Proença-a-nova,1
+415,2014.0,Castelo Branco,Sertã,42
+416,2014.0,Castelo Branco,Vila Velha de Ródão,12
+417,2014.0,Castelo Branco,Vila de Rei,1
+418,2014.0,Coimbra,Arganil,24
+419,2014.0,Coimbra,Cantanhede,32
+420,2014.0,Coimbra,Coimbra,74
+421,2014.0,Coimbra,Condeixa-a-Nova,13
+422,2014.0,Coimbra,Figueira da Foz,31
+423,2014.0,Coimbra,Góis,12
+424,2014.0,Coimbra,Lousã,10
+425,2014.0,Coimbra,Mira,11
+426,2014.0,Coimbra,Miranda Do Corvo,2
+427,2014.0,Coimbra,Miranda do Corvo,11
+428,2014.0,Coimbra,Montemor-o-Velho,13
+429,2014.0,Coimbra,Montemor-o-velho,1
+430,2014.0,Coimbra,Oliveira Do Hospital,31
+431,2014.0,Coimbra,Oliveira do Hospital,39
+432,2014.0,Coimbra,Pampilhosa da Serra,7
+433,2014.0,Coimbra,Penacova,15
+434,2014.0,Coimbra,Penela,9
+435,2014.0,Coimbra,Soure,18
+436,2014.0,Coimbra,Tábua,11
+437,2014.0,Coimbra,Vila Nova de Poiares,4
+438,2014.0,Faro,Albufeira,34
+439,2014.0,Faro,Alcoutim,11
+440,2014.0,Faro,Aljezur,6
+441,2014.0,Faro,Castro Marim,15
+442,2014.0,Faro,Faro,32
+443,2014.0,Faro,Lagoa,16
+444,2014.0,Faro,Lagos,20
+445,2014.0,Faro,Loulé,63
+446,2014.0,Faro,Monchique,18
+447,2014.0,Faro,Olhão,22
+448,2014.0,Faro,Portimão,16
+449,2014.0,Faro,Silves,46
+450,2014.0,Faro,São Brás de Alportel,5
+451,2014.0,Faro,Tavira,27
+452,2014.0,Faro,Vila Real de Santo António,9
+453,2014.0,Faro,Vila do Bispo,5
+454,2014.0,Guarda,Aguiar da Beira,11
+455,2014.0,Guarda,Almeida,15
+456,2014.0,Guarda,Celorico Da Beira,3
+457,2014.0,Guarda,Celorico da Beira,13
+458,2014.0,Guarda,Figueira de Castelo Rodrigo,54
+459,2014.0,Guarda,Fornos de Algodres,12
+460,2014.0,Guarda,Gouveia,38
+461,2014.0,Guarda,Guarda,35
+462,2014.0,Guarda,Manteigas,1
+463,2014.0,Guarda,Mêda,39
+464,2014.0,Guarda,Pinhel,37
+465,2014.0,Guarda,Sabugal,34
+466,2014.0,Guarda,Seia,52
+467,2014.0,Guarda,Trancoso,46
+468,2014.0,Guarda,Vila Nova De Foz Côa,34
+469,2014.0,Leiria,Alcobaça,39
+470,2014.0,Leiria,Alvaiázere,15
+471,2014.0,Leiria,Ansião,12
+472,2014.0,Leiria,Batalha,4
+473,2014.0,Leiria,Bombarral,29
+474,2014.0,Leiria,Caldas Da Rainha,16
+475,2014.0,Leiria,Caldas da Rainha,33
+476,2014.0,Leiria,Castanheira De Pêra,4
+477,2014.0,Leiria,Castanheira de Pêra,6
+478,2014.0,Leiria,Figueiró dos Vinhos,13
+479,2014.0,Leiria,Leiria,46
+480,2014.0,Leiria,Marinha Grande,17
+481,2014.0,Leiria,Nazaré,7
+482,2014.0,Leiria,Pedrógão Grande,21
+483,2014.0,Leiria,Peniche,46
+484,2014.0,Leiria,Pombal,53
+485,2014.0,Leiria,Porto De Mós,4
+486,2014.0,Leiria,Porto de Mós,16
+487,2014.0,Leiria,Óbidos,63
+488,2014.0,Lisboa,Alenquer,77
+489,2014.0,Lisboa,Amadora,29
+490,2014.0,Lisboa,Arruda dos Vinhos,27
+491,2014.0,Lisboa,Azambuja,47
+492,2014.0,Lisboa,Cadaval,24
+493,2014.0,Lisboa,Cascais,63
+494,2014.0,Lisboa,Lisboa,135
+495,2014.0,Lisboa,Loures,75
+496,2014.0,Lisboa,Lourinhã,37
+497,2014.0,Lisboa,Mafra,29
+498,2014.0,Lisboa,ODIVELAS,17
+499,2014.0,Lisboa,Odivelas,47
+500,2014.0,Lisboa,Oeiras,47
+501,2014.0,Lisboa,Sintra,165
+502,2014.0,Lisboa,Sobral De Monte Agraço,4
+503,2014.0,Lisboa,Sobral de Monte Agraço,12
+504,2014.0,Lisboa,Torres Vedras,103
+505,2014.0,Lisboa,Vila Franca De Xira,12
+506,2014.0,Lisboa,Vila Franca de Xira,45
+507,2014.0,Portalegre,Alter do Chão,5
+508,2014.0,Portalegre,Arronches,10
+509,2014.0,Portalegre,Avis,9
+510,2014.0,Portalegre,Campo Maior,27
+511,2014.0,Portalegre,Castelo De Vide,1
+512,2014.0,Portalegre,Castelo de Vide,2
+513,2014.0,Portalegre,Crato,5
+514,2014.0,Portalegre,Elvas,57
+515,2014.0,Portalegre,Fronteira,4
+516,2014.0,Portalegre,Gavião,12
+517,2014.0,Portalegre,Marvão,10
+518,2014.0,Portalegre,Monforte,9
+519,2014.0,Portalegre,Nisa,17
+520,2014.0,Portalegre,Ponte De Sor,2
+521,2014.0,Portalegre,Ponte de Sor,11
+522,2014.0,Portalegre,Portalegre,20
+523,2014.0,Portalegre,Sousel,7
+524,2014.0,Porto,Amarante,111
+525,2014.0,Porto,Baião,44
+526,2014.0,Porto,Felgueiras,96
+527,2014.0,Porto,Gondomar,164
+528,2014.0,Porto,Lousada,80
+529,2014.0,Porto,Maia,50
+530,2014.0,Porto,Marco De Canaveses,37
+531,2014.0,Porto,Marco de Canaveses,59
+532,2014.0,Porto,Matosinhos,35
+533,2014.0,Porto,Paredes,160
+534,2014.0,Porto,Paços De Ferreira,2
+535,2014.0,Porto,Paços de Ferreira,44
+536,2014.0,Porto,Penafiel,186
+537,2014.0,Porto,Póvoa De Varzim,4
+538,2014.0,Porto,Póvoa de Varzim,22
+539,2014.0,Porto,Santo Tirso,80
+540,2014.0,Porto,TROFA,17
+541,2014.0,Porto,Trofa,19
+542,2014.0,Porto,Valongo,116
+543,2014.0,Porto,Vila Do Conde,39
+544,2014.0,Porto,Vila Nova De Gaia,66
+545,2014.0,Porto,Vila Nova de Gaia,47
+546,2014.0,Porto,Vila do Conde,25
+547,2014.0,Santarém,Abrantes,34
+548,2014.0,Santarém,Alcanena,26
+549,2014.0,Santarém,Almeirim,30
+550,2014.0,Santarém,Alpiarça,18
+551,2014.0,Santarém,Benavente,34
+552,2014.0,Santarém,Cartaxo,33
+553,2014.0,Santarém,Chamusca,15
+554,2014.0,Santarém,Constância,9
+555,2014.0,Santarém,Coruche,34
+556,2014.0,Santarém,Entroncamento,6
+557,2014.0,Santarém,Ferreira do Zêzere,6
+558,2014.0,Santarém,Golegã,4
+559,2014.0,Santarém,Mação,12
+560,2014.0,Santarém,Ourém,45
+561,2014.0,Santarém,Rio Maior,20
+562,2014.0,Santarém,Salvaterra De Magos,3
+563,2014.0,Santarém,Salvaterra de Magos,34
+564,2014.0,Santarém,Santarém,103
+565,2014.0,Santarém,Sardoal,5
+566,2014.0,Santarém,Tomar,79
+567,2014.0,Santarém,Torres Novas,38
+568,2014.0,Santarém,Vila Nova da Barquinha,10
+569,2014.0,Setúbal,Alcochete,16
+570,2014.0,Setúbal,Alcácer Do Sal,12
+571,2014.0,Setúbal,Alcácer do Sal,8
+572,2014.0,Setúbal,Almada,107
+573,2014.0,Setúbal,Barreiro,23
+574,2014.0,Setúbal,Grândola,24
+575,2014.0,Setúbal,Moita,60
+576,2014.0,Setúbal,Montijo,78
+577,2014.0,Setúbal,Palmela,73
+578,2014.0,Setúbal,Santiago do Cacém,28
+579,2014.0,Setúbal,Seixal,57
+580,2014.0,Setúbal,Sesimbra,26
+581,2014.0,Setúbal,Setúbal,45
+582,2014.0,Setúbal,Sines,11
+583,2014.0,Viana Do Castelo,Arcos De Valdevez,29
+584,2014.0,Viana Do Castelo,Caminha,12
+585,2014.0,Viana Do Castelo,Melgaço,1
+586,2014.0,Viana Do Castelo,Monção,12
+587,2014.0,Viana Do Castelo,Paredes De Coura,6
+588,2014.0,Viana Do Castelo,Ponte Da Barca,25
+589,2014.0,Viana Do Castelo,Ponte De Lima,32
+590,2014.0,Viana Do Castelo,Valença,12
+591,2014.0,Viana Do Castelo,Viana Do Castelo,24
+592,2014.0,Viana Do Castelo,Vila Nova De Cerveira,1
+593,2014.0,Viana do Castelo,Arcos de Valdevez,52
+594,2014.0,Viana do Castelo,Caminha,17
+595,2014.0,Viana do Castelo,Melgaço,3
+596,2014.0,Viana do Castelo,Monção,16
+597,2014.0,Viana do Castelo,Paredes de Coura,10
+598,2014.0,Viana do Castelo,Ponte da Barca,11
+599,2014.0,Viana do Castelo,Ponte de Lima,48
+600,2014.0,Viana do Castelo,Valença,16
+601,2014.0,Viana do Castelo,Viana do Castelo,52
+602,2014.0,Viana do Castelo,Vila Nova de Cerveira,3
+603,2014.0,Vila Real,Alijó,30
+604,2014.0,Vila Real,Boticas,38
+605,2014.0,Vila Real,Chaves,58
+606,2014.0,Vila Real,Mesão Frio,5
+607,2014.0,Vila Real,Mesão frio,1
+608,2014.0,Vila Real,Mondim De Basto,4
+609,2014.0,Vila Real,Mondim de Basto,9
+610,2014.0,Vila Real,Montalegre,92
+611,2014.0,Vila Real,Murça,15
+612,2014.0,Vila Real,Peso Da Régua,2
+613,2014.0,Vila Real,Peso da Régua,3
+614,2014.0,Vila Real,Ribeira De Pena,23
+615,2014.0,Vila Real,Ribeira de Pena,16
+616,2014.0,Vila Real,Sabrosa,17
+617,2014.0,Vila Real,Santa Marta De Penaguião,3
+618,2014.0,Vila Real,Santa Marta de Penaguião,6
+619,2014.0,Vila Real,Valpaços,85
+620,2014.0,Vila Real,Vila Pouca De Aguiar,3
+621,2014.0,Vila Real,Vila Pouca de Aguiar,63
+622,2014.0,Vila Real,Vila Real,31
+623,2014.0,Viseu,Armamar,11
+624,2014.0,Viseu,Carregal Do Sal,1
+625,2014.0,Viseu,Carregal do Sal,23
+626,2014.0,Viseu,Castro Daire,35
+627,2014.0,Viseu,Cinfães,73
+628,2014.0,Viseu,Lamego,37
+629,2014.0,Viseu,Mangualde,37
+630,2014.0,Viseu,Moimenta Da Beira,4
+631,2014.0,Viseu,Moimenta da Beira,17
+632,2014.0,Viseu,Mortágua,7
+633,2014.0,Viseu,Nelas,29
+634,2014.0,Viseu,Oliveira De Frades,7
+635,2014.0,Viseu,Oliveira de Frades,11
+636,2014.0,Viseu,Penalva do Castelo,4
+637,2014.0,Viseu,Penedono,14
+638,2014.0,Viseu,Resende,23
+639,2014.0,Viseu,Santa Comba Dão,10
+640,2014.0,Viseu,Sernancelhe,23
+641,2014.0,Viseu,Sátão,13
+642,2014.0,Viseu,São João Da Pesqueira,2
+643,2014.0,Viseu,São João da Pesqueira,30
+644,2014.0,Viseu,São Pedro Do Sul,6
+645,2014.0,Viseu,São Pedro do Sul,9
+646,2014.0,Viseu,Tabuaço,15
+647,2014.0,Viseu,Tarouca,10
+648,2014.0,Viseu,Tondela,39
+649,2014.0,Viseu,Vila Nova de Paiva,14
+650,2014.0,Viseu,Viseu,111
+651,2014.0,Viseu,Vouzela,12
+652,2014.0,Évora,Alandroal,14
+653,2014.0,Évora,Arraiolos,13
+654,2014.0,Évora,Borba,8
+655,2014.0,Évora,Estremoz,25
+656,2014.0,Évora,Montemor-o-Novo,13
+657,2014.0,Évora,Montemor-o-novo,1
+658,2014.0,Évora,Mora,9
+659,2014.0,Évora,Mourão,6
+660,2014.0,Évora,Portel,8
+661,2014.0,Évora,Redondo,6
+662,2014.0,Évora,Reguengos de Monsaraz,16
+663,2014.0,Évora,Vendas Novas,7
+664,2014.0,Évora,Viana do Alentejo,1
+665,2014.0,Évora,Vila Viçosa,5
+666,2014.0,Évora,Évora,47
+667,2015.0,Aveiro,Albergaria-a-Velha,63
+668,2015.0,Aveiro,Albergaria-a-velha,1
+669,2015.0,Aveiro,Anadia,37
+670,2015.0,Aveiro,Arouca,98
+671,2015.0,Aveiro,Aveiro,140
+672,2015.0,Aveiro,Castelo de Paiva,30
+673,2015.0,Aveiro,Espinho,55
+674,2015.0,Aveiro,Estarreja,62
+675,2015.0,Aveiro,Mealhada,30
+676,2015.0,Aveiro,Murtosa,12
+677,2015.0,Aveiro,Oliveira De Azeméis,16
+678,2015.0,Aveiro,Oliveira de Azeméis,97
+679,2015.0,Aveiro,Oliveira do Bairro,43
+680,2015.0,Aveiro,Ovar,60
+681,2015.0,Aveiro,Santa Maria Da Feira,20
+682,2015.0,Aveiro,Santa Maria da Feira,166
+683,2015.0,Aveiro,Sever do Vouga,69
+684,2015.0,Aveiro,São João da Madeira,10
+685,2015.0,Aveiro,Vagos,30
+686,2015.0,Aveiro,Vale de Cambra,44
+687,2015.0,Aveiro,Águeda,87
+688,2015.0,Aveiro,Ílhavo,52
+689,2015.0,Beja,Aljustrel,18
+690,2015.0,Beja,Almodôvar,7
+691,2015.0,Beja,Alvito,10
+692,2015.0,Beja,Barrancos,4
+693,2015.0,Beja,Beja,70
+694,2015.0,Beja,Castro Verde,6
+695,2015.0,Beja,Cuba,9
+696,2015.0,Beja,Ferreira do Alentejo,16
+697,2015.0,Beja,Moura,65
+698,2015.0,Beja,Mértola,20
+699,2015.0,Beja,Odemira,50
+700,2015.0,Beja,Ourique,11
+701,2015.0,Beja,Serpa,32
+702,2015.0,Beja,Vidigueira,20
+703,2015.0,Braga,Amares,52
+704,2015.0,Braga,Barcelos,111
+705,2015.0,Braga,Braga,166
+706,2015.0,Braga,Cabeceiras De Basto,10
+707,2015.0,Braga,Cabeceiras de Basto,110
+708,2015.0,Braga,Celorico De Basto,26
+709,2015.0,Braga,Celorico de Basto,190
+710,2015.0,Braga,Esposende,37
+711,2015.0,Braga,Fafe,191
+712,2015.0,Braga,Guimarães,316
+713,2015.0,Braga,Póvoa De Lanhoso,16
+714,2015.0,Braga,Póvoa de Lanhoso,199
+715,2015.0,Braga,Terras De Bouro,13
+716,2015.0,Braga,Terras de Bouro,73
+717,2015.0,Braga,VIZELA,35
+718,2015.0,Braga,Vieira Do Minho,14
+719,2015.0,Braga,Vieira do Minho,166
+720,2015.0,Braga,Vila Nova De Famalicão,20
+721,2015.0,Braga,Vila Nova de Famalicão,100
+722,2015.0,Braga,Vila Verde,195
+723,2015.0,Braga,Vizela,9
+724,2015.0,Bragança,Alfândega Da Fé,5
+725,2015.0,Bragança,Alfândega da Fé,16
+726,2015.0,Bragança,Bragança,94
+727,2015.0,Bragança,Carrazeda De Ansiães,3
+728,2015.0,Bragança,Carrazeda de Ansiães,34
+729,2015.0,Bragança,Freixo De Espada À Cinta,3
+730,2015.0,Bragança,Freixo de Espada à Cinta,92
+731,2015.0,Bragança,Macedo De Cavaleiros,12
+732,2015.0,Bragança,Macedo de Cavaleiros,49
+733,2015.0,Bragança,Miranda Do Douro,2
+734,2015.0,Bragança,Miranda do Douro,21
+735,2015.0,Bragança,Mirandela,79
+736,2015.0,Bragança,Mogadouro,34
+737,2015.0,Bragança,Torre De Moncorvo,10
+738,2015.0,Bragança,Torre de Moncorvo,65
+739,2015.0,Bragança,Vila FLor,23
+740,2015.0,Bragança,Vila Flor,4
+741,2015.0,Bragança,Vimioso,32
+742,2015.0,Bragança,Vinhais,108
+743,2015.0,Castelo Branco,Belmonte,23
+744,2015.0,Castelo Branco,Castelo Branco,132
+745,2015.0,Castelo Branco,Covilhã,113
+746,2015.0,Castelo Branco,Fundão,70
+747,2015.0,Castelo Branco,Idanha-a-Nova,56
+748,2015.0,Castelo Branco,Idanha-a-nova,5
+749,2015.0,Castelo Branco,Oleiros,12
+750,2015.0,Castelo Branco,Penamacor,32
+751,2015.0,Castelo Branco,Proença-a-Nova,15
+752,2015.0,Castelo Branco,Sertã,47
+753,2015.0,Castelo Branco,Vila Velha De Ródão,1
+754,2015.0,Castelo Branco,Vila Velha de Ródão,32
+755,2015.0,Castelo Branco,Vila de Rei,6
+756,2015.0,Coimbra,Arganil,48
+757,2015.0,Coimbra,Cantanhede,38
+758,2015.0,Coimbra,Coimbra,111
+759,2015.0,Coimbra,Condeixa-a-Nova,28
+760,2015.0,Coimbra,Figueira Da Foz,1
+761,2015.0,Coimbra,Figueira da Foz,47
+762,2015.0,Coimbra,Góis,15
+763,2015.0,Coimbra,Lousã,17
+764,2015.0,Coimbra,Mira,18
+765,2015.0,Coimbra,Miranda do Corvo,33
+766,2015.0,Coimbra,Montemor-o-Velho,32
+767,2015.0,Coimbra,Montemor-o-velho,1
+768,2015.0,Coimbra,Oliveira Do Hospital,6
+769,2015.0,Coimbra,Oliveira do Hospital,72
+770,2015.0,Coimbra,Pampilhosa da Serra,11
+771,2015.0,Coimbra,Penacova,28
+772,2015.0,Coimbra,Penela,20
+773,2015.0,Coimbra,Soure,31
+774,2015.0,Coimbra,Tábua,43
+775,2015.0,Coimbra,Vila Nova de Poiares,14
+776,2015.0,Faro,Albufeira,31
+777,2015.0,Faro,Alcoutim,12
+778,2015.0,Faro,Aljezur,12
+779,2015.0,Faro,Castro Marim,15
+780,2015.0,Faro,Faro,44
+781,2015.0,Faro,Lagoa,15
+782,2015.0,Faro,Lagos,15
+783,2015.0,Faro,Loulé,75
+784,2015.0,Faro,Monchique,16
+785,2015.0,Faro,Olhão,34
+786,2015.0,Faro,Portimão,18
+787,2015.0,Faro,Silves,55
+788,2015.0,Faro,São Brás de Alportel,11
+789,2015.0,Faro,Tavira,34
+790,2015.0,Faro,Vila Real de Santo António,6
+791,2015.0,Faro,Vila do Bispo,12
+792,2015.0,Guarda,Aguiar da Beira,8
+793,2015.0,Guarda,Almeida,35
+794,2015.0,Guarda,Celorico da Beira,25
+795,2015.0,Guarda,Figueira de Castelo Rodrigo,53
+796,2015.0,Guarda,Fornos de Algodres,3
+797,2015.0,Guarda,Gouveia,63
+798,2015.0,Guarda,Guarda,58
+799,2015.0,Guarda,Manteigas,3
+800,2015.0,Guarda,Mêda,46
+801,2015.0,Guarda,Pinhel,30
+802,2015.0,Guarda,Sabugal,70
+803,2015.0,Guarda,Seia,67
+804,2015.0,Guarda,Trancoso,40
+805,2015.0,Guarda,Vila Nova De Foz Côa,8
+806,2015.0,Guarda,Vila Nova de Foz Côa,47
+807,2015.0,Leiria,Alcobaça,109
+808,2015.0,Leiria,Alvaiázere,18
+809,2015.0,Leiria,Ansião,33
+810,2015.0,Leiria,Batalha,18
+811,2015.0,Leiria,Bombarral,34
+812,2015.0,Leiria,Caldas Da Rainha,2
+813,2015.0,Leiria,Caldas da Rainha,131
+814,2015.0,Leiria,Castanheira de Pêra,8
+815,2015.0,Leiria,Figueiró dos Vinhos,12
+816,2015.0,Leiria,Leiria,129
+817,2015.0,Leiria,Marinha Grande,24
+818,2015.0,Leiria,Nazaré,18
+819,2015.0,Leiria,Pedrógão Grande,51
+820,2015.0,Leiria,Peniche,42
+821,2015.0,Leiria,Pombal,104
+822,2015.0,Leiria,Porto De Mós,3
+823,2015.0,Leiria,Porto de Mós,57
+824,2015.0,Leiria,Óbidos,63
+825,2015.0,Lisboa,Alenquer,159
+826,2015.0,Lisboa,Amadora,87
+827,2015.0,Lisboa,Arruda dos Vinhos,67
+828,2015.0,Lisboa,Azambuja,94
+829,2015.0,Lisboa,Cadaval,53
+830,2015.0,Lisboa,Cascais,81
+831,2015.0,Lisboa,Lisboa,78
+832,2015.0,Lisboa,Loures,157
+833,2015.0,Lisboa,Lourinhã,86
+834,2015.0,Lisboa,Mafra,95
+835,2015.0,Lisboa,ODIVELAS,92
+836,2015.0,Lisboa,Odivelas,7
+837,2015.0,Lisboa,Oeiras,44
+838,2015.0,Lisboa,Sintra,266
+839,2015.0,Lisboa,Sobral De Monte Agraço,7
+840,2015.0,Lisboa,Sobral de Monte Agraço,46
+841,2015.0,Lisboa,Torres Vedras,176
+842,2015.0,Lisboa,Vila Franca De Xira,4
+843,2015.0,Lisboa,Vila Franca de Xira,77
+844,2015.0,Portalegre,Alter do Chão,11
+845,2015.0,Portalegre,Arronches,15
+846,2015.0,Portalegre,Avis,14
+847,2015.0,Portalegre,Campo Maior,34
+848,2015.0,Portalegre,Castelo De Vide,2
+849,2015.0,Portalegre,Castelo de Vide,6
+850,2015.0,Portalegre,Crato,8
+851,2015.0,Portalegre,Elvas,82
+852,2015.0,Portalegre,Fronteira,6
+853,2015.0,Portalegre,Gavião,10
+854,2015.0,Portalegre,Marvão,18
+855,2015.0,Portalegre,Monforte,7
+856,2015.0,Portalegre,Nisa,21
+857,2015.0,Portalegre,Ponte De Sor,1
+858,2015.0,Portalegre,Ponte de Sor,42
+859,2015.0,Portalegre,Portalegre,29
+860,2015.0,Portalegre,Sousel,10
+861,2015.0,Porto,Amarante,323
+862,2015.0,Porto,Baião,136
+863,2015.0,Porto,Felgueiras,310
+864,2015.0,Porto,Gondomar,348
+865,2015.0,Porto,Lousada,239
+866,2015.0,Porto,Maia,215
+867,2015.0,Porto,Marco De Canaveses,17
+868,2015.0,Porto,Marco de Canaveses,231
+869,2015.0,Porto,Matosinhos,94
+870,2015.0,Porto,Paredes,401
+871,2015.0,Porto,Paços De Ferreira,1
+872,2015.0,Porto,Paços de Ferreira,219
+873,2015.0,Porto,Penafiel,444
+874,2015.0,Porto,Porto,1
+875,2015.0,Porto,Póvoa De Varzim,1
+876,2015.0,Porto,Póvoa de Varzim,64
+877,2015.0,Porto,Santo Tirso,302
+878,2015.0,Porto,TROFA,54
+879,2015.0,Porto,Trofa,41
+880,2015.0,Porto,Valongo,131
+881,2015.0,Porto,Vila Do Conde,3
+882,2015.0,Porto,Vila Nova De Gaia,24
+883,2015.0,Porto,Vila Nova de Gaia,262
+884,2015.0,Porto,Vila do Conde,133
+885,2015.0,Santarém,Abrantes,80
+886,2015.0,Santarém,Alcanena,62
+887,2015.0,Santarém,Almeirim,34
+888,2015.0,Santarém,Alpiarça,30
+889,2015.0,Santarém,Benavente,80
+890,2015.0,Santarém,Cartaxo,42
+891,2015.0,Santarém,Chamusca,27
+892,2015.0,Santarém,Constância,20
+893,2015.0,Santarém,Coruche,67
+894,2015.0,Santarém,Entroncamento,19
+895,2015.0,Santarém,Ferreira do Zêzere,13
+896,2015.0,Santarém,Golegã,11
+897,2015.0,Santarém,Mação,25
+898,2015.0,Santarém,Ourém,78
+899,2015.0,Santarém,Rio Maior,61
+900,2015.0,Santarém,Salvaterra De Magos,1
+901,2015.0,Santarém,Salvaterra de Magos,56
+902,2015.0,Santarém,Santarém,162
+903,2015.0,Santarém,Sardoal,8
+904,2015.0,Santarém,Tomar,111
+905,2015.0,Santarém,Torres Novas,60
+906,2015.0,Santarém,Vila Nova da Barquinha,12
+907,2015.0,Setúbal,Alcochete,30
+908,2015.0,Setúbal,Alcácer Do Sal,4
+909,2015.0,Setúbal,Alcácer do Sal,32
+910,2015.0,Setúbal,Almada,165
+911,2015.0,Setúbal,Barreiro,67
+912,2015.0,Setúbal,Grândola,65
+913,2015.0,Setúbal,Moita,99
+914,2015.0,Setúbal,Montijo,111
+915,2015.0,Setúbal,Palmela,151
+916,2015.0,Setúbal,Santiago do Cacém,37
+917,2015.0,Setúbal,Seixal,129
+918,2015.0,Setúbal,Sesimbra,29
+919,2015.0,Setúbal,Setúbal,87
+920,2015.0,Setúbal,Sines,17
+921,2015.0,Viana Do Castelo,Arcos De Valdevez,35
+922,2015.0,Viana Do Castelo,Caminha,6
+923,2015.0,Viana Do Castelo,Monção,8
+924,2015.0,Viana Do Castelo,Paredes De Coura,17
+925,2015.0,Viana Do Castelo,Ponte Da Barca,41
+926,2015.0,Viana Do Castelo,Ponte De Lima,27
+927,2015.0,Viana Do Castelo,Valença,5
+928,2015.0,Viana Do Castelo,Viana Do Castelo,29
+929,2015.0,Viana Do Castelo,Vila Nova De Cerveira,2
+930,2015.0,Viana do Castelo,Arcos de Valdevez,267
+931,2015.0,Viana do Castelo,Caminha,88
+932,2015.0,Viana do Castelo,Melgaço,17
+933,2015.0,Viana do Castelo,Monção,87
+934,2015.0,Viana do Castelo,Paredes de Coura,45
+935,2015.0,Viana do Castelo,Ponte da Barca,132
+936,2015.0,Viana do Castelo,Ponte de Lima,240
+937,2015.0,Viana do Castelo,Valença,52
+938,2015.0,Viana do Castelo,Viana do Castelo,192
+939,2015.0,Viana do Castelo,Vila Nova de Cerveira,31
+940,2015.0,Vila Real,Alijó,64
+941,2015.0,Vila Real,Boticas,98
+942,2015.0,Vila Real,Chaves,181
+943,2015.0,Vila Real,Mesão frio,10
+944,2015.0,Vila Real,Mondim de Basto,31
+945,2015.0,Vila Real,Montalegre,321
+946,2015.0,Vila Real,Murça,40
+947,2015.0,Vila Real,Peso da Régua,34
+948,2015.0,Vila Real,Ribeira De Pena,3
+949,2015.0,Vila Real,Ribeira de Pena,85
+950,2015.0,Vila Real,Sabrosa,24
+951,2015.0,Vila Real,Santa Marta De Penaguião,6
+952,2015.0,Vila Real,Santa Marta de Penaguião,16
+953,2015.0,Vila Real,Valpaços,175
+954,2015.0,Vila Real,Vila Pouca De Aguiar,8
+955,2015.0,Vila Real,Vila Pouca de Aguiar,106
+956,2015.0,Vila Real,Vila Real,114
+957,2015.0,Viseu,Armamar,20
+958,2015.0,Viseu,Carregal Do Sal,2
+959,2015.0,Viseu,Carregal do Sal,15
+960,2015.0,Viseu,Castro Daire,109
+961,2015.0,Viseu,Cinfães,297
+962,2015.0,Viseu,Lamego,68
+963,2015.0,Viseu,Mangualde,72
+964,2015.0,Viseu,Moimenta Da Beira,4
+965,2015.0,Viseu,Moimenta da Beira,41
+966,2015.0,Viseu,Mortágua,8
+967,2015.0,Viseu,Nelas,41
+968,2015.0,Viseu,Oliveira De Frades,1
+969,2015.0,Viseu,Oliveira de Frades,55
+970,2015.0,Viseu,Penalva Do Castelo,1
+971,2015.0,Viseu,Penalva do Castelo,13
+972,2015.0,Viseu,Penedono,15
+973,2015.0,Viseu,Resende,131
+974,2015.0,Viseu,Santa Comba Dão,14
+975,2015.0,Viseu,Sernancelhe,42
+976,2015.0,Viseu,Sátão,19
+977,2015.0,Viseu,São João da Pesqueira,44
+978,2015.0,Viseu,São Pedro Do Sul,5
+979,2015.0,Viseu,São Pedro do Sul,31
+980,2015.0,Viseu,Tabuaço,14
+981,2015.0,Viseu,Tarouca,38
+982,2015.0,Viseu,Tondela,68
+983,2015.0,Viseu,Vila Nova de Paiva,54
+984,2015.0,Viseu,Viseu,175
+985,2015.0,Viseu,Vouzela,21
+986,2015.0,Évora,Alandroal,13
+987,2015.0,Évora,Arraiolos,18
+988,2015.0,Évora,Borba,10
+989,2015.0,Évora,Estremoz,24
+990,2015.0,Évora,Montemor-o-Novo,25
+991,2015.0,Évora,Mora,12
+992,2015.0,Évora,Mourão,10
+993,2015.0,Évora,Portel,18
+994,2015.0,Évora,Redondo,14
+995,2015.0,Évora,Reguengos de Monsaraz,22
+996,2015.0,Évora,Vendas Novas,19
+997,2015.0,Évora,Viana do Alentejo,4
+998,2015.0,Évora,Vila Viçosa,5
+999,2015.0,Évora,Évora,56
+1000,2016.0,Aveiro,Albergaria-a-Velha,5
+1001,2016.0,Aveiro,Albergaria-a-velha,59
+1002,2016.0,Aveiro,Anadia,35
+1003,2016.0,Aveiro,Arouca,58
+1004,2016.0,Aveiro,Aveiro,94
+1005,2016.0,Aveiro,Castelo De Paiva,1
+1006,2016.0,Aveiro,Castelo de Paiva,32
+1007,2016.0,Aveiro,Espinho,26
+1008,2016.0,Aveiro,Estarreja,37
+1009,2016.0,Aveiro,Mealhada,26
+1010,2016.0,Aveiro,Murtosa,6
+1011,2016.0,Aveiro,Oliveira De Azeméis,3
+1012,2016.0,Aveiro,Oliveira Do Bairro,1
+1013,2016.0,Aveiro,Oliveira de Azeméis,60
+1014,2016.0,Aveiro,Oliveira do Bairro,48
+1015,2016.0,Aveiro,Ovar,63
+1016,2016.0,Aveiro,Santa Maria Da Feira,9
+1017,2016.0,Aveiro,Santa Maria da Feira,109
+1018,2016.0,Aveiro,Sever Do Vouga,5
+1019,2016.0,Aveiro,Sever do Vouga,47
+1020,2016.0,Aveiro,São João da Madeira,2
+1021,2016.0,Aveiro,Vagos,30
+1022,2016.0,Aveiro,Vale De Cambra,1
+1023,2016.0,Aveiro,Vale de Cambra,30
+1024,2016.0,Aveiro,Águeda,83
+1025,2016.0,Aveiro,Ílhavo,28
+1026,2016.0,Beja,Aljustrel,12
+1027,2016.0,Beja,Almodôvar,11
+1028,2016.0,Beja,Alvito,8
+1029,2016.0,Beja,Barrancos,1
+1030,2016.0,Beja,Beja,57
+1031,2016.0,Beja,Castro Verde,6
+1032,2016.0,Beja,Cuba,10
+1033,2016.0,Beja,Ferreira do Alentejo,8
+1034,2016.0,Beja,Moura,25
+1035,2016.0,Beja,Mértola,11
+1036,2016.0,Beja,Odemira,39
+1037,2016.0,Beja,Ourique,8
+1038,2016.0,Beja,Serpa,23
+1039,2016.0,Beja,Vidigueira,23
+1040,2016.0,Braga,Amares,50
+1041,2016.0,Braga,Barcelos,122
+1042,2016.0,Braga,Braga,135
+1043,2016.0,Braga,Cabeceiras De Basto,1
+1044,2016.0,Braga,Cabeceiras de Basto,115
+1045,2016.0,Braga,Celorico de Basto,172
+1046,2016.0,Braga,Esposende,21
+1047,2016.0,Braga,Fafe,187
+1048,2016.0,Braga,Guimarães,240
+1049,2016.0,Braga,Póvoa De Lanhoso,4
+1050,2016.0,Braga,Póvoa de Lanhoso,191
+1051,2016.0,Braga,Terras de Bouro,59
+1052,2016.0,Braga,VIZELA,11
+1053,2016.0,Braga,Vieira do Minho,92
+1054,2016.0,Braga,Vila Nova De Famalicão,1
+1055,2016.0,Braga,Vila Nova de Famalicão,167
+1056,2016.0,Braga,Vila Verde,182
+1057,2016.0,Braga,Vizela,9
+1058,2016.0,Bragança,Alfândega Da Fé,2
+1059,2016.0,Bragança,Alfândega da Fé,10
+1060,2016.0,Bragança,Bragança,68
+1061,2016.0,Bragança,Carrazeda De Ansiães,1
+1062,2016.0,Bragança,Carrazeda de Ansiães,27
+1063,2016.0,Bragança,Freixo De Espada À Cinta,8
+1064,2016.0,Bragança,Freixo de Espada À Cinta,54
+1065,2016.0,Bragança,Freixo de Espada à Cinta,2
+1066,2016.0,Bragança,Macedo De Cavaleiros,2
+1067,2016.0,Bragança,Macedo de Cavaleiros,17
+1068,2016.0,Bragança,Miranda Do Douro,1
+1069,2016.0,Bragança,Miranda do Douro,19
+1070,2016.0,Bragança,Mirandela,53
+1071,2016.0,Bragança,Mogadouro,33
+1072,2016.0,Bragança,Torre De Moncorvo,1
+1073,2016.0,Bragança,Torre de Moncorvo,52
+1074,2016.0,Bragança,Vila FLor,4
+1075,2016.0,Bragança,Vila Flor,17
+1076,2016.0,Bragança,Vimioso,18
+1077,2016.0,Bragança,Vinhais,60
+1078,2016.0,Castelo Branco,Belmonte,5
+1079,2016.0,Castelo Branco,Castelo Branco,96
+1080,2016.0,Castelo Branco,Covilhã,64
+1081,2016.0,Castelo Branco,Fundão,42
+1082,2016.0,Castelo Branco,Idanha-a-Nova,1
+1083,2016.0,Castelo Branco,Idanha-a-nova,32
+1084,2016.0,Castelo Branco,Oleiros,8
+1085,2016.0,Castelo Branco,Penamacor,12
+1086,2016.0,Castelo Branco,Proença-a-nova,20
+1087,2016.0,Castelo Branco,Sertã,57
+1088,2016.0,Castelo Branco,Vila Velha De Ródão,8
+1089,2016.0,Castelo Branco,Vila Velha de Ródão,43
+1090,2016.0,Castelo Branco,Vila de Rei,2
+1091,2016.0,Coimbra,Arganil,23
+1092,2016.0,Coimbra,Cantanhede,37
+1093,2016.0,Coimbra,Coimbra,72
+1094,2016.0,Coimbra,Condeixa-a-nova,16
+1095,2016.0,Coimbra,Figueira Da Foz,2
+1096,2016.0,Coimbra,Figueira da Foz,31
+1097,2016.0,Coimbra,Góis,23
+1098,2016.0,Coimbra,Lousã,18
+1099,2016.0,Coimbra,Mira,26
+1100,2016.0,Coimbra,Miranda Do Corvo,1
+1101,2016.0,Coimbra,Miranda do Corvo,25
+1102,2016.0,Coimbra,Montemor-o-Velho,1
+1103,2016.0,Coimbra,Montemor-o-velho,33
+1104,2016.0,Coimbra,Oliveira Do Hospital,9
+1105,2016.0,Coimbra,Oliveira do Hospital,38
+1106,2016.0,Coimbra,Pampilhosa da Serra,5
+1107,2016.0,Coimbra,Penacova,16
+1108,2016.0,Coimbra,Penela,21
+1109,2016.0,Coimbra,Soure,30
+1110,2016.0,Coimbra,Tábua,16
+1111,2016.0,Coimbra,Vila Nova De Poiares,1
+1112,2016.0,Coimbra,Vila Nova de Poiares,12
+1113,2016.0,Faro,Albufeira,20
+1114,2016.0,Faro,Alcoutim,2
+1115,2016.0,Faro,Aljezur,12
+1116,2016.0,Faro,Castro Marim,10
+1117,2016.0,Faro,Faro,16
+1118,2016.0,Faro,Lagoa,21
+1119,2016.0,Faro,Lagos,13
+1120,2016.0,Faro,Loulé,40
+1121,2016.0,Faro,Monchique,12
+1122,2016.0,Faro,Olhão,23
+1123,2016.0,Faro,Portimão,22
+1124,2016.0,Faro,Silves,43
+1125,2016.0,Faro,São Brás de Alportel,8
+1126,2016.0,Faro,Tavira,19
+1127,2016.0,Faro,Vila Real de Santo António,9
+1128,2016.0,Faro,Vila do Bispo,4
+1129,2016.0,Guarda,Aguiar da Beira,17
+1130,2016.0,Guarda,Almeida,28
+1131,2016.0,Guarda,Celorico da Beira,26
+1132,2016.0,Guarda,Figueira de Castelo Rodrigo,33
+1133,2016.0,Guarda,Fornos de Algodres,21
+1134,2016.0,Guarda,Gouveia,31
+1135,2016.0,Guarda,Guarda,50
+1136,2016.0,Guarda,Manteigas,4
+1137,2016.0,Guarda,Mêda,30
+1138,2016.0,Guarda,Pinhel,31
+1139,2016.0,Guarda,Sabugal,35
+1140,2016.0,Guarda,Seia,54
+1141,2016.0,Guarda,Trancoso,35
+1142,2016.0,Guarda,Vila Nova De Foz Côa,1
+1143,2016.0,Guarda,Vila Nova de Foz Côa,43
+1144,2016.0,Leiria,Alcobaça,57
+1145,2016.0,Leiria,Alvaiázere,20
+1146,2016.0,Leiria,Ansião,18
+1147,2016.0,Leiria,Batalha,7
+1148,2016.0,Leiria,Bombarral,28
+1149,2016.0,Leiria,Caldas Da Rainha,3
+1150,2016.0,Leiria,Caldas da Rainha,51
+1151,2016.0,Leiria,Castanheira de Pêra,15
+1152,2016.0,Leiria,Figueiró Dos Vinhos,22
+1153,2016.0,Leiria,Figueiró dos Vinhos,1
+1154,2016.0,Leiria,Leiria,86
+1155,2016.0,Leiria,Marinha Grande,30
+1156,2016.0,Leiria,Nazaré,20
+1157,2016.0,Leiria,Pedrógão Grande,25
+1158,2016.0,Leiria,Peniche,34
+1159,2016.0,Leiria,Pombal,72
+1160,2016.0,Leiria,Porto de Mós,25
+1161,2016.0,Leiria,Óbidos,70
+1162,2016.0,Lisboa,Alenquer,143
+1163,2016.0,Lisboa,Amadora,55
+1164,2016.0,Lisboa,Arruda Dos Vinhos,50
+1165,2016.0,Lisboa,Azambuja,81
+1166,2016.0,Lisboa,Cadaval,25
+1167,2016.0,Lisboa,Cascais,65
+1168,2016.0,Lisboa,Lisboa,27
+1169,2016.0,Lisboa,Loures,48
+1170,2016.0,Lisboa,Lourinhã,40
+1171,2016.0,Lisboa,Mafra,68
+1172,2016.0,Lisboa,Odivelas,8
+1173,2016.0,Lisboa,Oeiras,22
+1174,2016.0,Lisboa,Sintra,215
+1175,2016.0,Lisboa,Sobral De Monte Agraço,5
+1176,2016.0,Lisboa,Sobral de Monte Agraço,47
+1177,2016.0,Lisboa,Torres Vedras,155
+1178,2016.0,Lisboa,Vila Franca De Xira,2
+1179,2016.0,Lisboa,Vila Franca de Xira,24
+1180,2016.0,Portalegre,Alter Do Chão,1
+1181,2016.0,Portalegre,Alter do Chão,13
+1182,2016.0,Portalegre,Arronches,3
+1183,2016.0,Portalegre,Avis,10
+1184,2016.0,Portalegre,Campo Maior,36
+1185,2016.0,Portalegre,Castelo de Vide,4
+1186,2016.0,Portalegre,Crato,8
+1187,2016.0,Portalegre,Elvas,63
+1188,2016.0,Portalegre,Fronteira,5
+1189,2016.0,Portalegre,Gavião,10
+1190,2016.0,Portalegre,Marvão,9
+1191,2016.0,Portalegre,Monforte,7
+1192,2016.0,Portalegre,Nisa,13
+1193,2016.0,Portalegre,Ponte De Sor,4
+1194,2016.0,Portalegre,Ponte de Sor,22
+1195,2016.0,Portalegre,Portalegre,19
+1196,2016.0,Portalegre,Sousel,10
+1197,2016.0,Porto,Amarante,273
+1198,2016.0,Porto,Baião,140
+1199,2016.0,Porto,Felgueiras,365
+1200,2016.0,Porto,Gondomar,253
+1201,2016.0,Porto,Lousada,327
+1202,2016.0,Porto,Maia,146
+1203,2016.0,Porto,Marco De Canaveses,1
+1204,2016.0,Porto,Marco de Canaveses,264
+1205,2016.0,Porto,Matosinhos,60
+1206,2016.0,Porto,Paredes,637
+1207,2016.0,Porto,Paços De Ferreira,5
+1208,2016.0,Porto,Paços de Ferreira,234
+1209,2016.0,Porto,Penafiel,543
+1210,2016.0,Porto,Póvoa De Varzim,1
+1211,2016.0,Porto,Póvoa de Varzim,38
+1212,2016.0,Porto,Santo Tirso,267
+1213,2016.0,Porto,Trofa,118
+1214,2016.0,Porto,Valongo,200
+1215,2016.0,Porto,Vila Do Conde,16
+1216,2016.0,Porto,Vila Nova De Gaia,1
+1217,2016.0,Porto,Vila Nova de Gaia,277
+1218,2016.0,Porto,Vila do Conde,119
+1219,2016.0,Santarém,Abrantes,72
+1220,2016.0,Santarém,Alcanena,39
+1221,2016.0,Santarém,Almeirim,17
+1222,2016.0,Santarém,Alpiarça,31
+1223,2016.0,Santarém,Benavente,66
+1224,2016.0,Santarém,Cartaxo,44
+1225,2016.0,Santarém,Chamusca,15
+1226,2016.0,Santarém,Constância,19
+1227,2016.0,Santarém,Coruche,51
+1228,2016.0,Santarém,Entroncamento,12
+1229,2016.0,Santarém,Ferreira do Zêzere,10
+1230,2016.0,Santarém,Golegã,2
+1231,2016.0,Santarém,Mação,17
+1232,2016.0,Santarém,Ourém,76
+1233,2016.0,Santarém,Rio Maior,39
+1234,2016.0,Santarém,Salvaterra de Magos,33
+1235,2016.0,Santarém,Santarém,111
+1236,2016.0,Santarém,Sardoal,10
+1237,2016.0,Santarém,Tomar,88
+1238,2016.0,Santarém,Torres Novas,30
+1239,2016.0,Santarém,Vila Nova da Barquinha,8
+1240,2016.0,Setúbal,Alcochete,18
+1241,2016.0,Setúbal,Alcácer Do Sal,5
+1242,2016.0,Setúbal,Alcácer do Sal,24
+1243,2016.0,Setúbal,Almada,109
+1244,2016.0,Setúbal,Barreiro,50
+1245,2016.0,Setúbal,Grândola,44
+1246,2016.0,Setúbal,Moita,88
+1247,2016.0,Setúbal,Montijo,67
+1248,2016.0,Setúbal,Palmela,148
+1249,2016.0,Setúbal,Santiago do Cacém,54
+1250,2016.0,Setúbal,Seixal,99
+1251,2016.0,Setúbal,Sesimbra,22
+1252,2016.0,Setúbal,Setúbal,56
+1253,2016.0,Setúbal,Sines,20
+1254,2016.0,Viana Do Castelo,Arcos De Valdevez,2
+1255,2016.0,Viana Do Castelo,Caminha,5
+1256,2016.0,Viana Do Castelo,Melgaço,1
+1257,2016.0,Viana Do Castelo,Monção,12
+1258,2016.0,Viana Do Castelo,Paredes De Coura,2
+1259,2016.0,Viana Do Castelo,Ponte De Lima,6
+1260,2016.0,Viana Do Castelo,Valença,13
+1261,2016.0,Viana Do Castelo,Viana Do Castelo,16
+1262,2016.0,Viana Do Castelo,Vila Nova De Cerveira,3
+1263,2016.0,Viana do Castelo,Arcos de Valdevez,223
+1264,2016.0,Viana do Castelo,Caminha,43
+1265,2016.0,Viana do Castelo,Melgaço,26
+1266,2016.0,Viana do Castelo,Monção,75
+1267,2016.0,Viana do Castelo,Paredes de Coura,94
+1268,2016.0,Viana do Castelo,Ponte da Barca,139
+1269,2016.0,Viana do Castelo,Ponte de Lima,237
+1270,2016.0,Viana do Castelo,Valença,64
+1271,2016.0,Viana do Castelo,Viana do Castelo,133
+1272,2016.0,Viana do Castelo,Vila Nova de Cerveira,15
+1273,2016.0,Vila Real,Alijó,22
+1274,2016.0,Vila Real,Boticas,93
+1275,2016.0,Vila Real,Chaves,106
+1276,2016.0,Vila Real,Mesão Frio,21
+1277,2016.0,Vila Real,Mondim De Basto,7
+1278,2016.0,Vila Real,Mondim de Basto,19
+1279,2016.0,Vila Real,Montalegre,292
+1280,2016.0,Vila Real,Murça,31
+1281,2016.0,Vila Real,Peso Da Régua,1
+1282,2016.0,Vila Real,Peso da Régua,20
+1283,2016.0,Vila Real,Ribeira De Pena,2
+1284,2016.0,Vila Real,Ribeira de Pena,38
+1285,2016.0,Vila Real,Sabrosa,14
+1286,2016.0,Vila Real,Santa Marta de Penaguião,24
+1287,2016.0,Vila Real,Valpaços,107
+1288,2016.0,Vila Real,Vila Pouca De Aguiar,6
+1289,2016.0,Vila Real,Vila Pouca de Aguiar,82
+1290,2016.0,Vila Real,Vila Real,87
+1291,2016.0,Viseu,Armamar,13
+1292,2016.0,Viseu,Carregal Do Sal,1
+1293,2016.0,Viseu,Carregal do Sal,28
+1294,2016.0,Viseu,Castro Daire,123
+1295,2016.0,Viseu,Cinfães,247
+1296,2016.0,Viseu,Lamego,89
+1297,2016.0,Viseu,Mangualde,31
+1298,2016.0,Viseu,Moimenta Da Beira,2
+1299,2016.0,Viseu,Moimenta da Beira,28
+1300,2016.0,Viseu,Mortágua,5
+1301,2016.0,Viseu,Nelas,27
+1302,2016.0,Viseu,Oliveira De Frades,2
+1303,2016.0,Viseu,Oliveira de Frades,34
+1304,2016.0,Viseu,Penalva Do Castelo,2
+1305,2016.0,Viseu,Penalva do Castelo,8
+1306,2016.0,Viseu,Penedono,9
+1307,2016.0,Viseu,Resende,95
+1308,2016.0,Viseu,Santa Comba Dão,20
+1309,2016.0,Viseu,Sernancelhe,23
+1310,2016.0,Viseu,Sátão,15
+1311,2016.0,Viseu,São João Da Pesqueira,1
+1312,2016.0,Viseu,São João da Pesqueira,28
+1313,2016.0,Viseu,São Pedro Do Sul,2
+1314,2016.0,Viseu,São Pedro do Sul,16
+1315,2016.0,Viseu,Tabuaço,5
+1316,2016.0,Viseu,Tarouca,32
+1317,2016.0,Viseu,Tondela,46
+1318,2016.0,Viseu,Vila Nova De Paiva,2
+1319,2016.0,Viseu,Vila Nova de Paiva,29
+1320,2016.0,Viseu,Viseu,160
+1321,2016.0,Viseu,Vouzela,11
+1322,2016.0,Évora,Alandroal,9
+1323,2016.0,Évora,Arraiolos,14
+1324,2016.0,Évora,Borba,8
+1325,2016.0,Évora,Estremoz,35
+1326,2016.0,Évora,Montemor-o-Novo,13
+1327,2016.0,Évora,Montemor-o-novo,9
+1328,2016.0,Évora,Mora,9
+1329,2016.0,Évora,Mourão,3
+1330,2016.0,Évora,Portel,9
+1331,2016.0,Évora,Redondo,15
+1332,2016.0,Évora,Reguengos De Monsaraz,2
+1333,2016.0,Évora,Reguengos de Monsaraz,22
+1334,2016.0,Évora,Vendas Novas,10
+1335,2016.0,Évora,Viana do Alentejo,7
+1336,2016.0,Évora,Vila Viçosa,6
+1337,2016.0,Évora,Évora,31
+1338,2017.0,Aveiro,Albergaria-a-Velha,2
+1339,2017.0,Aveiro,Albergaria-a-velha,86
+1340,2017.0,Aveiro,Anadia,47
+1341,2017.0,Aveiro,Arouca,120
+1342,2017.0,Aveiro,Aveiro,183
+1343,2017.0,Aveiro,Castelo de Paiva,96
+1344,2017.0,Aveiro,Espinho,33
+1345,2017.0,Aveiro,Estarreja,95
+1346,2017.0,Aveiro,Mealhada,46
+1347,2017.0,Aveiro,Murtosa,40
+1348,2017.0,Aveiro,Oliveira de Azeméis,143
+1349,2017.0,Aveiro,Oliveira do Bairro,104
+1350,2017.0,Aveiro,Ovar,42
+1351,2017.0,Aveiro,Santa Maria da Feira,280
+1352,2017.0,Aveiro,Sever do Vouga,56
+1353,2017.0,Aveiro,São João da Madeira,12
+1354,2017.0,Aveiro,Vagos,66
+1355,2017.0,Aveiro,Vale de Cambra,55
+1356,2017.0,Aveiro,Águeda,121
+1357,2017.0,Aveiro,Ílhavo,34
+1358,2017.0,Beja,Aljustrel,27
+1359,2017.0,Beja,Almodôvar,15
+1360,2017.0,Beja,Alvito,3
+1361,2017.0,Beja,Barrancos,2
+1362,2017.0,Beja,Beja,64
+1363,2017.0,Beja,Castro Verde,15
+1364,2017.0,Beja,Cuba,12
+1365,2017.0,Beja,Ferreira do Alentejo,24
+1366,2017.0,Beja,Moura,39
+1367,2017.0,Beja,Mértola,19
+1368,2017.0,Beja,Odemira,56
+1369,2017.0,Beja,Ourique,10
+1370,2017.0,Beja,Serpa,29
+1371,2017.0,Beja,Vidigueira,41
+1372,2017.0,Braga,Amares,65
+1373,2017.0,Braga,Barcelos,150
+1374,2017.0,Braga,Braga,118
+1375,2017.0,Braga,Cabeceiras de Basto,153
+1376,2017.0,Braga,Celorico de Basto,163
+1377,2017.0,Braga,Esposende,31
+1378,2017.0,Braga,Fafe,206
+1379,2017.0,Braga,Guimarães,276
+1380,2017.0,Braga,Póvoa de Lanhoso,190
+1381,2017.0,Braga,Terras de Bouro,81
+1382,2017.0,Braga,VIZELA,1
+1383,2017.0,Braga,Vieira do Minho,165
+1384,2017.0,Braga,Vila Nova de Famalicão,189
+1385,2017.0,Braga,Vila Verde,192
+1386,2017.0,Braga,Vizela,39
+1387,2017.0,Bragança,Alfândega da Fé,37
+1388,2017.0,Bragança,Bragança,151
+1389,2017.0,Bragança,Carrazeda de Ansiães,50
+1390,2017.0,Bragança,Freixo de Espada À Cinta,47
+1391,2017.0,Bragança,Macedo de Cavaleiros,63
+1392,2017.0,Bragança,Miranda do Douro,33
+1393,2017.0,Bragança,Mirandela,94
+1394,2017.0,Bragança,Mogadouro,63
+1395,2017.0,Bragança,Torre de Moncorvo,100
+1396,2017.0,Bragança,Vila FLor,1
+1397,2017.0,Bragança,Vila Flor,42
+1398,2017.0,Bragança,Vimioso,50
+1399,2017.0,Bragança,Vinhais,123
+1400,2017.0,Castelo Branco,Belmonte,19
+1401,2017.0,Castelo Branco,Castelo Branco,172
+1402,2017.0,Castelo Branco,Covilhã,115
+1403,2017.0,Castelo Branco,Fundão,73
+1404,2017.0,Castelo Branco,Idanha-a-nova,54
+1405,2017.0,Castelo Branco,Oleiros,22
+1406,2017.0,Castelo Branco,Penamacor,23
+1407,2017.0,Castelo Branco,Proença-a-nova,23
+1408,2017.0,Castelo Branco,Sertã,73
+1409,2017.0,Castelo Branco,Vila Velha de Ródão,49
+1410,2017.0,Castelo Branco,Vila de Rei,13
+1411,2017.0,Coimbra,Arganil,30
+1412,2017.0,Coimbra,Cantanhede,71
+1413,2017.0,Coimbra,Coimbra,123
+1414,2017.0,Coimbra,Condeixa-a-Nova,1
+1415,2017.0,Coimbra,Condeixa-a-nova,34
+1416,2017.0,Coimbra,Figueira da Foz,81
+1417,2017.0,Coimbra,Góis,19
+1418,2017.0,Coimbra,Lousã,28
+1419,2017.0,Coimbra,Mira,41
+1420,2017.0,Coimbra,Miranda do Corvo,33
+1421,2017.0,Coimbra,Montemor-o-Velho,2
+1422,2017.0,Coimbra,Montemor-o-velho,52
+1423,2017.0,Coimbra,Oliveira do Hospital,59
+1424,2017.0,Coimbra,Pampilhosa da Serra,12
+1425,2017.0,Coimbra,Penacova,36
+1426,2017.0,Coimbra,Penela,14
+1427,2017.0,Coimbra,Soure,33
+1428,2017.0,Coimbra,Tábua,64
+1429,2017.0,Coimbra,Vila Nova de Poiares,8
+1430,2017.0,Faro,Albufeira,26
+1431,2017.0,Faro,Alcoutim,3
+1432,2017.0,Faro,Aljezur,19
+1433,2017.0,Faro,Castro Marim,11
+1434,2017.0,Faro,Faro,42
+1435,2017.0,Faro,Lagoa,16
+1436,2017.0,Faro,Lagos,20
+1437,2017.0,Faro,Loulé,53
+1438,2017.0,Faro,Monchique,17
+1439,2017.0,Faro,Olhão,30
+1440,2017.0,Faro,Portimão,27
+1441,2017.0,Faro,Silves,56
+1442,2017.0,Faro,São Brás de Alportel,16
+1443,2017.0,Faro,Tavira,38
+1444,2017.0,Faro,Vila Real de Santo António,15
+1445,2017.0,Faro,Vila do Bispo,5
+1446,2017.0,Guarda,Aguiar da Beira,12
+1447,2017.0,Guarda,Almeida,23
+1448,2017.0,Guarda,Celorico da Beira,48
+1449,2017.0,Guarda,Figueira de Castelo Rodrigo,46
+1450,2017.0,Guarda,Fornos de Algodres,10
+1451,2017.0,Guarda,Gouveia,56
+1452,2017.0,Guarda,Guarda,69
+1453,2017.0,Guarda,Manteigas,3
+1454,2017.0,Guarda,Mêda,63
+1455,2017.0,Guarda,Pinhel,51
+1456,2017.0,Guarda,Sabugal,67
+1457,2017.0,Guarda,Seia,68
+1458,2017.0,Guarda,Trancoso,65
+1459,2017.0,Guarda,Vila Nova de Foz Côa,58
+1460,2017.0,Leiria,Alcobaça,119
+1461,2017.0,Leiria,Alvaiázere,27
+1462,2017.0,Leiria,Ansião,23
+1463,2017.0,Leiria,Batalha,19
+1464,2017.0,Leiria,Bombarral,35
+1465,2017.0,Leiria,Caldas da Rainha,80
+1466,2017.0,Leiria,Castanheira de Pêra,14
+1467,2017.0,Leiria,Figueiró Dos Vinhos,13
+1468,2017.0,Leiria,Figueiró dos Vinhos,1
+1469,2017.0,Leiria,Leiria,123
+1470,2017.0,Leiria,Marinha Grande,42
+1471,2017.0,Leiria,Nazaré,11
+1472,2017.0,Leiria,Pedrógão Grande,29
+1473,2017.0,Leiria,Peniche,73
+1474,2017.0,Leiria,Pombal,128
+1475,2017.0,Leiria,Porto de Mós,41
+1476,2017.0,Leiria,Óbidos,102
+1477,2017.0,Lisboa,Alenquer,207
+1478,2017.0,Lisboa,Amadora,33
+1479,2017.0,Lisboa,Arruda Dos Vinhos,32
+1480,2017.0,Lisboa,Azambuja,73
+1481,2017.0,Lisboa,Cadaval,50
+1482,2017.0,Lisboa,Cascais,70
+1483,2017.0,Lisboa,Lisboa,30
+1484,2017.0,Lisboa,Loures,59
+1485,2017.0,Lisboa,Lourinhã,66
+1486,2017.0,Lisboa,Mafra,93
+1487,2017.0,Lisboa,Odivelas,14
+1488,2017.0,Lisboa,Oeiras,43
+1489,2017.0,Lisboa,Sintra,249
+1490,2017.0,Lisboa,Sobral de Monte Agraço,40
+1491,2017.0,Lisboa,Torres Vedras,174
+1492,2017.0,Lisboa,Vila Franca de Xira,40
+1493,2017.0,Portalegre,Alter do Chão,11
+1494,2017.0,Portalegre,Arronches,14
+1495,2017.0,Portalegre,Avis,12
+1496,2017.0,Portalegre,Campo Maior,51
+1497,2017.0,Portalegre,Castelo de Vide,8
+1498,2017.0,Portalegre,Crato,9
+1499,2017.0,Portalegre,Elvas,76
+1500,2017.0,Portalegre,Fronteira,15
+1501,2017.0,Portalegre,Gavião,17
+1502,2017.0,Portalegre,Marvão,11
+1503,2017.0,Portalegre,Monforte,10
+1504,2017.0,Portalegre,Nisa,25
+1505,2017.0,Portalegre,Ponte de Sor,45
+1506,2017.0,Portalegre,Portalegre,32
+1507,2017.0,Portalegre,Sousel,8
+1508,2017.0,Porto,Amarante,452
+1509,2017.0,Porto,Baião,164
+1510,2017.0,Porto,Felgueiras,390
+1511,2017.0,Porto,Gondomar,383
+1512,2017.0,Porto,Lousada,279
+1513,2017.0,Porto,Maia,177
+1514,2017.0,Porto,Marco de Canaveses,231
+1515,2017.0,Porto,Matosinhos,73
+1516,2017.0,Porto,Paredes,438
+1517,2017.0,Porto,Paços de Ferreira,268
+1518,2017.0,Porto,Penafiel,585
+1519,2017.0,Porto,Póvoa de Varzim,89
+1520,2017.0,Porto,Santo Tirso,290
+1521,2017.0,Porto,Trofa,191
+1522,2017.0,Porto,Valongo,158
+1523,2017.0,Porto,Vila Nova de Gaia,359
+1524,2017.0,Porto,Vila do Conde,202
+1525,2017.0,Santarém,Abrantes,100
+1526,2017.0,Santarém,Alcanena,49
+1527,2017.0,Santarém,Almeirim,32
+1528,2017.0,Santarém,Alpiarça,14
+1529,2017.0,Santarém,Benavente,49
+1530,2017.0,Santarém,Cartaxo,31
+1531,2017.0,Santarém,Chamusca,29
+1532,2017.0,Santarém,Constância,10
+1533,2017.0,Santarém,Coruche,55
+1534,2017.0,Santarém,Entroncamento,10
+1535,2017.0,Santarém,Ferreira do Zêzere,38
+1536,2017.0,Santarém,Golegã,8
+1537,2017.0,Santarém,Mação,32
+1538,2017.0,Santarém,Ourém,96
+1539,2017.0,Santarém,Rio Maior,33
+1540,2017.0,Santarém,Salvaterra de Magos,84
+1541,2017.0,Santarém,Santarém,98
+1542,2017.0,Santarém,Sardoal,24
+1543,2017.0,Santarém,Tomar,162
+1544,2017.0,Santarém,Torres Novas,60
+1545,2017.0,Santarém,Vila Nova da Barquinha,19
+1546,2017.0,Setúbal,Alcochete,19
+1547,2017.0,Setúbal,Alcácer do Sal,39
+1548,2017.0,Setúbal,Almada,93
+1549,2017.0,Setúbal,Barreiro,42
+1550,2017.0,Setúbal,Grândola,32
+1551,2017.0,Setúbal,Moita,73
+1552,2017.0,Setúbal,Montijo,67
+1553,2017.0,Setúbal,Palmela,109
+1554,2017.0,Setúbal,Santiago do Cacém,26
+1555,2017.0,Setúbal,Seixal,101
+1556,2017.0,Setúbal,Sesimbra,20
+1557,2017.0,Setúbal,Setúbal,79
+1558,2017.0,Setúbal,Sines,19
+1559,2017.0,Viana do Castelo,Arcos de Valdevez,282
+1560,2017.0,Viana do Castelo,Caminha,62
+1561,2017.0,Viana do Castelo,Melgaço,29
+1562,2017.0,Viana do Castelo,Monção,88
+1563,2017.0,Viana do Castelo,Paredes de Coura,81
+1564,2017.0,Viana do Castelo,Ponte da Barca,155
+1565,2017.0,Viana do Castelo,Ponte de Lima,209
+1566,2017.0,Viana do Castelo,Valença,42
+1567,2017.0,Viana do Castelo,Viana do Castelo,183
+1568,2017.0,Viana do Castelo,Vila Nova de Cerveira,32
+1569,2017.0,Vila Real,Alijó,48
+1570,2017.0,Vila Real,Boticas,94
+1571,2017.0,Vila Real,Chaves,132
+1572,2017.0,Vila Real,Mesão Frio,40
+1573,2017.0,Vila Real,Mondim de Basto,87
+1574,2017.0,Vila Real,Montalegre,314
+1575,2017.0,Vila Real,Murça,50
+1576,2017.0,Vila Real,Peso da Régua,25
+1577,2017.0,Vila Real,Ribeira de Pena,86
+1578,2017.0,Vila Real,Sabrosa,46
+1579,2017.0,Vila Real,Santa Marta de Penaguião,39
+1580,2017.0,Vila Real,Valpaços,217
+1581,2017.0,Vila Real,Vila Pouca de Aguiar,117
+1582,2017.0,Vila Real,Vila Real,128
+1583,2017.0,Viseu,Armamar,42
+1584,2017.0,Viseu,Carregal do Sal,26
+1585,2017.0,Viseu,Castro Daire,227
+1586,2017.0,Viseu,Cinfães,202
+1587,2017.0,Viseu,Lamego,110
+1588,2017.0,Viseu,Mangualde,99
+1589,2017.0,Viseu,Moimenta da Beira,55
+1590,2017.0,Viseu,Mortágua,13
+1591,2017.0,Viseu,Nelas,44
+1592,2017.0,Viseu,Oliveira de Frades,56
+1593,2017.0,Viseu,Penalva do Castelo,24
+1594,2017.0,Viseu,Penedono,49
+1595,2017.0,Viseu,Resende,115
+1596,2017.0,Viseu,Santa Comba Dão,30
+1597,2017.0,Viseu,Sernancelhe,72
+1598,2017.0,Viseu,Sátão,22
+1599,2017.0,Viseu,São João da Pesqueira,42
+1600,2017.0,Viseu,São Pedro do Sul,54
+1601,2017.0,Viseu,Tabuaço,24
+1602,2017.0,Viseu,Tarouca,59
+1603,2017.0,Viseu,Tondela,131
+1604,2017.0,Viseu,Vila Nova de Paiva,107
+1605,2017.0,Viseu,Viseu,211
+1606,2017.0,Viseu,Vouzela,43
+1607,2017.0,Évora,Alandroal,10
+1608,2017.0,Évora,Arraiolos,19
+1609,2017.0,Évora,Borba,15
+1610,2017.0,Évora,Estremoz,25
+1611,2017.0,Évora,Montemor-o-novo,24
+1612,2017.0,Évora,Mora,17
+1613,2017.0,Évora,Mourão,7
+1614,2017.0,Évora,Portel,15
+1615,2017.0,Évora,Redondo,12
+1616,2017.0,Évora,Reguengos de Monsaraz,33
+1617,2017.0,Évora,Vendas Novas,23
+1618,2017.0,Évora,Viana do Alentejo,17
+1619,2017.0,Évora,Vila Viçosa,6
+1620,2017.0,Évora,Évora,62
+1621,2018.0,Aveiro,Albergaria-a-Velha,1
+1622,2018.0,Aveiro,Albergaria-a-velha,90
+1623,2018.0,Aveiro,Anadia,35
+1624,2018.0,Aveiro,Arouca,88
+1625,2018.0,Aveiro,Aveiro,47
+1626,2018.0,Aveiro,Castelo de Paiva,50
+1627,2018.0,Aveiro,Espinho,26
+1628,2018.0,Aveiro,Estarreja,30
+1629,2018.0,Aveiro,Mealhada,28
+1630,2018.0,Aveiro,Murtosa,18
+1631,2018.0,Aveiro,Oliveira de Azeméis,158
+1632,2018.0,Aveiro,Oliveira do Bairro,34
+1633,2018.0,Aveiro,Ovar,24
+1634,2018.0,Aveiro,Santa Maria da Feira,227
+1635,2018.0,Aveiro,Sever do Vouga,44
+1636,2018.0,Aveiro,São João da Madeira,22
+1637,2018.0,Aveiro,Vagos,24
+1638,2018.0,Aveiro,Vale de Cambra,91
+1639,2018.0,Aveiro,Águeda,59
+1640,2018.0,Aveiro,Ílhavo,26
+1641,2018.0,Beja,Aljustrel,11
+1642,2018.0,Beja,Almodôvar,16
+1643,2018.0,Beja,Alvito,6
+1644,2018.0,Beja,Barrancos,2
+1645,2018.0,Beja,Beja,37
+1646,2018.0,Beja,Castro Verde,9
+1647,2018.0,Beja,Cuba,12
+1648,2018.0,Beja,Ferreira do Alentejo,13
+1649,2018.0,Beja,Moura,31
+1650,2018.0,Beja,Mértola,14
+1651,2018.0,Beja,Odemira,27
+1652,2018.0,Beja,Ourique,15
+1653,2018.0,Beja,Serpa,19
+1654,2018.0,Beja,Vidigueira,23
+1655,2018.0,Braga,Amares,41
+1656,2018.0,Braga,Barcelos,130
+1657,2018.0,Braga,Braga,88
+1658,2018.0,Braga,Cabeceiras de Basto,86
+1659,2018.0,Braga,Celorico de Basto,129
+1660,2018.0,Braga,Esposende,21
+1661,2018.0,Braga,Fafe,108
+1662,2018.0,Braga,Guimarães,183
+1663,2018.0,Braga,Póvoa de Lanhoso,106
+1664,2018.0,Braga,Terras de Bouro,44
+1665,2018.0,Braga,VIZELA,1
+1666,2018.0,Braga,Vieira do Minho,78
+1667,2018.0,Braga,Vila Nova de Famalicão,91
+1668,2018.0,Braga,Vila Verde,163
+1669,2018.0,Braga,Vizela,24
+1670,2018.0,Bragança,Alfândega da Fé,45
+1671,2018.0,Bragança,Bragança,79
+1672,2018.0,Bragança,Carrazeda de Ansiães,52
+1673,2018.0,Bragança,Freixo de Espada À Cinta,34
+1674,2018.0,Bragança,Macedo de Cavaleiros,31
+1675,2018.0,Bragança,Miranda do Douro,42
+1676,2018.0,Bragança,Mirandela,41
+1677,2018.0,Bragança,Mogadouro,37
+1678,2018.0,Bragança,Torre de Moncorvo,55
+1679,2018.0,Bragança,Vila FLor,1
+1680,2018.0,Bragança,Vila Flor,41
+1681,2018.0,Bragança,Vimioso,31
+1682,2018.0,Bragança,Vinhais,55
+1683,2018.0,Castelo Branco,Belmonte,19
+1684,2018.0,Castelo Branco,Castelo Branco,111
+1685,2018.0,Castelo Branco,Covilhã,62
+1686,2018.0,Castelo Branco,Fundão,73
+1687,2018.0,Castelo Branco,Idanha-a-Nova,1
+1688,2018.0,Castelo Branco,Idanha-a-nova,46
+1689,2018.0,Castelo Branco,Oleiros,18
+1690,2018.0,Castelo Branco,Penamacor,19
+1691,2018.0,Castelo Branco,Proença-a-nova,25
+1692,2018.0,Castelo Branco,Sertã,28
+1693,2018.0,Castelo Branco,Vila Velha de Ródão,16
+1694,2018.0,Castelo Branco,Vila de Rei,6
+1695,2018.0,Coimbra,Arganil,4
+1696,2018.0,Coimbra,Cantanhede,38
+1697,2018.0,Coimbra,Coimbra,46
+1698,2018.0,Coimbra,Condeixa-a-nova,17
+1699,2018.0,Coimbra,Figueira da Foz,28
+1700,2018.0,Coimbra,Góis,2
+1701,2018.0,Coimbra,Lousã,11
+1702,2018.0,Coimbra,Mira,12
+1703,2018.0,Coimbra,Miranda do Corvo,20
+1704,2018.0,Coimbra,Montemor-o-velho,14
+1705,2018.0,Coimbra,Oliveira do Hospital,4
+1706,2018.0,Coimbra,Pampilhosa da Serra,9
+1707,2018.0,Coimbra,Penacova,15
+1708,2018.0,Coimbra,Penela,10
+1709,2018.0,Coimbra,Soure,18
+1710,2018.0,Coimbra,Tábua,15
+1711,2018.0,Coimbra,Vila Nova de Poiares,3
+1712,2018.0,Faro,Albufeira,20
+1713,2018.0,Faro,Alcoutim,4
+1714,2018.0,Faro,Aljezur,23
+1715,2018.0,Faro,Castro Marim,19
+1716,2018.0,Faro,Faro,26
+1717,2018.0,Faro,Lagoa,13
+1718,2018.0,Faro,Lagos,20
+1719,2018.0,Faro,Loulé,60
+1720,2018.0,Faro,Monchique,24
+1721,2018.0,Faro,Olhão,19
+1722,2018.0,Faro,Portimão,13
+1723,2018.0,Faro,Silves,56
+1724,2018.0,Faro,São Brás de Alportel,12
+1725,2018.0,Faro,Tavira,33
+1726,2018.0,Faro,Vila Real de Santo António,5
+1727,2018.0,Faro,Vila do Bispo,7
+1728,2018.0,Guarda,Aguiar da Beira,11
+1729,2018.0,Guarda,Almeida,16
+1730,2018.0,Guarda,Celorico da Beira,9
+1731,2018.0,Guarda,Figueira de Castelo Rodrigo,15
+1732,2018.0,Guarda,Fornos de Algodres,9
+1733,2018.0,Guarda,Gouveia,10
+1734,2018.0,Guarda,Guarda,28
+1735,2018.0,Guarda,Manteigas,2
+1736,2018.0,Guarda,Mêda,23
+1737,2018.0,Guarda,Pinhel,11
+1738,2018.0,Guarda,Sabugal,42
+1739,2018.0,Guarda,Seia,20
+1740,2018.0,Guarda,Trancoso,23
+1741,2018.0,Guarda,Vila Nova de Foz Côa,29
+1742,2018.0,Leiria,Alcobaça,22
+1743,2018.0,Leiria,Alvaiázere,11
+1744,2018.0,Leiria,Ansião,22
+1745,2018.0,Leiria,Batalha,17
+1746,2018.0,Leiria,Bombarral,6
+1747,2018.0,Leiria,Caldas da Rainha,37
+1748,2018.0,Leiria,Castanheira de Pêra,5
+1749,2018.0,Leiria,Figueiró Dos Vinhos,10
+1750,2018.0,Leiria,Figueiró dos Vinhos,1
+1751,2018.0,Leiria,Leiria,61
+1752,2018.0,Leiria,Marinha Grande,12
+1753,2018.0,Leiria,Nazaré,4
+1754,2018.0,Leiria,Pedrógão Grande,12
+1755,2018.0,Leiria,Peniche,22
+1756,2018.0,Leiria,Pombal,58
+1757,2018.0,Leiria,Porto de Mós,21
+1758,2018.0,Leiria,Óbidos,30
+1759,2018.0,Lisboa,Alenquer,107
+1760,2018.0,Lisboa,Amadora,57
+1761,2018.0,Lisboa,Arruda Dos Vinhos,35
+1762,2018.0,Lisboa,Azambuja,54
+1763,2018.0,Lisboa,Cadaval,22
+1764,2018.0,Lisboa,Cascais,58
+1765,2018.0,Lisboa,Lisboa,15
+1766,2018.0,Lisboa,Loures,64
+1767,2018.0,Lisboa,Lourinhã,37
+1768,2018.0,Lisboa,Mafra,74
+1769,2018.0,Lisboa,Odivelas,35
+1770,2018.0,Lisboa,Oeiras,36
+1771,2018.0,Lisboa,Sintra,204
+1772,2018.0,Lisboa,Sobral de Monte Agraço,26
+1773,2018.0,Lisboa,Torres Vedras,121
+1774,2018.0,Lisboa,Vila Franca de Xira,50
+1775,2018.0,Portalegre,Alter do Chão,7
+1776,2018.0,Portalegre,Arronches,5
+1777,2018.0,Portalegre,Avis,8
+1778,2018.0,Portalegre,Campo Maior,39
+1779,2018.0,Portalegre,Castelo de Vide,11
+1780,2018.0,Portalegre,Crato,11
+1781,2018.0,Portalegre,Elvas,47
+1782,2018.0,Portalegre,Gavião,9
+1783,2018.0,Portalegre,Marvão,8
+1784,2018.0,Portalegre,Monforte,6
+1785,2018.0,Portalegre,Nisa,18
+1786,2018.0,Portalegre,Ponte de Sor,25
+1787,2018.0,Portalegre,Portalegre,29
+1788,2018.0,Portalegre,Sousel,4
+1789,2018.0,Porto,Amarante,181
+1790,2018.0,Porto,Baião,116
+1791,2018.0,Porto,Felgueiras,129
+1792,2018.0,Porto,Gondomar,203
+1793,2018.0,Porto,Lousada,134
+1794,2018.0,Porto,Maia,109
+1795,2018.0,Porto,Marco de Canaveses,146
+1796,2018.0,Porto,Matosinhos,68
+1797,2018.0,Porto,Paredes,345
+1798,2018.0,Porto,Paços de Ferreira,126
+1799,2018.0,Porto,Penafiel,228
+1800,2018.0,Porto,Póvoa de Varzim,47
+1801,2018.0,Porto,Santo Tirso,171
+1802,2018.0,Porto,Trofa,44
+1803,2018.0,Porto,Valongo,79
+1804,2018.0,Porto,Vila Nova de Gaia,197
+1805,2018.0,Porto,Vila do Conde,104
+1806,2018.0,Santarém,Abrantes,65
+1807,2018.0,Santarém,Alcanena,24
+1808,2018.0,Santarém,Almeirim,30
+1809,2018.0,Santarém,Alpiarça,14
+1810,2018.0,Santarém,Benavente,54
+1811,2018.0,Santarém,Cartaxo,22
+1812,2018.0,Santarém,Chamusca,20
+1813,2018.0,Santarém,Constância,7
+1814,2018.0,Santarém,Coruche,51
+1815,2018.0,Santarém,Entroncamento,1
+1816,2018.0,Santarém,Ferreira do Zêzere,14
+1817,2018.0,Santarém,Golegã,2
+1818,2018.0,Santarém,Mação,9
+1819,2018.0,Santarém,Ourém,82
+1820,2018.0,Santarém,Rio Maior,16
+1821,2018.0,Santarém,Salvaterra de Magos,23
+1822,2018.0,Santarém,Santarém,48
+1823,2018.0,Santarém,Sardoal,19
+1824,2018.0,Santarém,Tomar,95
+1825,2018.0,Santarém,Torres Novas,40
+1826,2018.0,Santarém,Vila Nova da Barquinha,4
+1827,2018.0,Setúbal,Alcochete,20
+1828,2018.0,Setúbal,Alcácer do Sal,20
+1829,2018.0,Setúbal,Almada,61
+1830,2018.0,Setúbal,Barreiro,10
+1831,2018.0,Setúbal,Grândola,20
+1832,2018.0,Setúbal,Moita,35
+1833,2018.0,Setúbal,Montijo,36
+1834,2018.0,Setúbal,Palmela,69
+1835,2018.0,Setúbal,Santiago do Cacém,21
+1836,2018.0,Setúbal,Seixal,62
+1837,2018.0,Setúbal,Sesimbra,16
+1838,2018.0,Setúbal,Setúbal,18
+1839,2018.0,Setúbal,Sines,12
+1840,2018.0,Viana do Castelo,Arcos de Valdevez,149
+1841,2018.0,Viana do Castelo,Caminha,49
+1842,2018.0,Viana do Castelo,Melgaço,26
+1843,2018.0,Viana do Castelo,Monção,47
+1844,2018.0,Viana do Castelo,Paredes de Coura,52
+1845,2018.0,Viana do Castelo,Ponte da Barca,124
+1846,2018.0,Viana do Castelo,Ponte de Lima,204
+1847,2018.0,Viana do Castelo,Valença,75
+1848,2018.0,Viana do Castelo,Viana do Castelo,139
+1849,2018.0,Viana do Castelo,Vila Nova de Cerveira,28
+1850,2018.0,Vila Real,Alijó,36
+1851,2018.0,Vila Real,Boticas,40
+1852,2018.0,Vila Real,Chaves,67
+1853,2018.0,Vila Real,Mesão Frio,13
+1854,2018.0,Vila Real,Mondim de Basto,20
+1855,2018.0,Vila Real,Montalegre,119
+1856,2018.0,Vila Real,Murça,27
+1857,2018.0,Vila Real,Peso da Régua,11
+1858,2018.0,Vila Real,Ribeira de Pena,54
+1859,2018.0,Vila Real,Sabrosa,24
+1860,2018.0,Vila Real,Santa Marta de Penaguião,21
+1861,2018.0,Vila Real,Valpaços,126
+1862,2018.0,Vila Real,Vila Pouca de Aguiar,65
+1863,2018.0,Vila Real,Vila Real,117
+1864,2018.0,Viseu,Armamar,28
+1865,2018.0,Viseu,Carregal do Sal,6
+1866,2018.0,Viseu,Castro Daire,75
+1867,2018.0,Viseu,Cinfães,120
+1868,2018.0,Viseu,Lamego,50
+1869,2018.0,Viseu,Mangualde,28
+1870,2018.0,Viseu,Moimenta da Beira,37
+1871,2018.0,Viseu,Mortágua,15
+1872,2018.0,Viseu,Nelas,27
+1873,2018.0,Viseu,Oliveira de Frades,12
+1874,2018.0,Viseu,Penalva do Castelo,17
+1875,2018.0,Viseu,Penedono,46
+1876,2018.0,Viseu,Resende,41
+1877,2018.0,Viseu,Santa Comba Dão,5
+1878,2018.0,Viseu,Sernancelhe,84
+1879,2018.0,Viseu,Sátão,25
+1880,2018.0,Viseu,São João da Pesqueira,33
+1881,2018.0,Viseu,São Pedro do Sul,32
+1882,2018.0,Viseu,Tabuaço,35
+1883,2018.0,Viseu,Tarouca,44
+1884,2018.0,Viseu,Tondela,51
+1885,2018.0,Viseu,Vila Nova de Paiva,25
+1886,2018.0,Viseu,Viseu,110
+1887,2018.0,Viseu,Vouzela,9
+1888,2018.0,Évora,Alandroal,3
+1889,2018.0,Évora,Arraiolos,11
+1890,2018.0,Évora,Borba,9
+1891,2018.0,Évora,Estremoz,24
+1892,2018.0,Évora,Montemor-o-Novo,1
+1893,2018.0,Évora,Montemor-o-novo,11
+1894,2018.0,Évora,Mora,6
+1895,2018.0,Évora,Mourão,9
+1896,2018.0,Évora,Portel,13
+1897,2018.0,Évora,Redondo,7
+1898,2018.0,Évora,Reguengos de Monsaraz,14
+1899,2018.0,Évora,Vendas Novas,6
+1900,2018.0,Évora,Viana do Alentejo,6
+1901,2018.0,Évora,Vila Viçosa,2
+1902,2018.0,Évora,Évora,37
+1903,2019.0,Aveiro,Albergaria-a-Velha,3
+1904,2019.0,Aveiro,Albergaria-a-velha,52
+1905,2019.0,Aveiro,Anadia,23
+1906,2019.0,Aveiro,Arouca,55
+1907,2019.0,Aveiro,Aveiro,83
+1908,2019.0,Aveiro,Castelo de Paiva,50
+1909,2019.0,Aveiro,Espinho,20
+1910,2019.0,Aveiro,Estarreja,38
+1911,2019.0,Aveiro,Mealhada,33
+1912,2019.0,Aveiro,Murtosa,12
+1913,2019.0,Aveiro,Oliveira de Azeméis,92
+1914,2019.0,Aveiro,Oliveira do Bairro,17
+1915,2019.0,Aveiro,Ovar,34
+1916,2019.0,Aveiro,Santa Maria da Feira,145
+1917,2019.0,Aveiro,Sever do Vouga,28
+1918,2019.0,Aveiro,São João da Madeira,5
+1919,2019.0,Aveiro,Vagos,21
+1920,2019.0,Aveiro,Vale de Cambra,37
+1921,2019.0,Aveiro,Águeda,50
+1922,2019.0,Aveiro,Ílhavo,19
+1923,2019.0,Beja,Aljustrel,25
+1924,2019.0,Beja,Almodôvar,21
+1925,2019.0,Beja,Alvito,6
+1926,2019.0,Beja,Barrancos,2
+1927,2019.0,Beja,Beja,112
+1928,2019.0,Beja,Castro Verde,15
+1929,2019.0,Beja,Cuba,10
+1930,2019.0,Beja,Ferreira do Alentejo,16
+1931,2019.0,Beja,Moura,28
+1932,2019.0,Beja,Mértola,26
+1933,2019.0,Beja,Odemira,47
+1934,2019.0,Beja,Ourique,22
+1935,2019.0,Beja,Serpa,34
+1936,2019.0,Beja,Vidigueira,21
+1937,2019.0,Braga,Amares,20
+1938,2019.0,Braga,Barcelos,53
+1939,2019.0,Braga,Braga,82
+1940,2019.0,Braga,Cabeceiras de Basto,72
+1941,2019.0,Braga,Celorico de Basto,107
+1942,2019.0,Braga,Esposende,15
+1943,2019.0,Braga,Fafe,78
+1944,2019.0,Braga,Guimarães,119
+1945,2019.0,Braga,Póvoa de Lanhoso,61
+1946,2019.0,Braga,Terras de Bouro,32
+1947,2019.0,Braga,Vieira do Minho,72
+1948,2019.0,Braga,Vila Nova de Famalicão,69
+1949,2019.0,Braga,Vila Verde,114
+1950,2019.0,Braga,Vizela,23
+1951,2019.0,Bragança,Alfândega da Fé,54
+1952,2019.0,Bragança,Bragança,56
+1953,2019.0,Bragança,Carrazeda de Ansiães,27
+1954,2019.0,Bragança,Freixo de Espada À Cinta,18
+1955,2019.0,Bragança,Macedo de Cavaleiros,26
+1956,2019.0,Bragança,Miranda do Douro,5
+1957,2019.0,Bragança,Mirandela,32
+1958,2019.0,Bragança,Mogadouro,18
+1959,2019.0,Bragança,Torre de Moncorvo,31
+1960,2019.0,Bragança,Vila Flor,12
+1961,2019.0,Bragança,Vimioso,10
+1962,2019.0,Bragança,Vinhais,53
+1963,2019.0,Castelo Branco,Belmonte,18
+1964,2019.0,Castelo Branco,Castelo Branco,90
+1965,2019.0,Castelo Branco,Covilhã,91
+1966,2019.0,Castelo Branco,Fundão,115
+1967,2019.0,Castelo Branco,Idanha-a-nova,41
+1968,2019.0,Castelo Branco,Oleiros,20
+1969,2019.0,Castelo Branco,Penamacor,16
+1970,2019.0,Castelo Branco,Proença-a-nova,17
+1971,2019.0,Castelo Branco,Sertã,36
+1972,2019.0,Castelo Branco,Vila Velha de Ródão,12
+1973,2019.0,Castelo Branco,Vila de Rei,2
+1974,2019.0,Coimbra,Arganil,13
+1975,2019.0,Coimbra,Cantanhede,47
+1976,2019.0,Coimbra,Coimbra,37
+1977,2019.0,Coimbra,Condeixa-a-nova,16
+1978,2019.0,Coimbra,Figueira da Foz,63
+1979,2019.0,Coimbra,Góis,5
+1980,2019.0,Coimbra,Lousã,9
+1981,2019.0,Coimbra,Mira,6
+1982,2019.0,Coimbra,Miranda do Corvo,9
+1983,2019.0,Coimbra,Montemor-o-Velho,1
+1984,2019.0,Coimbra,Montemor-o-velho,24
+1985,2019.0,Coimbra,Oliveira do Hospital,13
+1986,2019.0,Coimbra,Pampilhosa da Serra,7
+1987,2019.0,Coimbra,Penacova,11
+1988,2019.0,Coimbra,Penela,11
+1989,2019.0,Coimbra,Soure,12
+1990,2019.0,Coimbra,Tábua,27
+1991,2019.0,Coimbra,Vila Nova de Poiares,3
+1992,2019.0,Faro,Albufeira,39
+1993,2019.0,Faro,Alcoutim,6
+1994,2019.0,Faro,Aljezur,15
+1995,2019.0,Faro,Castro Marim,15
+1996,2019.0,Faro,Faro,35
+1997,2019.0,Faro,Lagoa,10
+1998,2019.0,Faro,Lagos,30
+1999,2019.0,Faro,Loulé,68
+2000,2019.0,Faro,Monchique,8
+2001,2019.0,Faro,Olhão,22
+2002,2019.0,Faro,Portimão,28
+2003,2019.0,Faro,Silves,54
+2004,2019.0,Faro,São Brás de Alportel,20
+2005,2019.0,Faro,Tavira,36
+2006,2019.0,Faro,Vila Real de Santo António,14
+2007,2019.0,Faro,Vila do Bispo,17
+2008,2019.0,Guarda,Aguiar da Beira,10
+2009,2019.0,Guarda,Almeida,10
+2010,2019.0,Guarda,Celorico da Beira,13
+2011,2019.0,Guarda,Figueira de Castelo Rodrigo,21
+2012,2019.0,Guarda,Fornos de Algodres,9
+2013,2019.0,Guarda,Gouveia,22
+2014,2019.0,Guarda,Guarda,24
+2015,2019.0,Guarda,Manteigas,4
+2016,2019.0,Guarda,Mêda,17
+2017,2019.0,Guarda,Pinhel,15
+2018,2019.0,Guarda,Sabugal,48
+2019,2019.0,Guarda,Seia,22
+2020,2019.0,Guarda,Trancoso,28
+2021,2019.0,Guarda,Vila Nova de Foz Côa,48
+2022,2019.0,Leiria,Alcobaça,24
+2023,2019.0,Leiria,Alvaiázere,13
+2024,2019.0,Leiria,Ansião,18
+2025,2019.0,Leiria,Batalha,17
+2026,2019.0,Leiria,Bombarral,11
+2027,2019.0,Leiria,Caldas da Rainha,72
+2028,2019.0,Leiria,Castanheira de Pêra,1
+2029,2019.0,Leiria,Figueiró Dos Vinhos,9
+2030,2019.0,Leiria,Figueiró dos Vinhos,2
+2031,2019.0,Leiria,Leiria,83
+2032,2019.0,Leiria,Marinha Grande,18
+2033,2019.0,Leiria,Nazaré,5
+2034,2019.0,Leiria,Pedrógão Grande,10
+2035,2019.0,Leiria,Peniche,23
+2036,2019.0,Leiria,Pombal,79
+2037,2019.0,Leiria,Porto de Mós,34
+2038,2019.0,Leiria,Óbidos,61
+2039,2019.0,Lisboa,Alenquer,109
+2040,2019.0,Lisboa,Amadora,35
+2041,2019.0,Lisboa,Arruda Dos Vinhos,31
+2042,2019.0,Lisboa,Azambuja,86
+2043,2019.0,Lisboa,Cadaval,28
+2044,2019.0,Lisboa,Cascais,66
+2045,2019.0,Lisboa,Lisboa,32
+2046,2019.0,Lisboa,Loures,54
+2047,2019.0,Lisboa,Lourinhã,16
+2048,2019.0,Lisboa,Mafra,82
+2049,2019.0,Lisboa,Odivelas,21
+2050,2019.0,Lisboa,Oeiras,27
+2051,2019.0,Lisboa,Sintra,184
+2052,2019.0,Lisboa,Sobral de Monte Agraço,18
+2053,2019.0,Lisboa,Torres Vedras,67
+2054,2019.0,Lisboa,Vila Franca de Xira,40
+2055,2019.0,Portalegre,Alter do Chão,8
+2056,2019.0,Portalegre,Arronches,13
+2057,2019.0,Portalegre,Avis,12
+2058,2019.0,Portalegre,Campo Maior,43
+2059,2019.0,Portalegre,Castelo de Vide,13
+2060,2019.0,Portalegre,Crato,12
+2061,2019.0,Portalegre,Elvas,73
+2062,2019.0,Portalegre,Fronteira,8
+2063,2019.0,Portalegre,Gavião,18
+2064,2019.0,Portalegre,Marvão,11
+2065,2019.0,Portalegre,Monforte,5
+2066,2019.0,Portalegre,Nisa,16
+2067,2019.0,Portalegre,Ponte de Sor,22
+2068,2019.0,Portalegre,Portalegre,26
+2069,2019.0,Portalegre,Sousel,9
+2070,2019.0,Porto,Amarante,113
+2071,2019.0,Porto,Baião,78
+2072,2019.0,Porto,Felgueiras,121
+2073,2019.0,Porto,Gondomar,177
+2074,2019.0,Porto,Lousada,100
+2075,2019.0,Porto,Maia,59
+2076,2019.0,Porto,Marco de Canaveses,114
+2077,2019.0,Porto,Matosinhos,25
+2078,2019.0,Porto,Paredes,266
+2079,2019.0,Porto,Paços de Ferreira,92
+2080,2019.0,Porto,Penafiel,216
+2081,2019.0,Porto,Póvoa de Varzim,25
+2082,2019.0,Porto,Santo Tirso,83
+2083,2019.0,Porto,Trofa,46
+2084,2019.0,Porto,Valongo,106
+2085,2019.0,Porto,Vila Nova de Gaia,152
+2086,2019.0,Porto,Vila do Conde,69
+2087,2019.0,Santarém,Abrantes,75
+2088,2019.0,Santarém,Alcanena,25
+2089,2019.0,Santarém,Almeirim,31
+2090,2019.0,Santarém,Alpiarça,10
+2091,2019.0,Santarém,Benavente,63
+2092,2019.0,Santarém,Cartaxo,25
+2093,2019.0,Santarém,Chamusca,12
+2094,2019.0,Santarém,Constância,5
+2095,2019.0,Santarém,Coruche,45
+2096,2019.0,Santarém,Entroncamento,6
+2097,2019.0,Santarém,Ferreira do Zêzere,7
+2098,2019.0,Santarém,Golegã,2
+2099,2019.0,Santarém,Mação,17
+2100,2019.0,Santarém,Ourém,63
+2101,2019.0,Santarém,Rio Maior,51
+2102,2019.0,Santarém,Salvaterra de Magos,39
+2103,2019.0,Santarém,Santarém,92
+2104,2019.0,Santarém,Sardoal,9
+2105,2019.0,Santarém,Tomar,89
+2106,2019.0,Santarém,Torres Novas,34
+2107,2019.0,Santarém,Vila Nova da Barquinha,3
+2108,2019.0,Setúbal,Alcochete,13
+2109,2019.0,Setúbal,Alcácer do Sal,30
+2110,2019.0,Setúbal,Almada,27
+2111,2019.0,Setúbal,Barreiro,8
+2112,2019.0,Setúbal,Grândola,24
+2113,2019.0,Setúbal,Moita,26
+2114,2019.0,Setúbal,Montijo,34
+2115,2019.0,Setúbal,Palmela,96
+2116,2019.0,Setúbal,Santiago do Cacém,41
+2117,2019.0,Setúbal,Seixal,33
+2118,2019.0,Setúbal,Sesimbra,33
+2119,2019.0,Setúbal,Setúbal,22
+2120,2019.0,Setúbal,Sines,11
+2121,2019.0,Viana do Castelo,Arcos de Valdevez,111
+2122,2019.0,Viana do Castelo,Caminha,29
+2123,2019.0,Viana do Castelo,Melgaço,12
+2124,2019.0,Viana do Castelo,Monção,34
+2125,2019.0,Viana do Castelo,Paredes de Coura,35
+2126,2019.0,Viana do Castelo,Ponte da Barca,81
+2127,2019.0,Viana do Castelo,Ponte de Lima,120
+2128,2019.0,Viana do Castelo,Valença,39
+2129,2019.0,Viana do Castelo,Viana do Castelo,84
+2130,2019.0,Viana do Castelo,Vila Nova de Cerveira,11
+2131,2019.0,Vila Real,Alijó,21
+2132,2019.0,Vila Real,Boticas,35
+2133,2019.0,Vila Real,Chaves,66
+2134,2019.0,Vila Real,Mesão Frio,3
+2135,2019.0,Vila Real,Mondim de Basto,26
+2136,2019.0,Vila Real,Montalegre,168
+2137,2019.0,Vila Real,Murça,20
+2138,2019.0,Vila Real,Peso da Régua,14
+2139,2019.0,Vila Real,Ribeira de Pena,40
+2140,2019.0,Vila Real,Sabrosa,12
+2141,2019.0,Vila Real,Santa Marta de Penaguião,11
+2142,2019.0,Vila Real,Valpaços,69
+2143,2019.0,Vila Real,Vila Pouca de Aguiar,53
+2144,2019.0,Vila Real,Vila Real,101
+2145,2019.0,Viseu,Armamar,9
+2146,2019.0,Viseu,Carregal do Sal,8
+2147,2019.0,Viseu,Castro Daire,99
+2148,2019.0,Viseu,Cinfães,70
+2149,2019.0,Viseu,Lamego,48
+2150,2019.0,Viseu,Mangualde,31
+2151,2019.0,Viseu,Moimenta da Beira,25
+2152,2019.0,Viseu,Mortágua,9
+2153,2019.0,Viseu,Nelas,46
+2154,2019.0,Viseu,Oliveira de Frades,10
+2155,2019.0,Viseu,Penalva do Castelo,20
+2156,2019.0,Viseu,Penedono,31
+2157,2019.0,Viseu,Resende,37
+2158,2019.0,Viseu,Santa Comba Dão,10
+2159,2019.0,Viseu,Sernancelhe,49
+2160,2019.0,Viseu,Sátão,26
+2161,2019.0,Viseu,São João da Pesqueira,38
+2162,2019.0,Viseu,São Pedro do Sul,17
+2163,2019.0,Viseu,Tabuaço,14
+2164,2019.0,Viseu,Tarouca,27
+2165,2019.0,Viseu,Tondela,24
+2166,2019.0,Viseu,Vila Nova de Paiva,34
+2167,2019.0,Viseu,Viseu,77
+2168,2019.0,Viseu,Vouzela,17
+2169,2019.0,Évora,Alandroal,15
+2170,2019.0,Évora,Arraiolos,13
+2171,2019.0,Évora,Borba,8
+2172,2019.0,Évora,Estremoz,35
+2173,2019.0,Évora,Montemor-o-Novo,9
+2174,2019.0,Évora,Montemor-o-novo,24
+2175,2019.0,Évora,Mora,15
+2176,2019.0,Évora,Mourão,16
+2177,2019.0,Évora,Portel,19
+2178,2019.0,Évora,Redondo,19
+2179,2019.0,Évora,Reguengos de Monsaraz,29
+2180,2019.0,Évora,Vendas Novas,7
+2181,2019.0,Évora,Viana do Alentejo,9
+2182,2019.0,Évora,Vila Viçosa,12
+2183,2019.0,Évora,Évora,82
+2184,2020.0,Aveiro,Albergaria-a-Velha,1
+2185,2020.0,Aveiro,Albergaria-a-velha,54
+2186,2020.0,Aveiro,Anadia,16
+2187,2020.0,Aveiro,Arouca,51
+2188,2020.0,Aveiro,Aveiro,50
+2189,2020.0,Aveiro,Castelo de Paiva,29
+2190,2020.0,Aveiro,Espinho,10
+2191,2020.0,Aveiro,Estarreja,20
+2192,2020.0,Aveiro,Mealhada,13
+2193,2020.0,Aveiro,Murtosa,11
+2194,2020.0,Aveiro,Oliveira de Azeméis,59
+2195,2020.0,Aveiro,Oliveira do Bairro,42
+2196,2020.0,Aveiro,Ovar,42
+2197,2020.0,Aveiro,Santa Maria da Feira,124
+2198,2020.0,Aveiro,Sever do Vouga,30
+2199,2020.0,Aveiro,São João da Madeira,4
+2200,2020.0,Aveiro,Vagos,8
+2201,2020.0,Aveiro,Vale de Cambra,43
+2202,2020.0,Aveiro,Águeda,30
+2203,2020.0,Aveiro,Ílhavo,16
+2204,2020.0,Beja,Aljustrel,16
+2205,2020.0,Beja,Almodôvar,18
+2206,2020.0,Beja,Alvito,8
+2207,2020.0,Beja,Barrancos,1
+2208,2020.0,Beja,Beja,56
+2209,2020.0,Beja,Castro Verde,6
+2210,2020.0,Beja,Cuba,8
+2211,2020.0,Beja,Ferreira do Alentejo,15
+2212,2020.0,Beja,Moura,19
+2213,2020.0,Beja,Mértola,18
+2214,2020.0,Beja,Odemira,39
+2215,2020.0,Beja,Ourique,15
+2216,2020.0,Beja,Serpa,16
+2217,2020.0,Beja,Vidigueira,12
+2218,2020.0,Braga,Amares,18
+2219,2020.0,Braga,Barcelos,49
+2220,2020.0,Braga,Braga,70
+2221,2020.0,Braga,Cabeceiras de Basto,84
+2222,2020.0,Braga,Celorico de Basto,138
+2223,2020.0,Braga,Esposende,6
+2224,2020.0,Braga,Fafe,73
+2225,2020.0,Braga,Guimarães,95
+2226,2020.0,Braga,Póvoa de Lanhoso,72
+2227,2020.0,Braga,Terras de Bouro,34
+2228,2020.0,Braga,Vieira do Minho,52
+2229,2020.0,Braga,Vila Nova de Famalicão,65
+2230,2020.0,Braga,Vila Verde,196
+2231,2020.0,Braga,Vizela,17
+2232,2020.0,Bragança,Alfândega da Fé,21
+2233,2020.0,Bragança,Bragança,38
+2234,2020.0,Bragança,Carrazeda de Ansiães,11
+2235,2020.0,Bragança,Freixo de Espada À Cinta,9
+2236,2020.0,Bragança,Macedo de Cavaleiros,17
+2237,2020.0,Bragança,Miranda do Douro,9
+2238,2020.0,Bragança,Mirandela,42
+2239,2020.0,Bragança,Mogadouro,20
+2240,2020.0,Bragança,Torre de Moncorvo,18
+2241,2020.0,Bragança,Vila FLor,5
+2242,2020.0,Bragança,Vila Flor,14
+2243,2020.0,Bragança,Vimioso,15
+2244,2020.0,Bragança,Vinhais,44
+2245,2020.0,Castelo Branco,Belmonte,11
+2246,2020.0,Castelo Branco,Castelo Branco,88
+2247,2020.0,Castelo Branco,Covilhã,57
+2248,2020.0,Castelo Branco,Fundão,43
+2249,2020.0,Castelo Branco,Idanha-a-nova,28
+2250,2020.0,Castelo Branco,Oleiros,14
+2251,2020.0,Castelo Branco,Penamacor,16
+2252,2020.0,Castelo Branco,Proença-a-nova,7
+2253,2020.0,Castelo Branco,Sertã,23
+2254,2020.0,Castelo Branco,Vila Velha de Ródão,13
+2255,2020.0,Castelo Branco,Vila de Rei,5
+2256,2020.0,Coimbra,Arganil,8
+2257,2020.0,Coimbra,Cantanhede,25
+2258,2020.0,Coimbra,Coimbra,48
+2259,2020.0,Coimbra,Condeixa-a-nova,6
+2260,2020.0,Coimbra,Figueira da Foz,43
+2261,2020.0,Coimbra,Góis,13
+2262,2020.0,Coimbra,Lousã,7
+2263,2020.0,Coimbra,Mira,11
+2264,2020.0,Coimbra,Miranda do Corvo,7
+2265,2020.0,Coimbra,Montemor-o-velho,12
+2266,2020.0,Coimbra,Oliveira do Hospital,6
+2267,2020.0,Coimbra,Pampilhosa da Serra,4
+2268,2020.0,Coimbra,Penacova,5
+2269,2020.0,Coimbra,Penela,8
+2270,2020.0,Coimbra,Soure,12
+2271,2020.0,Coimbra,Tábua,14
+2272,2020.0,Coimbra,Vila Nova de Poiares,1
+2273,2020.0,Faro,Albufeira,9
+2274,2020.0,Faro,Alcoutim,6
+2275,2020.0,Faro,Aljezur,11
+2276,2020.0,Faro,Castro Marim,11
+2277,2020.0,Faro,Faro,22
+2278,2020.0,Faro,Lagoa,4
+2279,2020.0,Faro,Lagos,22
+2280,2020.0,Faro,Loulé,24
+2281,2020.0,Faro,Monchique,8
+2282,2020.0,Faro,Olhão,7
+2283,2020.0,Faro,Portimão,16
+2284,2020.0,Faro,Silves,25
+2285,2020.0,Faro,São Brás de Alportel,9
+2286,2020.0,Faro,Tavira,21
+2287,2020.0,Faro,Vila Real de Santo António,11
+2288,2020.0,Faro,Vila do Bispo,3
+2289,2020.0,Guarda,Aguiar da Beira,9
+2290,2020.0,Guarda,Almeida,18
+2291,2020.0,Guarda,Celorico da Beira,20
+2292,2020.0,Guarda,Figueira de Castelo Rodrigo,26
+2293,2020.0,Guarda,Fornos de Algodres,12
+2294,2020.0,Guarda,Gouveia,16
+2295,2020.0,Guarda,Guarda,45
+2296,2020.0,Guarda,Manteigas,4
+2297,2020.0,Guarda,Mêda,32
+2298,2020.0,Guarda,Pinhel,31
+2299,2020.0,Guarda,Sabugal,30
+2300,2020.0,Guarda,Seia,14
+2301,2020.0,Guarda,Trancoso,14
+2302,2020.0,Guarda,Vila Nova de Foz Côa,29
+2303,2020.0,Leiria,Alcobaça,27
+2304,2020.0,Leiria,Alvaiázere,16
+2305,2020.0,Leiria,Ansião,6
+2306,2020.0,Leiria,Batalha,10
+2307,2020.0,Leiria,Bombarral,8
+2308,2020.0,Leiria,Caldas da Rainha,23
+2309,2020.0,Leiria,Castanheira de Pêra,2
+2310,2020.0,Leiria,Figueiró Dos Vinhos,19
+2311,2020.0,Leiria,Leiria,84
+2312,2020.0,Leiria,Marinha Grande,3
+2313,2020.0,Leiria,Nazaré,12
+2314,2020.0,Leiria,Pedrógão Grande,4
+2315,2020.0,Leiria,Peniche,9
+2316,2020.0,Leiria,Pombal,62
+2317,2020.0,Leiria,Porto de Mós,19
+2318,2020.0,Leiria,Óbidos,49
+2319,2020.0,Lisboa,Alenquer,68
+2320,2020.0,Lisboa,Amadora,23
+2321,2020.0,Lisboa,Arruda Dos Vinhos,36
+2322,2020.0,Lisboa,Azambuja,44
+2323,2020.0,Lisboa,Cadaval,9
+2324,2020.0,Lisboa,Cascais,15
+2325,2020.0,Lisboa,Lisboa,14
+2326,2020.0,Lisboa,Loures,42
+2327,2020.0,Lisboa,Lourinhã,14
+2328,2020.0,Lisboa,Mafra,81
+2329,2020.0,Lisboa,Odivelas,41
+2330,2020.0,Lisboa,Oeiras,14
+2331,2020.0,Lisboa,Sintra,105
+2332,2020.0,Lisboa,Sobral de Monte Agraço,7
+2333,2020.0,Lisboa,Torres Vedras,40
+2334,2020.0,Lisboa,Vila Franca de Xira,33
+2335,2020.0,Portalegre,Alter do Chão,10
+2336,2020.0,Portalegre,Arronches,5
+2337,2020.0,Portalegre,Avis,9
+2338,2020.0,Portalegre,Campo Maior,32
+2339,2020.0,Portalegre,Castelo de Vide,4
+2340,2020.0,Portalegre,Crato,11
+2341,2020.0,Portalegre,Elvas,33
+2342,2020.0,Portalegre,Fronteira,7
+2343,2020.0,Portalegre,Gavião,9
+2344,2020.0,Portalegre,Marvão,6
+2345,2020.0,Portalegre,Monforte,6
+2346,2020.0,Portalegre,Nisa,15
+2347,2020.0,Portalegre,Ponte de Sor,20
+2348,2020.0,Portalegre,Portalegre,19
+2349,2020.0,Portalegre,Sousel,3
+2350,2020.0,Porto,Amarante,146
+2351,2020.0,Porto,Baião,114
+2352,2020.0,Porto,Felgueiras,241
+2353,2020.0,Porto,Gondomar,157
+2354,2020.0,Porto,Lousada,151
+2355,2020.0,Porto,Maia,84
+2356,2020.0,Porto,Marco de Canaveses,118
+2357,2020.0,Porto,Matosinhos,36
+2358,2020.0,Porto,Paredes,481
+2359,2020.0,Porto,Paços de Ferreira,125
+2360,2020.0,Porto,Penafiel,171
+2361,2020.0,Porto,Póvoa de Varzim,41
+2362,2020.0,Porto,Santo Tirso,163
+2363,2020.0,Porto,Trofa,85
+2364,2020.0,Porto,Valongo,169
+2365,2020.0,Porto,Vila Nova de Gaia,138
+2366,2020.0,Porto,Vila do Conde,49
+2367,2020.0,Santarém,Abrantes,54
+2368,2020.0,Santarém,Alcanena,17
+2369,2020.0,Santarém,Almeirim,19
+2370,2020.0,Santarém,Alpiarça,14
+2371,2020.0,Santarém,Benavente,32
+2372,2020.0,Santarém,Cartaxo,18
+2373,2020.0,Santarém,Chamusca,12
+2374,2020.0,Santarém,Constância,7
+2375,2020.0,Santarém,Coruche,28
+2376,2020.0,Santarém,Entroncamento,3
+2377,2020.0,Santarém,Ferreira do Zêzere,16
+2378,2020.0,Santarém,Golegã,1
+2379,2020.0,Santarém,Mação,6
+2380,2020.0,Santarém,Ourém,97
+2381,2020.0,Santarém,Rio Maior,25
+2382,2020.0,Santarém,Salvaterra de Magos,41
+2383,2020.0,Santarém,Santarém,81
+2384,2020.0,Santarém,Sardoal,29
+2385,2020.0,Santarém,Tomar,51
+2386,2020.0,Santarém,Torres Novas,30
+2387,2020.0,Santarém,Vila Nova da Barquinha,5
+2388,2020.0,Setúbal,Alcochete,12
+2389,2020.0,Setúbal,Alcácer do Sal,20
+2390,2020.0,Setúbal,Almada,55
+2391,2020.0,Setúbal,Barreiro,15
+2392,2020.0,Setúbal,Grândola,19
+2393,2020.0,Setúbal,Moita,25
+2394,2020.0,Setúbal,Montijo,33
+2395,2020.0,Setúbal,Palmela,60
+2396,2020.0,Setúbal,Santiago do Cacém,15
+2397,2020.0,Setúbal,Seixal,28
+2398,2020.0,Setúbal,Sesimbra,12
+2399,2020.0,Setúbal,Setúbal,31
+2400,2020.0,Setúbal,Sines,13
+2401,2020.0,Viana do Castelo,Arcos de Valdevez,178
+2402,2020.0,Viana do Castelo,Caminha,14
+2403,2020.0,Viana do Castelo,Melgaço,18
+2404,2020.0,Viana do Castelo,Monção,44
+2405,2020.0,Viana do Castelo,Paredes de Coura,12
+2406,2020.0,Viana do Castelo,Ponte da Barca,94
+2407,2020.0,Viana do Castelo,Ponte de Lima,106
+2408,2020.0,Viana do Castelo,Valença,36
+2409,2020.0,Viana do Castelo,Viana do Castelo,90
+2410,2020.0,Viana do Castelo,Vila Nova de Cerveira,14
+2411,2020.0,Vila Real,Alijó,14
+2412,2020.0,Vila Real,Boticas,36
+2413,2020.0,Vila Real,Chaves,73
+2414,2020.0,Vila Real,Mesão Frio,8
+2415,2020.0,Vila Real,Mondim de Basto,25
+2416,2020.0,Vila Real,Montalegre,134
+2417,2020.0,Vila Real,Murça,24
+2418,2020.0,Vila Real,Peso da Régua,14
+2419,2020.0,Vila Real,Ribeira de Pena,29
+2420,2020.0,Vila Real,Sabrosa,4
+2421,2020.0,Vila Real,Santa Marta de Penaguião,7
+2422,2020.0,Vila Real,Valpaços,87
+2423,2020.0,Vila Real,Vila Pouca de Aguiar,66
+2424,2020.0,Vila Real,Vila Real,51
+2425,2020.0,Viseu,Armamar,12
+2426,2020.0,Viseu,Carregal do Sal,11
+2427,2020.0,Viseu,Castro Daire,57
+2428,2020.0,Viseu,Cinfães,94
+2429,2020.0,Viseu,Lamego,39
+2430,2020.0,Viseu,Mangualde,19
+2431,2020.0,Viseu,Moimenta da Beira,18
+2432,2020.0,Viseu,Mortágua,3
+2433,2020.0,Viseu,Nelas,20
+2434,2020.0,Viseu,Oliveira de Frades,24
+2435,2020.0,Viseu,Penalva do Castelo,12
+2436,2020.0,Viseu,Penedono,12
+2437,2020.0,Viseu,Resende,17
+2438,2020.0,Viseu,Santa Comba Dão,3
+2439,2020.0,Viseu,Sernancelhe,31
+2440,2020.0,Viseu,Sátão,25
+2441,2020.0,Viseu,São João da Pesqueira,15
+2442,2020.0,Viseu,São Pedro do Sul,10
+2443,2020.0,Viseu,Tabuaço,5
+2444,2020.0,Viseu,Tarouca,18
+2445,2020.0,Viseu,Tondela,19
+2446,2020.0,Viseu,Vila Nova de Paiva,28
+2447,2020.0,Viseu,Viseu,73
+2448,2020.0,Viseu,Vouzela,12
+2449,2020.0,Évora,Alandroal,10
+2450,2020.0,Évora,Arraiolos,10
+2451,2020.0,Évora,Borba,12
+2452,2020.0,Évora,Estremoz,27
+2453,2020.0,Évora,Montemor-o-Novo,9
+2454,2020.0,Évora,Montemor-o-novo,4
+2455,2020.0,Évora,Mora,2
+2456,2020.0,Évora,Mourão,7
+2457,2020.0,Évora,Portel,6
+2458,2020.0,Évora,Redondo,14
+2459,2020.0,Évora,Reguengos de Monsaraz,23
+2460,2020.0,Évora,Vendas Novas,1
+2461,2020.0,Évora,Viana do Alentejo,5
+2462,2020.0,Évora,Vila Viçosa,9
+2463,2020.0,Évora,Évora,28
+2464,2021.0,Aveiro,Albergaria-a-Velha,20
+2465,2021.0,Aveiro,Albergaria-a-velha,16
+2466,2021.0,Aveiro,Anadia,14
+2467,2021.0,Aveiro,Arouca,78
+2468,2021.0,Aveiro,Aveiro,50
+2469,2021.0,Aveiro,Castelo de Paiva,37
+2470,2021.0,Aveiro,Espinho,10
+2471,2021.0,Aveiro,Estarreja,18
+2472,2021.0,Aveiro,Mealhada,10
+2473,2021.0,Aveiro,Murtosa,3
+2474,2021.0,Aveiro,Oliveira de Azeméis,40
+2475,2021.0,Aveiro,Oliveira do Bairro,22
+2476,2021.0,Aveiro,Ovar,27
+2477,2021.0,Aveiro,Santa Maria da Feira,202
+2478,2021.0,Aveiro,Sever do Vouga,19
+2479,2021.0,Aveiro,São João da Madeira,1
+2480,2021.0,Aveiro,Vagos,15
+2481,2021.0,Aveiro,Vale de Cambra,18
+2482,2021.0,Aveiro,Águeda,28
+2483,2021.0,Aveiro,Ílhavo,11
+2484,2021.0,Beja,Aljustrel,16
+2485,2021.0,Beja,Almodôvar,11
+2486,2021.0,Beja,Alvito,8
+2487,2021.0,Beja,Barrancos,1
+2488,2021.0,Beja,Beja,81
+2489,2021.0,Beja,Castro Verde,13
+2490,2021.0,Beja,Cuba,5
+2491,2021.0,Beja,Ferreira do Alentejo,21
+2492,2021.0,Beja,Moura,20
+2493,2021.0,Beja,Mértola,11
+2494,2021.0,Beja,Odemira,46
+2495,2021.0,Beja,Ourique,18
+2496,2021.0,Beja,Serpa,29
+2497,2021.0,Beja,Vidigueira,26
+2498,2021.0,Braga,Amares,12
+2499,2021.0,Braga,Barcelos,46
+2500,2021.0,Braga,Braga,43
+2501,2021.0,Braga,Cabeceiras de Basto,58
+2502,2021.0,Braga,Celorico de Basto,75
+2503,2021.0,Braga,Esposende,14
+2504,2021.0,Braga,Fafe,86
+2505,2021.0,Braga,Guimarães,75
+2506,2021.0,Braga,Póvoa de Lanhoso,68
+2507,2021.0,Braga,Terras de Bouro,24
+2508,2021.0,Braga,VIZELA,1
+2509,2021.0,Braga,Vieira do Minho,95
+2510,2021.0,Braga,Vila Nova de Famalicão,59
+2511,2021.0,Braga,Vila Verde,66
+2512,2021.0,Braga,Vizela,18
+2513,2021.0,Bragança,Alfândega da Fé,6
+2514,2021.0,Bragança,Bragança,42
+2515,2021.0,Bragança,Carrazeda de Ansiães,22
+2516,2021.0,Bragança,Freixo de Espada À Cinta,22
+2517,2021.0,Bragança,Macedo de Cavaleiros,14
+2518,2021.0,Bragança,Miranda do Douro,6
+2519,2021.0,Bragança,Mirandela,36
+2520,2021.0,Bragança,Mogadouro,11
+2521,2021.0,Bragança,Torre de Moncorvo,20
+2522,2021.0,Bragança,Vila FLor,1
+2523,2021.0,Bragança,Vila Flor,4
+2524,2021.0,Bragança,Vimioso,10
+2525,2021.0,Bragança,Vinhais,33
+2526,2021.0,Castelo Branco,Belmonte,12
+2527,2021.0,Castelo Branco,Castelo Branco,65
+2528,2021.0,Castelo Branco,Covilhã,45
+2529,2021.0,Castelo Branco,Fundão,45
+2530,2021.0,Castelo Branco,Idanha-a-nova,26
+2531,2021.0,Castelo Branco,Oleiros,4
+2532,2021.0,Castelo Branco,Penamacor,6
+2533,2021.0,Castelo Branco,Proença-a-nova,9
+2534,2021.0,Castelo Branco,Sertã,19
+2535,2021.0,Castelo Branco,Vila Velha de Ródão,6
+2536,2021.0,Castelo Branco,Vila de Rei,4
+2537,2021.0,Coimbra,Arganil,11
+2538,2021.0,Coimbra,Cantanhede,18
+2539,2021.0,Coimbra,Coimbra,28
+2540,2021.0,Coimbra,Condeixa-a-nova,2
+2541,2021.0,Coimbra,Figueira da Foz,22
+2542,2021.0,Coimbra,Góis,7
+2543,2021.0,Coimbra,Lousã,5
+2544,2021.0,Coimbra,Mira,6
+2545,2021.0,Coimbra,Miranda do Corvo,8
+2546,2021.0,Coimbra,Montemor-o-velho,13
+2547,2021.0,Coimbra,Oliveira do Hospital,8
+2548,2021.0,Coimbra,Pampilhosa da Serra,6
+2549,2021.0,Coimbra,Penacova,4
+2550,2021.0,Coimbra,Penela,6
+2551,2021.0,Coimbra,Soure,4
+2552,2021.0,Coimbra,Tábua,5
+2553,2021.0,Coimbra,Vila Nova de Poiares,2
+2554,2021.0,Faro,Albufeira,15
+2555,2021.0,Faro,Alcoutim,5
+2556,2021.0,Faro,Aljezur,17
+2557,2021.0,Faro,Castro Marim,16
+2558,2021.0,Faro,Faro,29
+2559,2021.0,Faro,Lagoa,15
+2560,2021.0,Faro,Lagos,20
+2561,2021.0,Faro,Loulé,54
+2562,2021.0,Faro,Monchique,12
+2563,2021.0,Faro,Olhão,12
+2564,2021.0,Faro,Portimão,20
+2565,2021.0,Faro,Silves,40
+2566,2021.0,Faro,São Brás de Alportel,4
+2567,2021.0,Faro,Tavira,29
+2568,2021.0,Faro,Vila Real de Santo António,8
+2569,2021.0,Faro,Vila do Bispo,3
+2570,2021.0,Guarda,Aguiar da Beira,8
+2571,2021.0,Guarda,Almeida,13
+2572,2021.0,Guarda,Celorico da Beira,11
+2573,2021.0,Guarda,Figueira de Castelo Rodrigo,23
+2574,2021.0,Guarda,Fornos de Algodres,6
+2575,2021.0,Guarda,Gouveia,7
+2576,2021.0,Guarda,Guarda,28
+2577,2021.0,Guarda,Manteigas,3
+2578,2021.0,Guarda,Mêda,15
+2579,2021.0,Guarda,Pinhel,17
+2580,2021.0,Guarda,Sabugal,27
+2581,2021.0,Guarda,Seia,15
+2582,2021.0,Guarda,Trancoso,15
+2583,2021.0,Guarda,Vila Nova de Foz Côa,29
+2584,2021.0,Leiria,Alcobaça,20
+2585,2021.0,Leiria,Alvaiázere,8
+2586,2021.0,Leiria,Ansião,14
+2587,2021.0,Leiria,Batalha,4
+2588,2021.0,Leiria,Bombarral,9
+2589,2021.0,Leiria,Caldas da Rainha,9
+2590,2021.0,Leiria,Castanheira de Pêra,2
+2591,2021.0,Leiria,Figueiró Dos Vinhos,7
+2592,2021.0,Leiria,Leiria,48
+2593,2021.0,Leiria,Marinha Grande,13
+2594,2021.0,Leiria,Nazaré,2
+2595,2021.0,Leiria,Pedrógão Grande,3
+2596,2021.0,Leiria,Peniche,6
+2597,2021.0,Leiria,Pombal,36
+2598,2021.0,Leiria,Porto de Mós,9
+2599,2021.0,Leiria,Óbidos,11
+2600,2021.0,Lisboa,Alenquer,96
+2601,2021.0,Lisboa,Amadora,37
+2602,2021.0,Lisboa,Arruda Dos Vinhos,25
+2603,2021.0,Lisboa,Azambuja,41
+2604,2021.0,Lisboa,Cadaval,21
+2605,2021.0,Lisboa,Cascais,40
+2606,2021.0,Lisboa,Lisboa,16
+2607,2021.0,Lisboa,Loures,56
+2608,2021.0,Lisboa,Lourinhã,29
+2609,2021.0,Lisboa,Mafra,79
+2610,2021.0,Lisboa,Odivelas,30
+2611,2021.0,Lisboa,Oeiras,17
+2612,2021.0,Lisboa,Sintra,109
+2613,2021.0,Lisboa,Sobral de Monte Agraço,27
+2614,2021.0,Lisboa,Torres Vedras,75
+2615,2021.0,Lisboa,Vila Franca de Xira,26
+2616,2021.0,Portalegre,Alter do Chão,13
+2617,2021.0,Portalegre,Arronches,10
+2618,2021.0,Portalegre,Avis,10
+2619,2021.0,Portalegre,Campo Maior,22
+2620,2021.0,Portalegre,Castelo de Vide,2
+2621,2021.0,Portalegre,Crato,6
+2622,2021.0,Portalegre,Elvas,35
+2623,2021.0,Portalegre,Fronteira,7
+2624,2021.0,Portalegre,Gavião,4
+2625,2021.0,Portalegre,Marvão,8
+2626,2021.0,Portalegre,Monforte,6
+2627,2021.0,Portalegre,Nisa,15
+2628,2021.0,Portalegre,Ponte de Sor,22
+2629,2021.0,Portalegre,Portalegre,26
+2630,2021.0,Portalegre,Sousel,7
+2631,2021.0,Porto,Amarante,130
+2632,2021.0,Porto,Baião,96
+2633,2021.0,Porto,Felgueiras,89
+2634,2021.0,Porto,Gondomar,108
+2635,2021.0,Porto,Lousada,84
+2636,2021.0,Porto,Maia,57
+2637,2021.0,Porto,Marco de Canaveses,96
+2638,2021.0,Porto,Matosinhos,24
+2639,2021.0,Porto,Paredes,138
+2640,2021.0,Porto,Paços de Ferreira,76
+2641,2021.0,Porto,Penafiel,122
+2642,2021.0,Porto,Porto,7
+2643,2021.0,Porto,Póvoa de Varzim,49
+2644,2021.0,Porto,Santo Tirso,82
+2645,2021.0,Porto,Trofa,60
+2646,2021.0,Porto,Valongo,16
+2647,2021.0,Porto,Vila Nova de Gaia,114
+2648,2021.0,Porto,Vila do Conde,11
+2649,2021.0,Santarém,Abrantes,37
+2650,2021.0,Santarém,Alcanena,11
+2651,2021.0,Santarém,Almeirim,26
+2652,2021.0,Santarém,Alpiarça,10
+2653,2021.0,Santarém,Benavente,41
+2654,2021.0,Santarém,Cartaxo,26
+2655,2021.0,Santarém,Chamusca,12
+2656,2021.0,Santarém,Constância,4
+2657,2021.0,Santarém,Coruche,26
+2658,2021.0,Santarém,Entroncamento,2
+2659,2021.0,Santarém,Ferreira do Zêzere,10
+2660,2021.0,Santarém,Golegã,2
+2661,2021.0,Santarém,Mação,5
+2662,2021.0,Santarém,Ourém,64
+2663,2021.0,Santarém,Rio Maior,15
+2664,2021.0,Santarém,Salvaterra de Magos,27
+2665,2021.0,Santarém,Santarém,72
+2666,2021.0,Santarém,Sardoal,13
+2667,2021.0,Santarém,Tomar,56
+2668,2021.0,Santarém,Torres Novas,23
+2669,2021.0,Santarém,Vila Nova da Barquinha,4
+2670,2021.0,Setúbal,Alcochete,13
+2671,2021.0,Setúbal,Alcácer do Sal,36
+2672,2021.0,Setúbal,Almada,70
+2673,2021.0,Setúbal,Barreiro,29
+2674,2021.0,Setúbal,Grândola,22
+2675,2021.0,Setúbal,Moita,33
+2676,2021.0,Setúbal,Montijo,55
+2677,2021.0,Setúbal,Palmela,86
+2678,2021.0,Setúbal,Santiago do Cacém,24
+2679,2021.0,Setúbal,Seixal,54
+2680,2021.0,Setúbal,Sesimbra,15
+2681,2021.0,Setúbal,Setúbal,47
+2682,2021.0,Setúbal,Sines,9
+2683,2021.0,Viana do Castelo,Arcos de Valdevez,133
+2684,2021.0,Viana do Castelo,Caminha,16
+2685,2021.0,Viana do Castelo,Melgaço,16
+2686,2021.0,Viana do Castelo,Monção,41
+2687,2021.0,Viana do Castelo,Paredes de Coura,39
+2688,2021.0,Viana do Castelo,Ponte da Barca,78
+2689,2021.0,Viana do Castelo,Ponte de Lima,87
+2690,2021.0,Viana do Castelo,Valença,55
+2691,2021.0,Viana do Castelo,Viana do Castelo,87
+2692,2021.0,Viana do Castelo,Vila Nova de Cerveira,11
+2693,2021.0,Vila Real,Alijó,20
+2694,2021.0,Vila Real,Boticas,47
+2695,2021.0,Vila Real,Chaves,46
+2696,2021.0,Vila Real,Mesão Frio,9
+2697,2021.0,Vila Real,Mondim de Basto,20
+2698,2021.0,Vila Real,Montalegre,191
+2699,2021.0,Vila Real,Murça,18
+2700,2021.0,Vila Real,Peso da Régua,11
+2701,2021.0,Vila Real,Ribeira de Pena,32
+2702,2021.0,Vila Real,Sabrosa,9
+2703,2021.0,Vila Real,Santa Marta de Penaguião,22
+2704,2021.0,Vila Real,Valpaços,54
+2705,2021.0,Vila Real,Vila Pouca de Aguiar,77
+2706,2021.0,Vila Real,Vila Real,60
+2707,2021.0,Viseu,Armamar,11
+2708,2021.0,Viseu,Carregal do Sal,10
+2709,2021.0,Viseu,Castro Daire,84
+2710,2021.0,Viseu,Cinfães,70
+2711,2021.0,Viseu,Lamego,36
+2712,2021.0,Viseu,Mangualde,17
+2713,2021.0,Viseu,Moimenta da Beira,12
+2714,2021.0,Viseu,Mortágua,2
+2715,2021.0,Viseu,Nelas,12
+2716,2021.0,Viseu,Oliveira de Frades,6
+2717,2021.0,Viseu,Penalva do Castelo,8
+2718,2021.0,Viseu,Penedono,21
+2719,2021.0,Viseu,Resende,28
+2720,2021.0,Viseu,Santa Comba Dão,4
+2721,2021.0,Viseu,Sernancelhe,13
+2722,2021.0,Viseu,Sátão,17
+2723,2021.0,Viseu,São João da Pesqueira,24
+2724,2021.0,Viseu,São Pedro do Sul,12
+2725,2021.0,Viseu,Tabuaço,7
+2726,2021.0,Viseu,Tarouca,13
+2727,2021.0,Viseu,Tondela,18
+2728,2021.0,Viseu,Vila Nova de Paiva,42
+2729,2021.0,Viseu,Viseu,52
+2730,2021.0,Viseu,Vouzela,8
+2731,2021.0,Évora,Alandroal,12
+2732,2021.0,Évora,Arraiolos,10
+2733,2021.0,Évora,Borba,14
+2734,2021.0,Évora,Estremoz,16
+2735,2021.0,Évora,Montemor-o-Novo,23
+2736,2021.0,Évora,Montemor-o-novo,12
+2737,2021.0,Évora,Mora,7
+2738,2021.0,Évora,Mourão,10
+2739,2021.0,Évora,Portel,12
+2740,2021.0,Évora,Redondo,8
+2741,2021.0,Évora,Reguengos de Monsaraz,20
+2742,2021.0,Évora,Vendas Novas,7
+2743,2021.0,Évora,Viana do Alentejo,10
+2744,2021.0,Évora,Vila Viçosa,10
+2745,2021.0,Évora,Évora,42
+2746,2022.0,Aveiro,Albergaria-a-velha,3
+2747,2022.0,Aveiro,Anadia,1
+2748,2022.0,Aveiro,Arouca,12
+2749,2022.0,Aveiro,Aveiro,4
+2750,2022.0,Aveiro,Castelo de Paiva,3
+2751,2022.0,Aveiro,Estarreja,3
+2752,2022.0,Aveiro,Mealhada,2
+2753,2022.0,Aveiro,Oliveira de Azeméis,6
+2754,2022.0,Aveiro,Oliveira do Bairro,1
+2755,2022.0,Aveiro,Ovar,6
+2756,2022.0,Aveiro,Santa Maria da Feira,22
+2757,2022.0,Aveiro,São João da Madeira,1
+2758,2022.0,Aveiro,Vagos,1
+2759,2022.0,Aveiro,Vale de Cambra,6
+2760,2022.0,Aveiro,Águeda,1
+2761,2022.0,Beja,Beja,1
+2762,2022.0,Beja,Ferreira do Alentejo,1
+2763,2022.0,Beja,Odemira,1
+2764,2022.0,Beja,Ourique,1
+2765,2022.0,Beja,Serpa,1
+2766,2022.0,Beja,Vidigueira,2
+2767,2022.0,Braga,Amares,4
+2768,2022.0,Braga,Barcelos,6
+2769,2022.0,Braga,Braga,13
+2770,2022.0,Braga,Cabeceiras de Basto,25
+2771,2022.0,Braga,Celorico de Basto,11
+2772,2022.0,Braga,Esposende,2
+2773,2022.0,Braga,Fafe,29
+2774,2022.0,Braga,Guimarães,14
+2775,2022.0,Braga,Póvoa de Lanhoso,27
+2776,2022.0,Braga,Terras de Bouro,14
+2777,2022.0,Braga,Vieira do Minho,36
+2778,2022.0,Braga,Vila Nova de Famalicão,11
+2779,2022.0,Braga,Vila Verde,20
+2780,2022.0,Braga,Vizela,1
+2781,2022.0,Bragança,Alfândega da Fé,1
+2782,2022.0,Bragança,Bragança,13
+2783,2022.0,Bragança,Carrazeda de Ansiães,5
+2784,2022.0,Bragança,Freixo de Espada À Cinta,6
+2785,2022.0,Bragança,Macedo de Cavaleiros,3
+2786,2022.0,Bragança,Miranda do Douro,1
+2787,2022.0,Bragança,Mirandela,3
+2788,2022.0,Bragança,Mogadouro,8
+2789,2022.0,Bragança,Torre de Moncorvo,2
+2790,2022.0,Bragança,Vimioso,3
+2791,2022.0,Bragança,Vinhais,23
+2792,2022.0,Castelo Branco,Covilhã,4
+2793,2022.0,Castelo Branco,Fundão,7
+2794,2022.0,Castelo Branco,Oleiros,1
+2795,2022.0,Castelo Branco,Penamacor,1
+2796,2022.0,Castelo Branco,Proença-a-nova,1
+2797,2022.0,Castelo Branco,Sertã,1
+2798,2022.0,Coimbra,Cantanhede,1
+2799,2022.0,Coimbra,Coimbra,2
+2800,2022.0,Coimbra,Figueira da Foz,4
+2801,2022.0,Coimbra,Oliveira do Hospital,1
+2802,2022.0,Coimbra,Pampilhosa da Serra,2
+2803,2022.0,Faro,Albufeira,2
+2804,2022.0,Faro,Alcoutim,2
+2805,2022.0,Faro,Aljezur,1
+2806,2022.0,Faro,Faro,3
+2807,2022.0,Faro,Loulé,1
+2808,2022.0,Faro,Olhão,1
+2809,2022.0,Faro,Silves,2
+2810,2022.0,Faro,São Brás de Alportel,1
+2811,2022.0,Faro,Tavira,2
+2812,2022.0,Guarda,Almeida,4
+2813,2022.0,Guarda,Figueira de Castelo Rodrigo,5
+2814,2022.0,Guarda,Fornos de Algodres,2
+2815,2022.0,Guarda,Gouveia,1
+2816,2022.0,Guarda,Guarda,3
+2817,2022.0,Guarda,Manteigas,1
+2818,2022.0,Guarda,Mêda,2
+2819,2022.0,Guarda,Pinhel,2
+2820,2022.0,Guarda,Sabugal,10
+2821,2022.0,Guarda,Seia,2
+2822,2022.0,Guarda,Trancoso,1
+2823,2022.0,Leiria,Batalha,1
+2824,2022.0,Leiria,Bombarral,2
+2825,2022.0,Leiria,Caldas da Rainha,4
+2826,2022.0,Leiria,Castanheira de Pêra,1
+2827,2022.0,Leiria,Leiria,5
+2828,2022.0,Leiria,Marinha Grande,1
+2829,2022.0,Leiria,Pombal,6
+2830,2022.0,Leiria,Porto de Mós,2
+2831,2022.0,Lisboa,Alenquer,10
+2832,2022.0,Lisboa,Arruda Dos Vinhos,2
+2833,2022.0,Lisboa,Azambuja,6
+2834,2022.0,Lisboa,Cadaval,2
+2835,2022.0,Lisboa,Lisboa,1
+2836,2022.0,Lisboa,Loures,2
+2837,2022.0,Lisboa,Lourinhã,5
+2838,2022.0,Lisboa,Mafra,9
+2839,2022.0,Lisboa,Odivelas,2
+2840,2022.0,Lisboa,Sintra,15
+2841,2022.0,Lisboa,Sobral de Monte Agraço,1
+2842,2022.0,Lisboa,Torres Vedras,11
+2843,2022.0,Lisboa,Vila Franca de Xira,2
+2844,2022.0,Portalegre,Alter do Chão,1
+2845,2022.0,Portalegre,Campo Maior,1
+2846,2022.0,Portalegre,Castelo de Vide,1
+2847,2022.0,Portalegre,Elvas,5
+2848,2022.0,Portalegre,Fronteira,1
+2849,2022.0,Portalegre,Nisa,1
+2850,2022.0,Portalegre,Ponte de Sor,1
+2851,2022.0,Portalegre,Portalegre,2
+2852,2022.0,Porto,Amarante,12
+2853,2022.0,Porto,Baião,15
+2854,2022.0,Porto,Felgueiras,17
+2855,2022.0,Porto,Gondomar,13
+2856,2022.0,Porto,Lousada,9
+2857,2022.0,Porto,Maia,3
+2858,2022.0,Porto,Marco de Canaveses,11
+2859,2022.0,Porto,Matosinhos,3
+2860,2022.0,Porto,Paredes,17
+2861,2022.0,Porto,Paços de Ferreira,12
+2862,2022.0,Porto,Penafiel,30
+2863,2022.0,Porto,Porto,1
+2864,2022.0,Porto,Póvoa de Varzim,4
+2865,2022.0,Porto,Santo Tirso,7
+2866,2022.0,Porto,Trofa,6
+2867,2022.0,Porto,Valongo,3
+2868,2022.0,Porto,Vila Nova de Gaia,14
+2869,2022.0,Porto,Vila do Conde,1
+2870,2022.0,Santarém,Alcanena,2
+2871,2022.0,Santarém,Almeirim,2
+2872,2022.0,Santarém,Alpiarça,4
+2873,2022.0,Santarém,Ferreira do Zêzere,1
+2874,2022.0,Santarém,Golegã,1
+2875,2022.0,Santarém,Mação,3
+2876,2022.0,Santarém,Ourém,3
+2877,2022.0,Santarém,Rio Maior,2
+2878,2022.0,Santarém,Salvaterra de Magos,1
+2879,2022.0,Santarém,Santarém,3
+2880,2022.0,Santarém,Tomar,3
+2881,2022.0,Setúbal,Alcochete,1
+2882,2022.0,Setúbal,Alcácer do Sal,2
+2883,2022.0,Setúbal,Almada,4
+2884,2022.0,Setúbal,Barreiro,1
+2885,2022.0,Setúbal,Grândola,1
+2886,2022.0,Setúbal,Moita,2
+2887,2022.0,Setúbal,Seixal,1
+2888,2022.0,Setúbal,Sesimbra,5
+2889,2022.0,Viana do Castelo,Arcos de Valdevez,71
+2890,2022.0,Viana do Castelo,Melgaço,8
+2891,2022.0,Viana do Castelo,Monção,13
+2892,2022.0,Viana do Castelo,Paredes de Coura,22
+2893,2022.0,Viana do Castelo,Ponte da Barca,21
+2894,2022.0,Viana do Castelo,Ponte de Lima,15
+2895,2022.0,Viana do Castelo,Valença,27
+2896,2022.0,Viana do Castelo,Viana do Castelo,13
+2897,2022.0,Viana do Castelo,Vila Nova de Cerveira,1
+2898,2022.0,Vila Real,Alijó,6
+2899,2022.0,Vila Real,Boticas,30
+2900,2022.0,Vila Real,Chaves,21
+2901,2022.0,Vila Real,Mesão Frio,2
+2902,2022.0,Vila Real,Mondim de Basto,11
+2903,2022.0,Vila Real,Montalegre,97
+2904,2022.0,Vila Real,Murça,2
+2905,2022.0,Vila Real,Ribeira de Pena,9
+2906,2022.0,Vila Real,Sabrosa,1
+2907,2022.0,Vila Real,Santa Marta de Penaguião,3
+2908,2022.0,Vila Real,Valpaços,16
+2909,2022.0,Vila Real,Vila Pouca de Aguiar,20
+2910,2022.0,Vila Real,Vila Real,15
+2911,2022.0,Viseu,Carregal do Sal,1
+2912,2022.0,Viseu,Castro Daire,39
+2913,2022.0,Viseu,Cinfães,35
+2914,2022.0,Viseu,Lamego,8
+2915,2022.0,Viseu,Mangualde,2
+2916,2022.0,Viseu,Moimenta da Beira,3
+2917,2022.0,Viseu,Oliveira de Frades,1
+2918,2022.0,Viseu,Penalva do Castelo,1
+2919,2022.0,Viseu,Resende,11
+2920,2022.0,Viseu,Santa Comba Dão,1
+2921,2022.0,Viseu,Sátão,3
+2922,2022.0,Viseu,São João da Pesqueira,2
+2923,2022.0,Viseu,São Pedro do Sul,4
+2924,2022.0,Viseu,Tabuaço,1
+2925,2022.0,Viseu,Tarouca,5
+2926,2022.0,Viseu,Tondela,2
+2927,2022.0,Viseu,Vila Nova de Paiva,16
+2928,2022.0,Viseu,Viseu,13
+2929,2022.0,Viseu,Vouzela,1
+2930,2022.0,Évora,Alandroal,1
+2931,2022.0,Évora,Mourão,1
+2932,2022.0,Évora,Portel,1
+2933,2022.0,Évora,Évora,1
