@@ -20,7 +20,7 @@ jobs:
           python -m pip install --upgrade pip
           python -m pip install -r requirements.txt
       - name: Run script
-        run:  python xmlretriever.py
+        run:  updater.py
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v4.1.1
         with:
