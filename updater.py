@@ -46,10 +46,21 @@ df_actual.drop(df_actual[df_actual.ANO == 2022].index, inplace=True)
 # Define dict with both dataframes
 frames = [df_actual,df_2022]
 
-frame = pd.concat(li, axis=0, ignore_index=True)
+frame = pd.concat(frames, axis=0, ignore_index=True)
 
 final_df = pd.concat(frames)
 
 """## Save updated dataframe"""
 
 final_df.to_csv("ICNF_2013_2022_full.csv",index=False)
+
+"""## Create Dataframe for Sankey"""
+
+df_sankey = final_df.groupby(['ANO','DISTRITO','CONCELHO'])[['NCCO']].nunique().reset_index()
+
+"""## Save Sankey DataFrame to CSV"""
+
+df_sankey.to_csv("ICNF_2013_2022_SANKEY.csv",index=False)
+
+
+
