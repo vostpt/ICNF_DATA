@@ -5,7 +5,7 @@ name: ICNF DATA SCRAPPER DAILY
 # Controls when the workflow will run / Helpful website: https://crontab.guru/
 on:
   schedule:
-    - cron: "00 01 * * *
+    - cron: "00 01 * * *"
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
