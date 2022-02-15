@@ -8,6 +8,7 @@ on:
     # * is a special character in YAML so you have to quote this string
     - cron: '0 6 * * *'
   # Run the workflow manually for debugging or forced executions
+  workflow_dispatch:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
