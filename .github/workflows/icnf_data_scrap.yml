@@ -1,4 +1,4 @@
-name: Run scrapping script to get ICNF data
+name: FRESH-ICNF-DATA
 
 on:
   schedule:
@@ -11,6 +11,7 @@ jobs:
     container: python:3
 
     steps:
+    
       - name: checkout repo content
       - uses: actions/checkout@v2
         with:
