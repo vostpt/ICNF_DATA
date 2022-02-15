@@ -15,9 +15,6 @@ jobs:
       - uses: actions/checkout@v2
         with:
           ref: ${{ github.head_ref }}
-          - name: check the file list
-          run: |
-          ls -al # list the files for confirmation.
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
