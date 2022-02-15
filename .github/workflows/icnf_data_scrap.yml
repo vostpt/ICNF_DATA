@@ -9,9 +9,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     container: python:3
-
     steps:
-    
       - name: checkout repo content
       - uses: actions/checkout@v2
         with:
@@ -27,4 +25,3 @@ jobs:
         with:
           commit_message: ICNF Updated
           branch: ${{ github.head_ref }}
-
