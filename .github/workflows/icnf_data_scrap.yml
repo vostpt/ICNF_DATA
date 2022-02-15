@@ -1,17 +1,16 @@
-name: Run scrapping script to get ICNF data
+name: FRESH-ICNF-DATA
 
 on:
   schedule:
     # Configs when to run this script, helpful website: https://crontab.guru/
     - cron: "00 01 * * *"
     
-
 jobs:
   build:
     runs-on: ubuntu-latest
     container: python:3
-
     steps:
+      - name: checkout repo content
       - uses: actions/checkout@v2
         with:
           ref: ${{ github.head_ref }}
@@ -26,4 +25,3 @@ jobs:
         with:
           commit_message: ICNF Updated
           branch: ${{ github.head_ref }}
-
