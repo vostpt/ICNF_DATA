@@ -7,6 +7,8 @@ on:
   schedule:
     # * is a special character in YAML so you have to quote this string
     - cron: '0 6 * * *'
+  # Run the workflow manually for debugging or forced executions
+  workflow_dispatch:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -23,16 +25,20 @@ jobs:
         with:
           ref: ${{ github.head_ref }}
 
-      # Runs installation of system and dependencies
-      - name: Run Scripts
+      - uses: actions/setup-python@v2
+        with:
+          python-version: '3.x' # Version range or exact version of a Python version to use, using SemVer's version range syntax
+
+      # Runs a single command using the runners shell
+      - name: Install python packages
         run: |
           python -m pip install --upgrade pip
           python -m pip install -r requirements.txt
 
-      # Runs updater app 
       - name: Run App 
-        run: updater.py
-      # Commits New Data 
+        run: python updater.py
+
+      # Commit New Data 
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v4.1.1
         with:
