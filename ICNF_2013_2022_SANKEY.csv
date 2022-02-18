@@ -2750,7 +2750,6 @@ ANO,DISTRITO,CONCELHO,NCCO
 2022,Aveiro,Arouca,13
 2022,Aveiro,Aveiro,5
 2022,Aveiro,Castelo de Paiva,3
-2022,Aveiro,Espinho,1
 2022,Aveiro,Estarreja,3
 2022,Aveiro,Mealhada,2
 2022,Aveiro,Oliveira de Azeméis,6
@@ -2764,6 +2763,7 @@ ANO,DISTRITO,CONCELHO,NCCO
 2022,Beja,Almodôvar,1
 2022,Beja,Beja,1
 2022,Beja,Ferreira do Alentejo,3
+2022,Beja,Mértola,1
 2022,Beja,Odemira,1
 2022,Beja,Ourique,1
 2022,Beja,Serpa,1
@@ -2806,14 +2806,13 @@ ANO,DISTRITO,CONCELHO,NCCO
 2022,Coimbra,Coimbra,3
 2022,Coimbra,Figueira da Foz,4
 2022,Coimbra,Oliveira do Hospital,1
-2022,Coimbra,Pampilhosa da Serra,2
+2022,Coimbra,Pampilhosa da Serra,1
 2022,Faro,Albufeira,2
 2022,Faro,Alcoutim,2
 2022,Faro,Aljezur,1
 2022,Faro,Faro,6
 2022,Faro,Lagoa,1
 2022,Faro,Loulé,1
-2022,Faro,Olhão,1
 2022,Faro,Silves,1
 2022,Faro,São Brás de Alportel,1
 2022,Faro,Tavira,2
@@ -2826,13 +2825,13 @@ ANO,DISTRITO,CONCELHO,NCCO
 2022,Guarda,Manteigas,1
 2022,Guarda,Mêda,2
 2022,Guarda,Pinhel,3
-2022,Guarda,Sabugal,5
+2022,Guarda,Sabugal,6
 2022,Guarda,Seia,2
-2022,Guarda,Trancoso,1
+2022,Guarda,Trancoso,2
 2022,Leiria,Alcobaça,1
 2022,Leiria,Batalha,1
-2022,Leiria,Bombarral,2
-2022,Leiria,Caldas da Rainha,4
+2022,Leiria,Bombarral,1
+2022,Leiria,Caldas da Rainha,3
 2022,Leiria,Castanheira de Pêra,1
 2022,Leiria,Leiria,6
 2022,Leiria,Marinha Grande,1
@@ -2876,6 +2875,7 @@ ANO,DISTRITO,CONCELHO,NCCO
 2022,Porto,Valongo,3
 2022,Porto,Vila Nova de Gaia,14
 2022,Porto,Vila do Conde,1
+2022,Santarém,Abrantes,1
 2022,Santarém,Alcanena,2
 2022,Santarém,Almeirim,2
 2022,Santarém,Alpiarça,4
@@ -2885,7 +2885,7 @@ ANO,DISTRITO,CONCELHO,NCCO
 2022,Santarém,Ourém,3
 2022,Santarém,Rio Maior,3
 2022,Santarém,Salvaterra de Magos,1
-2022,Santarém,Santarém,4
+2022,Santarém,Santarém,6
 2022,Santarém,Tomar,3
 2022,Santarém,Torres Novas,1
 2022,Setúbal,Alcochete,1
