@@ -1,3 +1,5 @@
+[![ICNF DATA SCRAPPER DAILY](https://github.com/vostpt/ICNF_DATA/actions/workflows/updater.yml/badge.svg)](https://github.com/vostpt/ICNF_DATA/actions/workflows/updater.yml)
+
 # ICNF_DATA
 
 ## A repository for ICNF data 
