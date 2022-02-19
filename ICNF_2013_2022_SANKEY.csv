@@ -2747,13 +2747,13 @@ ANO,DISTRITO,CONCELHO,NCCO
 2021,Évora,Évora,42
 2022,Aveiro,Albergaria-a-velha,3
 2022,Aveiro,Anadia,1
-2022,Aveiro,Arouca,13
+2022,Aveiro,Arouca,12
 2022,Aveiro,Aveiro,5
 2022,Aveiro,Castelo de Paiva,3
 2022,Aveiro,Estarreja,3
 2022,Aveiro,Mealhada,2
 2022,Aveiro,Oliveira de Azeméis,6
-2022,Aveiro,Oliveira do Bairro,1
+2022,Aveiro,Oliveira do Bairro,3
 2022,Aveiro,Ovar,6
 2022,Aveiro,Santa Maria da Feira,23
 2022,Aveiro,São João da Madeira,1
@@ -2767,7 +2767,7 @@ ANO,DISTRITO,CONCELHO,NCCO
 2022,Beja,Odemira,1
 2022,Beja,Ourique,1
 2022,Beja,Serpa,1
-2022,Beja,Vidigueira,3
+2022,Beja,Vidigueira,2
 2022,Braga,Amares,4
 2022,Braga,Barcelos,6
 2022,Braga,Braga,13
@@ -2807,7 +2807,7 @@ ANO,DISTRITO,CONCELHO,NCCO
 2022,Coimbra,Figueira da Foz,4
 2022,Coimbra,Oliveira do Hospital,1
 2022,Coimbra,Pampilhosa da Serra,1
-2022,Faro,Albufeira,2
+2022,Faro,Albufeira,3
 2022,Faro,Alcoutim,2
 2022,Faro,Aljezur,1
 2022,Faro,Faro,6
@@ -2821,7 +2821,7 @@ ANO,DISTRITO,CONCELHO,NCCO
 2022,Guarda,Figueira de Castelo Rodrigo,5
 2022,Guarda,Fornos de Algodres,2
 2022,Guarda,Gouveia,2
-2022,Guarda,Guarda,6
+2022,Guarda,Guarda,5
 2022,Guarda,Manteigas,1
 2022,Guarda,Mêda,2
 2022,Guarda,Pinhel,3
@@ -2845,8 +2845,8 @@ ANO,DISTRITO,CONCELHO,NCCO
 2022,Lisboa,Loures,2
 2022,Lisboa,Lourinhã,6
 2022,Lisboa,Mafra,7
-2022,Lisboa,Odivelas,2
-2022,Lisboa,Sintra,17
+2022,Lisboa,Odivelas,4
+2022,Lisboa,Sintra,16
 2022,Lisboa,Sobral de Monte Agraço,1
 2022,Lisboa,Torres Vedras,12
 2022,Lisboa,Vila Franca de Xira,1
@@ -2865,7 +2865,7 @@ ANO,DISTRITO,CONCELHO,NCCO
 2022,Porto,Maia,5
 2022,Porto,Marco de Canaveses,12
 2022,Porto,Matosinhos,3
-2022,Porto,Paredes,17
+2022,Porto,Paredes,16
 2022,Porto,Paços de Ferreira,13
 2022,Porto,Penafiel,30
 2022,Porto,Porto,1
@@ -2893,9 +2893,9 @@ ANO,DISTRITO,CONCELHO,NCCO
 2022,Setúbal,Almada,4
 2022,Setúbal,Barreiro,1
 2022,Setúbal,Grândola,1
-2022,Setúbal,Moita,2
+2022,Setúbal,Moita,1
 2022,Setúbal,Seixal,1
-2022,Setúbal,Sesimbra,5
+2022,Setúbal,Sesimbra,4
 2022,Viana do Castelo,Arcos de Valdevez,74
 2022,Viana do Castelo,Melgaço,8
 2022,Viana do Castelo,Monção,13
