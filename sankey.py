@@ -265,9 +265,9 @@ def build_graph(dropdown_year, dropdown_district):
     )
 
     # Update Layout 
-    fig.update_layout(plot_bgcolor='black', paper_bgcolor='black',font=dict(size = 10, color = 'white'))
+    fig.update_layout(plot_bgcolor='black', paper_bgcolor='black',font=dict(size = 10, color = 'white'), height=900)
     # Update Orientation 
-    fig.update_traces(orientation="v", selector=dict(type='sankey'))
+    # fig.update_traces(orientation="v", selector=dict(type='sankey'))
 
     return fig 
 
