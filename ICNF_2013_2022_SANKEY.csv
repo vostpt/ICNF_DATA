@@ -2756,7 +2756,7 @@ ANO,DISTRITO,CONCELHO,NCCO
 2022,Aveiro,Oliveira do Bairro,3
 2022,Aveiro,Ovar,8
 2022,Aveiro,Santa Maria da Feira,28
-2022,Aveiro,Sever do Vouga,1
+2022,Aveiro,Sever do Vouga,2
 2022,Aveiro,São João da Madeira,1
 2022,Aveiro,Vagos,1
 2022,Aveiro,Vale de Cambra,9
@@ -2764,7 +2764,8 @@ ANO,DISTRITO,CONCELHO,NCCO
 2022,Aveiro,Ílhavo,1
 2022,Beja,Aljustrel,1
 2022,Beja,Almodôvar,1
-2022,Beja,Beja,1
+2022,Beja,Alvito,1
+2022,Beja,Beja,2
 2022,Beja,Ferreira do Alentejo,5
 2022,Beja,Moura,1
 2022,Beja,Mértola,1
@@ -2778,7 +2779,7 @@ ANO,DISTRITO,CONCELHO,NCCO
 2022,Braga,Cabeceiras de Basto,32
 2022,Braga,Celorico de Basto,14
 2022,Braga,Esposende,2
-2022,Braga,Fafe,30
+2022,Braga,Fafe,31
 2022,Braga,Guimarães,16
 2022,Braga,Póvoa de Lanhoso,30
 2022,Braga,Terras de Bouro,21
@@ -2791,14 +2792,14 @@ ANO,DISTRITO,CONCELHO,NCCO
 2022,Bragança,Carrazeda de Ansiães,6
 2022,Bragança,Freixo de Espada À Cinta,6
 2022,Bragança,Macedo de Cavaleiros,3
-2022,Bragança,Miranda do Douro,4
+2022,Bragança,Miranda do Douro,5
 2022,Bragança,Mirandela,6
 2022,Bragança,Mogadouro,8
 2022,Bragança,Torre de Moncorvo,4
 2022,Bragança,Vimioso,6
 2022,Bragança,Vinhais,28
 2022,Castelo Branco,Belmonte,2
-2022,Castelo Branco,Castelo Branco,3
+2022,Castelo Branco,Castelo Branco,4
 2022,Castelo Branco,Covilhã,6
 2022,Castelo Branco,Fundão,10
 2022,Castelo Branco,Idanha-a-nova,3
@@ -2865,6 +2866,7 @@ ANO,DISTRITO,CONCELHO,NCCO
 2022,Portalegre,Campo Maior,3
 2022,Portalegre,Castelo de Vide,1
 2022,Portalegre,Elvas,7
+2022,Portalegre,Monforte,1
 2022,Portalegre,Nisa,2
 2022,Portalegre,Ponte de Sor,1
 2022,Portalegre,Portalegre,4
@@ -2876,7 +2878,7 @@ ANO,DISTRITO,CONCELHO,NCCO
 2022,Porto,Maia,7
 2022,Porto,Marco de Canaveses,18
 2022,Porto,Matosinhos,3
-2022,Porto,Paredes,18
+2022,Porto,Paredes,19
 2022,Porto,Paços de Ferreira,15
 2022,Porto,Penafiel,60
 2022,Porto,Porto,1
@@ -2916,13 +2918,13 @@ ANO,DISTRITO,CONCELHO,NCCO
 2022,Setúbal,Sesimbra,4
 2022,Setúbal,Setúbal,1
 2022,Setúbal,Sines,5
-2022,Viana do Castelo,Arcos de Valdevez,87
+2022,Viana do Castelo,Arcos de Valdevez,89
 2022,Viana do Castelo,Melgaço,9
 2022,Viana do Castelo,Monção,15
 2022,Viana do Castelo,Paredes de Coura,22
 2022,Viana do Castelo,Ponte da Barca,25
 2022,Viana do Castelo,Ponte de Lima,22
-2022,Viana do Castelo,Valença,34
+2022,Viana do Castelo,Valença,35
 2022,Viana do Castelo,Viana do Castelo,18
 2022,Viana do Castelo,Vila Nova de Cerveira,1
 2022,Vila Real,Alijó,8
