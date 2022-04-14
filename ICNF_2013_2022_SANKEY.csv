@@ -2756,7 +2756,7 @@ ANO,DISTRITO,CONCELHO,NCCO
 2022,Aveiro,Oliveira de Azeméis,11
 2022,Aveiro,Oliveira do Bairro,4
 2022,Aveiro,Ovar,10
-2022,Aveiro,Santa Maria da Feira,30
+2022,Aveiro,Santa Maria da Feira,31
 2022,Aveiro,Sever do Vouga,2
 2022,Aveiro,São João da Madeira,1
 2022,Aveiro,Vagos,1
@@ -2789,8 +2789,8 @@ ANO,DISTRITO,CONCELHO,NCCO
 2022,Braga,Vila Verde,25
 2022,Braga,Vizela,2
 2022,Bragança,Alfândega da Fé,4
-2022,Bragança,Bragança,23
-2022,Bragança,Carrazeda de Ansiães,9
+2022,Bragança,Bragança,22
+2022,Bragança,Carrazeda de Ansiães,8
 2022,Bragança,Freixo de Espada À Cinta,9
 2022,Bragança,Macedo de Cavaleiros,6
 2022,Bragança,Miranda do Douro,6
@@ -2798,8 +2798,8 @@ ANO,DISTRITO,CONCELHO,NCCO
 2022,Bragança,Mogadouro,9
 2022,Bragança,Torre de Moncorvo,5
 2022,Bragança,Vila Flor,1
-2022,Bragança,Vimioso,9
-2022,Bragança,Vinhais,32
+2022,Bragança,Vimioso,8
+2022,Bragança,Vinhais,33
 2022,Castelo Branco,Belmonte,2
 2022,Castelo Branco,Castelo Branco,8
 2022,Castelo Branco,Covilhã,8
@@ -2809,7 +2809,6 @@ ANO,DISTRITO,CONCELHO,NCCO
 2022,Castelo Branco,Penamacor,2
 2022,Castelo Branco,Proença-a-nova,1
 2022,Castelo Branco,Sertã,1
-2022,Castelo Branco,Vila de Rei,1
 2022,Coimbra,Cantanhede,1
 2022,Coimbra,Coimbra,8
 2022,Coimbra,Figueira da Foz,14
@@ -2844,8 +2843,8 @@ ANO,DISTRITO,CONCELHO,NCCO
 2022,Guarda,Manteigas,1
 2022,Guarda,Mêda,5
 2022,Guarda,Pinhel,9
-2022,Guarda,Sabugal,17
-2022,Guarda,Seia,3
+2022,Guarda,Sabugal,14
+2022,Guarda,Seia,2
 2022,Guarda,Trancoso,6
 2022,Guarda,Vila Nova de Foz Côa,4
 2022,Leiria,Batalha,2
@@ -2914,6 +2913,7 @@ ANO,DISTRITO,CONCELHO,NCCO
 2022,Santarém,Rio Maior,4
 2022,Santarém,Salvaterra de Magos,1
 2022,Santarém,Santarém,9
+2022,Santarém,Sardoal,1
 2022,Santarém,Tomar,9
 2022,Santarém,Torres Novas,4
 2022,Setúbal,Alcochete,1
