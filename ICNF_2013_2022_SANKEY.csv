@@ -2756,7 +2756,7 @@ ANO,DISTRITO,CONCELHO,NCCO
 2022,Aveiro,Oliveira de Azeméis,10
 2022,Aveiro,Oliveira do Bairro,4
 2022,Aveiro,Ovar,12
-2022,Aveiro,Santa Maria da Feira,32
+2022,Aveiro,Santa Maria da Feira,33
 2022,Aveiro,Sever do Vouga,2
 2022,Aveiro,São João da Madeira,1
 2022,Aveiro,Vagos,2
@@ -2788,7 +2788,7 @@ ANO,DISTRITO,CONCELHO,NCCO
 2022,Braga,Vila Nova de Famalicão,25
 2022,Braga,Vila Verde,27
 2022,Braga,Vizela,4
-2022,Bragança,Alfândega da Fé,4
+2022,Bragança,Alfândega da Fé,3
 2022,Bragança,Bragança,23
 2022,Bragança,Carrazeda de Ansiães,8
 2022,Bragança,Freixo de Espada À Cinta,9
@@ -2810,7 +2810,7 @@ ANO,DISTRITO,CONCELHO,NCCO
 2022,Castelo Branco,Proença-a-nova,2
 2022,Castelo Branco,Sertã,1
 2022,Coimbra,Cantanhede,1
-2022,Coimbra,Coimbra,12
+2022,Coimbra,Coimbra,13
 2022,Coimbra,Figueira da Foz,12
 2022,Coimbra,Góis,2
 2022,Coimbra,Lousã,3
@@ -2828,11 +2828,11 @@ ANO,DISTRITO,CONCELHO,NCCO
 2022,Faro,Faro,5
 2022,Faro,Lagoa,2
 2022,Faro,Lagos,1
-2022,Faro,Loulé,8
+2022,Faro,Loulé,7
 2022,Faro,Monchique,1
 2022,Faro,Portimão,2
 2022,Faro,Silves,5
-2022,Faro,São Brás de Alportel,3
+2022,Faro,São Brás de Alportel,4
 2022,Faro,Tavira,4
 2022,Faro,Vila do Bispo,3
 2022,Guarda,Almeida,7
@@ -2910,7 +2910,7 @@ ANO,DISTRITO,CONCELHO,NCCO
 2022,Santarém,Constância,2
 2022,Santarém,Coruche,1
 2022,Santarém,Entroncamento,2
-2022,Santarém,Ferreira do Zêzere,3
+2022,Santarém,Ferreira do Zêzere,4
 2022,Santarém,Mação,3
 2022,Santarém,Ourém,10
 2022,Santarém,Rio Maior,4
@@ -2928,7 +2928,7 @@ ANO,DISTRITO,CONCELHO,NCCO
 2022,Setúbal,Moita,4
 2022,Setúbal,Montijo,5
 2022,Setúbal,Palmela,4
-2022,Setúbal,Santiago do Cacém,4
+2022,Setúbal,Santiago do Cacém,5
 2022,Setúbal,Seixal,6
 2022,Setúbal,Sesimbra,5
 2022,Setúbal,Setúbal,3
@@ -2945,7 +2945,7 @@ ANO,DISTRITO,CONCELHO,NCCO
 2022,Viana do Castelo,Vila Nova de Cerveira,5
 2022,Vila Real,Alijó,10
 2022,Vila Real,Boticas,40
-2022,Vila Real,Chaves,47
+2022,Vila Real,Chaves,43
 2022,Vila Real,Mesão Frio,5
 2022,Vila Real,Mondim de Basto,15
 2022,Vila Real,Montalegre,139
@@ -2955,8 +2955,8 @@ ANO,DISTRITO,CONCELHO,NCCO
 2022,Vila Real,Sabrosa,3
 2022,Vila Real,Santa Marta de Penaguião,4
 2022,Vila Real,Valpaços,42
-2022,Vila Real,Vila Pouca de Aguiar,41
-2022,Vila Real,Vila Real,27
+2022,Vila Real,Vila Pouca de Aguiar,40
+2022,Vila Real,Vila Real,26
 2022,Viseu,Armamar,5
 2022,Viseu,Castro Daire,49
 2022,Viseu,Cinfães,58
