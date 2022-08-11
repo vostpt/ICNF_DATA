@@ -14,9 +14,6 @@ import pandas as pd
 import requests
 import xml.etree.ElementTree as ET
 import io
-from io import StringIO  
-import time 
-import datetime
 
 """## GET DATA FOR 2022"""
 
@@ -24,6 +21,15 @@ import datetime
 url = f"https://fogos.icnf.pt/localizador/webserviceocorrencias.asp?ANO=2022" 
 resp = requests.get(url)
 et = ET.parse(io.StringIO(resp.text))
+
+# Get concelhos for name normalization
+urlConcelhos = f"https://raw.githubusercontent.com/centraldedados/codigos_postais/master/data/concelhos.csv"
+csvConcelhos = pd.read_csv(urlConcelhos)
+
+# Get distritos for name normalization
+urlDistritos = f"https://raw.githubusercontent.com/centraldedados/codigos_postais/master/data/distritos.csv"
+csvDistritos = pd.read_csv(urlDistritos)
+
 
 # Create Dataframe 
 df_2022 = pd.DataFrame([
@@ -56,7 +62,14 @@ final_df.to_csv("ICNF_2013_2022_full.csv",index=False)
 
 """## Create Dataframe for Sankey"""
 
-df_sankey = final_df.groupby(['ANO','DISTRITO','CONCELHO'])[['NCCO']].nunique().reset_index()
+df_sankey = final_df.groupby(['ANO', final_df['DISTRITO'].str.lower(), final_df['CONCELHO'].str.lower()])[['NCCO']].nunique().reset_index()
+
+"""## Use normalized names for DISTRITO and CONCELHO"""
+for distrito in csvDistritos['nome_distrito']:
+    df_sankey = df_sankey.replace(distrito.lower(), distrito)
+
+for concelho in csvConcelhos['nome_concelho']:
+    df_sankey = df_sankey.replace(concelho.lower(), concelho)
 
 """## Save Sankey DataFrame to CSV"""
 
