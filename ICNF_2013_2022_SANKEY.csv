@@ -1,6 +1,5 @@
 ANO,DISTRITO,CONCELHO,NCCO
-2013,Aveiro,Albergaria-a-Velha,98
-2013,Aveiro,Albergaria-a-velha,1
+2013,Aveiro,Albergaria-a-Velha,99
 2013,Aveiro,Anadia,41
 2013,Aveiro,Arouca,128
 2013,Aveiro,Aveiro,88
@@ -9,18 +8,14 @@ ANO,DISTRITO,CONCELHO,NCCO
 2013,Aveiro,Estarreja,38
 2013,Aveiro,Mealhada,31
 2013,Aveiro,Murtosa,10
-2013,Aveiro,Oliveira De Azeméis,3
-2013,Aveiro,Oliveira de Azeméis,89
+2013,Aveiro,Oliveira de Azeméis,92
 2013,Aveiro,Oliveira do Bairro,43
 2013,Aveiro,Ovar,63
-2013,Aveiro,Santa Maria Da Feira,3
-2013,Aveiro,Santa Maria da Feira,236
-2013,Aveiro,Sever Do Vouga,1
-2013,Aveiro,Sever do Vouga,117
+2013,Aveiro,Santa Maria da Feira,239
+2013,Aveiro,Sever do Vouga,118
 2013,Aveiro,São João da Madeira,5
 2013,Aveiro,Vagos,39
-2013,Aveiro,Vale De Cambra,2
-2013,Aveiro,Vale de Cambra,188
+2013,Aveiro,Vale de Cambra,190
 2013,Aveiro,Águeda,224
 2013,Aveiro,Ílhavo,33
 2013,Beja,Aljustrel,30
@@ -39,37 +34,27 @@ ANO,DISTRITO,CONCELHO,NCCO
 2013,Braga,Amares,58
 2013,Braga,Barcelos,196
 2013,Braga,Braga,184
-2013,Braga,Cabeceiras De Basto,19
-2013,Braga,Cabeceiras de Basto,120
-2013,Braga,Celorico De Basto,57
-2013,Braga,Celorico de Basto,225
+2013,Braga,Cabeceiras de Basto,139
+2013,Braga,Celorico de Basto,282
 2013,Braga,Esposende,24
 2013,Braga,Fafe,250
 2013,Braga,Guimarães,272
-2013,Braga,Póvoa De Lanhoso,13
-2013,Braga,Póvoa de Lanhoso,174
-2013,Braga,Terras De Bouro,35
-2013,Braga,Terras de Bouro,32
-2013,Braga,VIZELA,2
-2013,Braga,Vieira Do Minho,4
-2013,Braga,Vieira do Minho,117
-2013,Braga,Vila Nova De Famalicão,25
-2013,Braga,Vila Nova de Famalicão,210
+2013,Braga,Póvoa de Lanhoso,187
+2013,Braga,Terras de Bouro,67
+2013,Braga,Vieira do Minho,121
+2013,Braga,Vila Nova de Famalicão,235
 2013,Braga,Vila Verde,247
-2013,Braga,Vizela,35
-2013,Bragança,Alfândega Da Fé,1
-2013,Bragança,Alfândega da Fé,24
+2013,Braga,Vizela,37
+2013,Bragança,Alfândega da Fé,25
 2013,Bragança,Bragança,74
 2013,Bragança,Carrazeda de Ansiães,44
 2013,Bragança,Freixo de Espada à Cinta,29
-2013,Bragança,Macedo De Cavaleiros,8
-2013,Bragança,Macedo de Cavaleiros,52
+2013,Bragança,Macedo de Cavaleiros,60
 2013,Bragança,Miranda do Douro,22
 2013,Bragança,Mirandela,80
 2013,Bragança,Mogadouro,26
-2013,Bragança,Torre De Moncorvo,5
-2013,Bragança,Torre de Moncorvo,37
-2013,Bragança,Vila FLor,28
+2013,Bragança,Torre de Moncorvo,42
+2013,Bragança,Vila Flor,28
 2013,Bragança,Vimioso,19
 2013,Bragança,Vinhais,56
 2013,Castelo Branco,Belmonte,18
@@ -81,24 +66,19 @@ ANO,DISTRITO,CONCELHO,NCCO
 2013,Castelo Branco,Penamacor,23
 2013,Castelo Branco,Proença-a-Nova,18
 2013,Castelo Branco,Sertã,51
-2013,Castelo Branco,Vila Velha De Ródão,6
-2013,Castelo Branco,Vila Velha de Ródão,14
 2013,Castelo Branco,Vila de Rei,6
+2013,Castelo Branco,Vila Velha de Ródão,20
 2013,Coimbra,Arganil,57
 2013,Coimbra,Cantanhede,69
 2013,Coimbra,Coimbra,88
-2013,Coimbra,Condeixa-a-Nova,20
-2013,Coimbra,Condeixa-a-nova,2
-2013,Coimbra,Figueira Da Foz,3
-2013,Coimbra,Figueira da Foz,86
+2013,Coimbra,Condeixa-a-Nova,22
+2013,Coimbra,Figueira da Foz,89
 2013,Coimbra,Góis,18
 2013,Coimbra,Lousã,25
 2013,Coimbra,Mira,36
 2013,Coimbra,Miranda do Corvo,43
-2013,Coimbra,Montemor-o-Velho,54
-2013,Coimbra,Montemor-o-velho,2
-2013,Coimbra,Oliveira Do Hospital,8
-2013,Coimbra,Oliveira do Hospital,73
+2013,Coimbra,Montemor-o-Velho,56
+2013,Coimbra,Oliveira do Hospital,81
 2013,Coimbra,Pampilhosa da Serra,28
 2013,Coimbra,Penacova,115
 2013,Coimbra,Penela,24
@@ -110,7 +90,7 @@ ANO,DISTRITO,CONCELHO,NCCO
 2013,Faro,Aljezur,7
 2013,Faro,Castro Marim,11
 2013,Faro,Faro,32
-2013,Faro,Lagoa,25
+2013,Faro,lagoa,25
 2013,Faro,Lagos,24
 2013,Faro,Loulé,76
 2013,Faro,Monchique,9
@@ -119,8 +99,8 @@ ANO,DISTRITO,CONCELHO,NCCO
 2013,Faro,Silves,78
 2013,Faro,São Brás de Alportel,11
 2013,Faro,Tavira,42
-2013,Faro,Vila Real de Santo António,8
 2013,Faro,Vila do Bispo,13
+2013,Faro,Vila Real de Santo António,8
 2013,Guarda,Aguiar da Beira,24
 2013,Guarda,Almeida,20
 2013,Guarda,Celorico da Beira,24
@@ -129,19 +109,18 @@ ANO,DISTRITO,CONCELHO,NCCO
 2013,Guarda,Gouveia,67
 2013,Guarda,Guarda,47
 2013,Guarda,Manteigas,1
-2013,Guarda,Mêda,54
+2013,Guarda,mêda,54
 2013,Guarda,Pinhel,48
 2013,Guarda,Sabugal,44
 2013,Guarda,Seia,60
 2013,Guarda,Trancoso,61
-2013,Guarda,Vila Nova De Foz Côa,52
+2013,Guarda,Vila Nova de Foz Côa,52
 2013,Leiria,Alcobaça,92
 2013,Leiria,Alvaiázere,20
 2013,Leiria,Ansião,16
 2013,Leiria,Batalha,10
 2013,Leiria,Bombarral,32
-2013,Leiria,Caldas Da Rainha,17
-2013,Leiria,Caldas da Rainha,59
+2013,Leiria,Caldas da Rainha,76
 2013,Leiria,Castanheira de Pêra,13
 2013,Leiria,Figueiró dos Vinhos,20
 2013,Leiria,Leiria,135
@@ -150,8 +129,7 @@ ANO,DISTRITO,CONCELHO,NCCO
 2013,Leiria,Pedrógão Grande,29
 2013,Leiria,Peniche,51
 2013,Leiria,Pombal,87
-2013,Leiria,Porto De Mós,5
-2013,Leiria,Porto de Mós,45
+2013,Leiria,Porto de Mós,50
 2013,Leiria,Óbidos,38
 2013,Lisboa,Alenquer,117
 2013,Lisboa,Amadora,64
@@ -163,20 +141,17 @@ ANO,DISTRITO,CONCELHO,NCCO
 2013,Lisboa,Loures,135
 2013,Lisboa,Lourinhã,59
 2013,Lisboa,Mafra,118
-2013,Lisboa,ODIVELAS,55
-2013,Lisboa,Odivelas,102
+2013,Lisboa,Odivelas,157
 2013,Lisboa,Oeiras,76
 2013,Lisboa,Sintra,279
-2013,Lisboa,Sobral De Monte Agraço,28
-2013,Lisboa,Sobral de Monte Agraço,13
+2013,Lisboa,Sobral de Monte Agraço,41
 2013,Lisboa,Torres Vedras,200
 2013,Lisboa,Vila Franca de Xira,81
 2013,Portalegre,Alter do Chão,9
 2013,Portalegre,Arronches,8
 2013,Portalegre,Avis,12
 2013,Portalegre,Campo Maior,31
-2013,Portalegre,Castelo De Vide,1
-2013,Portalegre,Castelo de Vide,5
+2013,Portalegre,Castelo de Vide,6
 2013,Portalegre,Crato,7
 2013,Portalegre,Elvas,67
 2013,Portalegre,Fronteira,11
@@ -193,24 +168,18 @@ ANO,DISTRITO,CONCELHO,NCCO
 2013,Porto,Gondomar,500
 2013,Porto,Lousada,348
 2013,Porto,Maia,251
-2013,Porto,Marco De Canaveses,18
-2013,Porto,Marco de Canaveses,428
+2013,Porto,Marco de Canaveses,446
 2013,Porto,Matosinhos,96
 2013,Porto,Paredes,808
-2013,Porto,Paços De Ferreira,2
-2013,Porto,Paços de Ferreira,398
+2013,Porto,Paços de Ferreira,400
 2013,Porto,Penafiel,670
 2013,Porto,Porto,1
-2013,Porto,Póvoa De Varzim,16
-2013,Porto,Póvoa de Varzim,108
+2013,Porto,Póvoa de Varzim,124
 2013,Porto,Santo Tirso,443
-2013,Porto,TROFA,40
-2013,Porto,Trofa,52
+2013,Porto,Trofa,92
 2013,Porto,Valongo,181
-2013,Porto,Vila Do Conde,1
-2013,Porto,Vila Nova De Gaia,55
-2013,Porto,Vila Nova de Gaia,422
-2013,Porto,Vila do Conde,209
+2013,Porto,Vila do Conde,210
+2013,Porto,Vila Nova de Gaia,477
 2013,Santarém,Abrantes,62
 2013,Santarém,Alcanena,25
 2013,Santarém,Almeirim,30
@@ -233,8 +202,7 @@ ANO,DISTRITO,CONCELHO,NCCO
 2013,Santarém,Torres Novas,65
 2013,Santarém,Vila Nova da Barquinha,18
 2013,Setúbal,Alcochete,26
-2013,Setúbal,Alcácer Do Sal,12
-2013,Setúbal,Alcácer do Sal,2
+2013,Setúbal,Alcácer do Sal,14
 2013,Setúbal,Almada,100
 2013,Setúbal,Barreiro,58
 2013,Setúbal,Grândola,30
@@ -246,40 +214,27 @@ ANO,DISTRITO,CONCELHO,NCCO
 2013,Setúbal,Sesimbra,46
 2013,Setúbal,Setúbal,88
 2013,Setúbal,Sines,26
-2013,Viana Do Castelo,Arcos De Valdevez,20
-2013,Viana Do Castelo,Caminha,6
-2013,Viana Do Castelo,Melgaço,1
-2013,Viana Do Castelo,Paredes De Coura,8
-2013,Viana Do Castelo,Ponte Da Barca,40
-2013,Viana Do Castelo,Ponte De Lima,24
-2013,Viana Do Castelo,Valença,32
-2013,Viana Do Castelo,Viana Do Castelo,42
-2013,Viana Do Castelo,Vila Nova De Cerveira,1
-2013,Viana do Castelo,Arcos de Valdevez,271
-2013,Viana do Castelo,Caminha,133
-2013,Viana do Castelo,Melgaço,67
+2013,Viana do Castelo,Arcos de Valdevez,291
+2013,Viana do Castelo,Caminha,139
+2013,Viana do Castelo,Melgaço,68
 2013,Viana do Castelo,Monção,174
-2013,Viana do Castelo,Paredes de Coura,96
-2013,Viana do Castelo,Ponte da Barca,193
-2013,Viana do Castelo,Ponte de Lima,340
-2013,Viana do Castelo,Valença,163
-2013,Viana do Castelo,Viana do Castelo,197
-2013,Viana do Castelo,Vila Nova de Cerveira,74
+2013,Viana do Castelo,Paredes de Coura,104
+2013,Viana do Castelo,Ponte da Barca,233
+2013,Viana do Castelo,Ponte de Lima,364
+2013,Viana do Castelo,Valença,195
+2013,Viana do Castelo,Viana do Castelo,239
+2013,Viana do Castelo,Vila Nova de Cerveira,75
 2013,Vila Real,Alijó,71
 2013,Vila Real,Boticas,110
 2013,Vila Real,Chaves,191
-2013,Vila Real,Mesão Frio,10
-2013,Vila Real,Mesão frio,9
-2013,Vila Real,Mondim De Basto,1
-2013,Vila Real,Mondim de Basto,27
+2013,Vila Real,Mesão Frio,19
+2013,Vila Real,Mondim de Basto,28
 2013,Vila Real,Montalegre,239
 2013,Vila Real,Murça,46
 2013,Vila Real,Peso da Régua,45
-2013,Vila Real,Ribeira De Pena,34
-2013,Vila Real,Ribeira de Pena,44
+2013,Vila Real,Ribeira de Pena,78
 2013,Vila Real,Sabrosa,20
-2013,Vila Real,Santa Marta De Penaguião,7
-2013,Vila Real,Santa Marta de Penaguião,24
+2013,Vila Real,Santa Marta de Penaguião,31
 2013,Vila Real,Valpaços,127
 2013,Vila Real,Vila Pouca de Aguiar,121
 2013,Vila Real,Vila Real,155
@@ -289,23 +244,18 @@ ANO,DISTRITO,CONCELHO,NCCO
 2013,Viseu,Cinfães,262
 2013,Viseu,Lamego,153
 2013,Viseu,Mangualde,74
-2013,Viseu,Moimenta Da Beira,3
-2013,Viseu,Moimenta da Beira,77
+2013,Viseu,Moimenta da Beira,80
 2013,Viseu,Mortágua,13
 2013,Viseu,Nelas,77
-2013,Viseu,Oliveira De Frades,1
-2013,Viseu,Oliveira de Frades,73
-2013,Viseu,Penalva Do Castelo,1
-2013,Viseu,Penalva do Castelo,33
+2013,Viseu,Oliveira de Frades,74
+2013,Viseu,Penalva do Castelo,34
 2013,Viseu,Penedono,18
 2013,Viseu,Resende,88
 2013,Viseu,Santa Comba Dão,22
 2013,Viseu,Sernancelhe,60
 2013,Viseu,Sátão,38
-2013,Viseu,São João Da Pesqueira,1
-2013,Viseu,São João da Pesqueira,31
-2013,Viseu,São Pedro Do Sul,3
-2013,Viseu,São Pedro do Sul,35
+2013,Viseu,São João da Pesqueira,32
+2013,Viseu,São Pedro do Sul,38
 2013,Viseu,Tabuaço,23
 2013,Viseu,Tarouca,24
 2013,Viseu,Tondela,166
@@ -316,8 +266,7 @@ ANO,DISTRITO,CONCELHO,NCCO
 2013,Évora,Arraiolos,10
 2013,Évora,Borba,6
 2013,Évora,Estremoz,22
-2013,Évora,Montemor-o-Novo,18
-2013,Évora,Montemor-o-novo,4
+2013,Évora,Montemor-o-Novo,22
 2013,Évora,Mora,2
 2013,Évora,Mourão,8
 2013,Évora,Portel,7
@@ -327,28 +276,23 @@ ANO,DISTRITO,CONCELHO,NCCO
 2013,Évora,Viana do Alentejo,9
 2013,Évora,Vila Viçosa,5
 2013,Évora,Évora,56
-2014,Aveiro,Albergaria-a-Velha,45
-2014,Aveiro,Albergaria-a-velha,5
+2014,Aveiro,Albergaria-a-Velha,50
 2014,Aveiro,Anadia,24
 2014,Aveiro,Arouca,41
 2014,Aveiro,Aveiro,40
-2014,Aveiro,Castelo De Paiva,5
-2014,Aveiro,Castelo de Paiva,16
+2014,Aveiro,Castelo de Paiva,21
 2014,Aveiro,Espinho,19
 2014,Aveiro,Estarreja,24
 2014,Aveiro,Mealhada,21
 2014,Aveiro,Murtosa,9
-2014,Aveiro,Oliveira De Azeméis,17
-2014,Aveiro,Oliveira de Azeméis,49
+2014,Aveiro,Oliveira de Azeméis,66
 2014,Aveiro,Oliveira do Bairro,14
 2014,Aveiro,Ovar,26
-2014,Aveiro,Santa Maria Da Feira,25
-2014,Aveiro,Santa Maria da Feira,59
+2014,Aveiro,Santa Maria da Feira,84
 2014,Aveiro,Sever do Vouga,12
 2014,Aveiro,São João da Madeira,35
 2014,Aveiro,Vagos,13
-2014,Aveiro,Vale De Cambra,1
-2014,Aveiro,Vale de Cambra,26
+2014,Aveiro,Vale de Cambra,27
 2014,Aveiro,Águeda,54
 2014,Aveiro,Ílhavo,11
 2014,Beja,Aljustrel,18
@@ -368,55 +312,40 @@ ANO,DISTRITO,CONCELHO,NCCO
 2014,Braga,Amares,22
 2014,Braga,Barcelos,58
 2014,Braga,Braga,36
-2014,Braga,Cabeceiras De Basto,30
-2014,Braga,Cabeceiras de Basto,16
-2014,Braga,Celorico De Basto,23
-2014,Braga,Celorico de Basto,32
+2014,Braga,Cabeceiras de Basto,46
+2014,Braga,Celorico de Basto,55
 2014,Braga,Esposende,12
 2014,Braga,Fafe,49
 2014,Braga,Guimarães,117
-2014,Braga,Póvoa De Lanhoso,2
-2014,Braga,Póvoa de Lanhoso,64
-2014,Braga,Terras De Bouro,10
-2014,Braga,Terras de Bouro,13
-2014,Braga,VIZELA,1
-2014,Braga,Vieira Do Minho,8
-2014,Braga,Vieira do Minho,23
-2014,Braga,Vila Nova De Famalicão,39
-2014,Braga,Vila Nova de Famalicão,18
+2014,Braga,Póvoa de Lanhoso,66
+2014,Braga,Terras de Bouro,23
+2014,Braga,Vieira do Minho,31
+2014,Braga,Vila Nova de Famalicão,57
 2014,Braga,Vila Verde,73
-2014,Braga,Vizela,10
-2014,Bragança,Alfândega Da Fé,8
-2014,Bragança,Alfândega da Fé,12
+2014,Braga,Vizela,11
+2014,Bragança,Alfândega da Fé,20
 2014,Bragança,Bragança,56
-2014,Bragança,Carrazeda De Ansiães,15
-2014,Bragança,Carrazeda de Ansiães,13
-2014,Bragança,Freixo De Espada À Cinta,6
-2014,Bragança,Freixo de Espada à Cinta,35
-2014,Bragança,Macedo De Cavaleiros,12
-2014,Bragança,Macedo de Cavaleiros,26
+2014,Bragança,Carrazeda de Ansiães,28
+2014,Bragança,Freixo de Espada à Cinta,41
+2014,Bragança,Macedo de Cavaleiros,38
 2014,Bragança,Miranda do Douro,10
 2014,Bragança,Mirandela,54
 2014,Bragança,Mogadouro,23
-2014,Bragança,Torre De Moncorvo,21
-2014,Bragança,Torre de Moncorvo,39
-2014,Bragança,Vila FLor,20
-2014,Bragança,Vila Flor,11
+2014,Bragança,Torre de Moncorvo,60
+2014,Bragança,Vila Flor,31
 2014,Bragança,Vimioso,22
 2014,Bragança,Vinhais,31
 2014,Castelo Branco,Belmonte,11
 2014,Castelo Branco,Castelo Branco,63
 2014,Castelo Branco,Covilhã,53
 2014,Castelo Branco,Fundão,27
-2014,Castelo Branco,Idanha-a-Nova,25
-2014,Castelo Branco,Idanha-a-nova,11
+2014,Castelo Branco,Idanha-a-Nova,36
 2014,Castelo Branco,Oleiros,9
 2014,Castelo Branco,Penamacor,10
-2014,Castelo Branco,Proença-a-Nova,7
-2014,Castelo Branco,Proença-a-nova,1
+2014,Castelo Branco,Proença-a-Nova,8
 2014,Castelo Branco,Sertã,42
-2014,Castelo Branco,Vila Velha de Ródão,12
 2014,Castelo Branco,Vila de Rei,1
+2014,Castelo Branco,Vila Velha de Ródão,12
 2014,Coimbra,Arganil,24
 2014,Coimbra,Cantanhede,32
 2014,Coimbra,Coimbra,74
@@ -425,12 +354,9 @@ ANO,DISTRITO,CONCELHO,NCCO
 2014,Coimbra,Góis,12
 2014,Coimbra,Lousã,10
 2014,Coimbra,Mira,11
-2014,Coimbra,Miranda Do Corvo,2
-2014,Coimbra,Miranda do Corvo,11
-2014,Coimbra,Montemor-o-Velho,13
-2014,Coimbra,Montemor-o-velho,1
-2014,Coimbra,Oliveira Do Hospital,31
-2014,Coimbra,Oliveira do Hospital,39
+2014,Coimbra,Miranda do Corvo,13
+2014,Coimbra,Montemor-o-Velho,14
+2014,Coimbra,Oliveira do Hospital,70
 2014,Coimbra,Pampilhosa da Serra,7
 2014,Coimbra,Penacova,15
 2014,Coimbra,Penela,9
@@ -442,7 +368,7 @@ ANO,DISTRITO,CONCELHO,NCCO
 2014,Faro,Aljezur,6
 2014,Faro,Castro Marim,15
 2014,Faro,Faro,32
-2014,Faro,Lagoa,16
+2014,Faro,lagoa,16
 2014,Faro,Lagos,20
 2014,Faro,Loulé,63
 2014,Faro,Monchique,18
@@ -451,32 +377,29 @@ ANO,DISTRITO,CONCELHO,NCCO
 2014,Faro,Silves,46
 2014,Faro,São Brás de Alportel,5
 2014,Faro,Tavira,27
-2014,Faro,Vila Real de Santo António,9
 2014,Faro,Vila do Bispo,5
+2014,Faro,Vila Real de Santo António,9
 2014,Guarda,Aguiar da Beira,11
 2014,Guarda,Almeida,15
-2014,Guarda,Celorico Da Beira,3
-2014,Guarda,Celorico da Beira,13
+2014,Guarda,Celorico da Beira,16
 2014,Guarda,Figueira de Castelo Rodrigo,54
 2014,Guarda,Fornos de Algodres,12
 2014,Guarda,Gouveia,38
 2014,Guarda,Guarda,35
 2014,Guarda,Manteigas,1
-2014,Guarda,Mêda,39
+2014,Guarda,mêda,39
 2014,Guarda,Pinhel,37
 2014,Guarda,Sabugal,34
 2014,Guarda,Seia,52
 2014,Guarda,Trancoso,46
-2014,Guarda,Vila Nova De Foz Côa,34
+2014,Guarda,Vila Nova de Foz Côa,34
 2014,Leiria,Alcobaça,39
 2014,Leiria,Alvaiázere,15
 2014,Leiria,Ansião,12
 2014,Leiria,Batalha,4
 2014,Leiria,Bombarral,29
-2014,Leiria,Caldas Da Rainha,16
-2014,Leiria,Caldas da Rainha,33
-2014,Leiria,Castanheira De Pêra,4
-2014,Leiria,Castanheira de Pêra,6
+2014,Leiria,Caldas da Rainha,49
+2014,Leiria,Castanheira de Pêra,10
 2014,Leiria,Figueiró dos Vinhos,13
 2014,Leiria,Leiria,46
 2014,Leiria,Marinha Grande,17
@@ -484,8 +407,7 @@ ANO,DISTRITO,CONCELHO,NCCO
 2014,Leiria,Pedrógão Grande,21
 2014,Leiria,Peniche,46
 2014,Leiria,Pombal,53
-2014,Leiria,Porto De Mós,4
-2014,Leiria,Porto de Mós,16
+2014,Leiria,Porto de Mós,20
 2014,Leiria,Óbidos,63
 2014,Lisboa,Alenquer,77
 2014,Lisboa,Amadora,29
@@ -497,21 +419,17 @@ ANO,DISTRITO,CONCELHO,NCCO
 2014,Lisboa,Loures,75
 2014,Lisboa,Lourinhã,37
 2014,Lisboa,Mafra,29
-2014,Lisboa,ODIVELAS,17
-2014,Lisboa,Odivelas,47
+2014,Lisboa,Odivelas,64
 2014,Lisboa,Oeiras,47
 2014,Lisboa,Sintra,165
-2014,Lisboa,Sobral De Monte Agraço,4
-2014,Lisboa,Sobral de Monte Agraço,12
+2014,Lisboa,Sobral de Monte Agraço,16
 2014,Lisboa,Torres Vedras,103
-2014,Lisboa,Vila Franca De Xira,12
-2014,Lisboa,Vila Franca de Xira,45
+2014,Lisboa,Vila Franca de Xira,57
 2014,Portalegre,Alter do Chão,5
 2014,Portalegre,Arronches,10
 2014,Portalegre,Avis,9
 2014,Portalegre,Campo Maior,27
-2014,Portalegre,Castelo De Vide,1
-2014,Portalegre,Castelo de Vide,2
+2014,Portalegre,Castelo de Vide,3
 2014,Portalegre,Crato,5
 2014,Portalegre,Elvas,57
 2014,Portalegre,Fronteira,4
@@ -519,8 +437,7 @@ ANO,DISTRITO,CONCELHO,NCCO
 2014,Portalegre,Marvão,10
 2014,Portalegre,Monforte,9
 2014,Portalegre,Nisa,17
-2014,Portalegre,Ponte De Sor,2
-2014,Portalegre,Ponte de Sor,11
+2014,Portalegre,Ponte de Sor,13
 2014,Portalegre,Portalegre,20
 2014,Portalegre,Sousel,7
 2014,Porto,Amarante,111
@@ -529,23 +446,17 @@ ANO,DISTRITO,CONCELHO,NCCO
 2014,Porto,Gondomar,164
 2014,Porto,Lousada,80
 2014,Porto,Maia,50
-2014,Porto,Marco De Canaveses,37
-2014,Porto,Marco de Canaveses,59
+2014,Porto,Marco de Canaveses,96
 2014,Porto,Matosinhos,35
 2014,Porto,Paredes,160
-2014,Porto,Paços De Ferreira,2
-2014,Porto,Paços de Ferreira,44
+2014,Porto,Paços de Ferreira,46
 2014,Porto,Penafiel,186
-2014,Porto,Póvoa De Varzim,4
-2014,Porto,Póvoa de Varzim,22
+2014,Porto,Póvoa de Varzim,26
 2014,Porto,Santo Tirso,80
-2014,Porto,TROFA,17
-2014,Porto,Trofa,19
+2014,Porto,Trofa,36
 2014,Porto,Valongo,116
-2014,Porto,Vila Do Conde,39
-2014,Porto,Vila Nova De Gaia,66
-2014,Porto,Vila Nova de Gaia,47
-2014,Porto,Vila do Conde,25
+2014,Porto,Vila do Conde,64
+2014,Porto,Vila Nova de Gaia,113
 2014,Santarém,Abrantes,34
 2014,Santarém,Alcanena,26
 2014,Santarém,Almeirim,30
@@ -561,16 +472,14 @@ ANO,DISTRITO,CONCELHO,NCCO
 2014,Santarém,Mação,12
 2014,Santarém,Ourém,45
 2014,Santarém,Rio Maior,20
-2014,Santarém,Salvaterra De Magos,3
-2014,Santarém,Salvaterra de Magos,34
+2014,Santarém,Salvaterra de Magos,37
 2014,Santarém,Santarém,103
 2014,Santarém,Sardoal,5
 2014,Santarém,Tomar,79
 2014,Santarém,Torres Novas,38
 2014,Santarém,Vila Nova da Barquinha,10
 2014,Setúbal,Alcochete,16
-2014,Setúbal,Alcácer Do Sal,12
-2014,Setúbal,Alcácer do Sal,8
+2014,Setúbal,Alcácer do Sal,20
 2014,Setúbal,Almada,107
 2014,Setúbal,Barreiro,23
 2014,Setúbal,Grândola,24
@@ -582,69 +491,48 @@ ANO,DISTRITO,CONCELHO,NCCO
 2014,Setúbal,Sesimbra,26
 2014,Setúbal,Setúbal,45
 2014,Setúbal,Sines,11
-2014,Viana Do Castelo,Arcos De Valdevez,29
-2014,Viana Do Castelo,Caminha,12
-2014,Viana Do Castelo,Melgaço,1
-2014,Viana Do Castelo,Monção,12
-2014,Viana Do Castelo,Paredes De Coura,6
-2014,Viana Do Castelo,Ponte Da Barca,25
-2014,Viana Do Castelo,Ponte De Lima,32
-2014,Viana Do Castelo,Valença,12
-2014,Viana Do Castelo,Viana Do Castelo,24
-2014,Viana Do Castelo,Vila Nova De Cerveira,1
-2014,Viana do Castelo,Arcos de Valdevez,52
-2014,Viana do Castelo,Caminha,17
-2014,Viana do Castelo,Melgaço,3
-2014,Viana do Castelo,Monção,16
-2014,Viana do Castelo,Paredes de Coura,10
-2014,Viana do Castelo,Ponte da Barca,11
-2014,Viana do Castelo,Ponte de Lima,48
-2014,Viana do Castelo,Valença,16
-2014,Viana do Castelo,Viana do Castelo,52
-2014,Viana do Castelo,Vila Nova de Cerveira,3
+2014,Viana do Castelo,Arcos de Valdevez,81
+2014,Viana do Castelo,Caminha,29
+2014,Viana do Castelo,Melgaço,4
+2014,Viana do Castelo,Monção,28
+2014,Viana do Castelo,Paredes de Coura,16
+2014,Viana do Castelo,Ponte da Barca,36
+2014,Viana do Castelo,Ponte de Lima,80
+2014,Viana do Castelo,Valença,28
+2014,Viana do Castelo,Viana do Castelo,76
+2014,Viana do Castelo,Vila Nova de Cerveira,4
 2014,Vila Real,Alijó,30
 2014,Vila Real,Boticas,38
 2014,Vila Real,Chaves,58
-2014,Vila Real,Mesão Frio,5
-2014,Vila Real,Mesão frio,1
-2014,Vila Real,Mondim De Basto,4
-2014,Vila Real,Mondim de Basto,9
+2014,Vila Real,Mesão Frio,6
+2014,Vila Real,Mondim de Basto,13
 2014,Vila Real,Montalegre,92
 2014,Vila Real,Murça,15
-2014,Vila Real,Peso Da Régua,2
-2014,Vila Real,Peso da Régua,3
-2014,Vila Real,Ribeira De Pena,23
-2014,Vila Real,Ribeira de Pena,16
+2014,Vila Real,Peso da Régua,5
+2014,Vila Real,Ribeira de Pena,39
 2014,Vila Real,Sabrosa,17
-2014,Vila Real,Santa Marta De Penaguião,3
-2014,Vila Real,Santa Marta de Penaguião,6
+2014,Vila Real,Santa Marta de Penaguião,9
 2014,Vila Real,Valpaços,85
-2014,Vila Real,Vila Pouca De Aguiar,3
-2014,Vila Real,Vila Pouca de Aguiar,63
+2014,Vila Real,Vila Pouca de Aguiar,66
 2014,Vila Real,Vila Real,31
 2014,Viseu,Armamar,11
-2014,Viseu,Carregal Do Sal,1
-2014,Viseu,Carregal do Sal,23
+2014,Viseu,Carregal do Sal,24
 2014,Viseu,Castro Daire,35
 2014,Viseu,Cinfães,73
 2014,Viseu,Lamego,37
 2014,Viseu,Mangualde,37
-2014,Viseu,Moimenta Da Beira,4
-2014,Viseu,Moimenta da Beira,17
+2014,Viseu,Moimenta da Beira,21
 2014,Viseu,Mortágua,7
 2014,Viseu,Nelas,29
-2014,Viseu,Oliveira De Frades,7
-2014,Viseu,Oliveira de Frades,11
+2014,Viseu,Oliveira de Frades,18
 2014,Viseu,Penalva do Castelo,4
 2014,Viseu,Penedono,14
 2014,Viseu,Resende,23
 2014,Viseu,Santa Comba Dão,10
 2014,Viseu,Sernancelhe,23
 2014,Viseu,Sátão,13
-2014,Viseu,São João Da Pesqueira,2
-2014,Viseu,São João da Pesqueira,30
-2014,Viseu,São Pedro Do Sul,6
-2014,Viseu,São Pedro do Sul,9
+2014,Viseu,São João da Pesqueira,32
+2014,Viseu,São Pedro do Sul,15
 2014,Viseu,Tabuaço,15
 2014,Viseu,Tarouca,10
 2014,Viseu,Tondela,39
@@ -655,8 +543,7 @@ ANO,DISTRITO,CONCELHO,NCCO
 2014,Évora,Arraiolos,13
 2014,Évora,Borba,8
 2014,Évora,Estremoz,25
-2014,Évora,Montemor-o-Novo,13
-2014,Évora,Montemor-o-novo,1
+2014,Évora,Montemor-o-Novo,14
 2014,Évora,Mora,9
 2014,Évora,Mourão,6
 2014,Évora,Portel,8
@@ -666,8 +553,7 @@ ANO,DISTRITO,CONCELHO,NCCO
 2014,Évora,Viana do Alentejo,1
 2014,Évora,Vila Viçosa,5
 2014,Évora,Évora,47
-2015,Aveiro,Albergaria-a-Velha,63
-2015,Aveiro,Albergaria-a-velha,1
+2015,Aveiro,Albergaria-a-Velha,64
 2015,Aveiro,Anadia,37
 2015,Aveiro,Arouca,98
 2015,Aveiro,Aveiro,140
@@ -676,12 +562,10 @@ ANO,DISTRITO,CONCELHO,NCCO
 2015,Aveiro,Estarreja,62
 2015,Aveiro,Mealhada,30
 2015,Aveiro,Murtosa,12
-2015,Aveiro,Oliveira De Azeméis,16
-2015,Aveiro,Oliveira de Azeméis,97
+2015,Aveiro,Oliveira de Azeméis,113
 2015,Aveiro,Oliveira do Bairro,43
 2015,Aveiro,Ovar,60
-2015,Aveiro,Santa Maria Da Feira,20
-2015,Aveiro,Santa Maria da Feira,166
+2015,Aveiro,Santa Maria da Feira,186
 2015,Aveiro,Sever do Vouga,69
 2015,Aveiro,São João da Madeira,10
 2015,Aveiro,Vagos,30
@@ -705,70 +589,51 @@ ANO,DISTRITO,CONCELHO,NCCO
 2015,Braga,Amares,52
 2015,Braga,Barcelos,111
 2015,Braga,Braga,166
-2015,Braga,Cabeceiras De Basto,10
-2015,Braga,Cabeceiras de Basto,110
-2015,Braga,Celorico De Basto,26
-2015,Braga,Celorico de Basto,190
+2015,Braga,Cabeceiras de Basto,120
+2015,Braga,Celorico de Basto,216
 2015,Braga,Esposende,37
 2015,Braga,Fafe,191
 2015,Braga,Guimarães,316
-2015,Braga,Póvoa De Lanhoso,16
-2015,Braga,Póvoa de Lanhoso,199
-2015,Braga,Terras De Bouro,13
-2015,Braga,Terras de Bouro,73
-2015,Braga,VIZELA,35
-2015,Braga,Vieira Do Minho,14
-2015,Braga,Vieira do Minho,166
-2015,Braga,Vila Nova De Famalicão,20
-2015,Braga,Vila Nova de Famalicão,100
+2015,Braga,Póvoa de Lanhoso,215
+2015,Braga,Terras de Bouro,86
+2015,Braga,Vieira do Minho,180
+2015,Braga,Vila Nova de Famalicão,120
 2015,Braga,Vila Verde,195
-2015,Braga,Vizela,9
-2015,Bragança,Alfândega Da Fé,5
-2015,Bragança,Alfândega da Fé,16
+2015,Braga,Vizela,44
+2015,Bragança,Alfândega da Fé,21
 2015,Bragança,Bragança,94
-2015,Bragança,Carrazeda De Ansiães,3
-2015,Bragança,Carrazeda de Ansiães,34
-2015,Bragança,Freixo De Espada À Cinta,3
-2015,Bragança,Freixo de Espada à Cinta,92
-2015,Bragança,Macedo De Cavaleiros,12
-2015,Bragança,Macedo de Cavaleiros,49
-2015,Bragança,Miranda Do Douro,2
-2015,Bragança,Miranda do Douro,21
+2015,Bragança,Carrazeda de Ansiães,37
+2015,Bragança,Freixo de Espada à Cinta,95
+2015,Bragança,Macedo de Cavaleiros,61
+2015,Bragança,Miranda do Douro,23
 2015,Bragança,Mirandela,79
 2015,Bragança,Mogadouro,34
-2015,Bragança,Torre De Moncorvo,10
-2015,Bragança,Torre de Moncorvo,65
-2015,Bragança,Vila FLor,23
-2015,Bragança,Vila Flor,4
+2015,Bragança,Torre de Moncorvo,75
+2015,Bragança,Vila Flor,27
 2015,Bragança,Vimioso,32
 2015,Bragança,Vinhais,108
 2015,Castelo Branco,Belmonte,23
 2015,Castelo Branco,Castelo Branco,132
 2015,Castelo Branco,Covilhã,113
 2015,Castelo Branco,Fundão,70
-2015,Castelo Branco,Idanha-a-Nova,56
-2015,Castelo Branco,Idanha-a-nova,5
+2015,Castelo Branco,Idanha-a-Nova,61
 2015,Castelo Branco,Oleiros,12
 2015,Castelo Branco,Penamacor,32
 2015,Castelo Branco,Proença-a-Nova,15
 2015,Castelo Branco,Sertã,47
-2015,Castelo Branco,Vila Velha De Ródão,1
-2015,Castelo Branco,Vila Velha de Ródão,32
 2015,Castelo Branco,Vila de Rei,6
+2015,Castelo Branco,Vila Velha de Ródão,33
 2015,Coimbra,Arganil,48
 2015,Coimbra,Cantanhede,38
 2015,Coimbra,Coimbra,111
 2015,Coimbra,Condeixa-a-Nova,28
-2015,Coimbra,Figueira Da Foz,1
-2015,Coimbra,Figueira da Foz,47
+2015,Coimbra,Figueira da Foz,48
 2015,Coimbra,Góis,15
 2015,Coimbra,Lousã,17
 2015,Coimbra,Mira,18
 2015,Coimbra,Miranda do Corvo,33
-2015,Coimbra,Montemor-o-Velho,32
-2015,Coimbra,Montemor-o-velho,1
-2015,Coimbra,Oliveira Do Hospital,6
-2015,Coimbra,Oliveira do Hospital,72
+2015,Coimbra,Montemor-o-Velho,33
+2015,Coimbra,Oliveira do Hospital,78
 2015,Coimbra,Pampilhosa da Serra,11
 2015,Coimbra,Penacova,28
 2015,Coimbra,Penela,20
@@ -780,7 +645,7 @@ ANO,DISTRITO,CONCELHO,NCCO
 2015,Faro,Aljezur,12
 2015,Faro,Castro Marim,15
 2015,Faro,Faro,44
-2015,Faro,Lagoa,15
+2015,Faro,lagoa,15
 2015,Faro,Lagos,15
 2015,Faro,Loulé,75
 2015,Faro,Monchique,16
@@ -789,8 +654,8 @@ ANO,DISTRITO,CONCELHO,NCCO
 2015,Faro,Silves,55
 2015,Faro,São Brás de Alportel,11
 2015,Faro,Tavira,34
-2015,Faro,Vila Real de Santo António,6
 2015,Faro,Vila do Bispo,12
+2015,Faro,Vila Real de Santo António,6
 2015,Guarda,Aguiar da Beira,8
 2015,Guarda,Almeida,35
 2015,Guarda,Celorico da Beira,25
@@ -799,20 +664,18 @@ ANO,DISTRITO,CONCELHO,NCCO
 2015,Guarda,Gouveia,63
 2015,Guarda,Guarda,58
 2015,Guarda,Manteigas,3
-2015,Guarda,Mêda,46
+2015,Guarda,mêda,46
 2015,Guarda,Pinhel,30
 2015,Guarda,Sabugal,70
 2015,Guarda,Seia,67
 2015,Guarda,Trancoso,40
-2015,Guarda,Vila Nova De Foz Côa,8
-2015,Guarda,Vila Nova de Foz Côa,47
+2015,Guarda,Vila Nova de Foz Côa,55
 2015,Leiria,Alcobaça,109
 2015,Leiria,Alvaiázere,18
 2015,Leiria,Ansião,33
 2015,Leiria,Batalha,18
 2015,Leiria,Bombarral,34
-2015,Leiria,Caldas Da Rainha,2
-2015,Leiria,Caldas da Rainha,131
+2015,Leiria,Caldas da Rainha,133
 2015,Leiria,Castanheira de Pêra,8
 2015,Leiria,Figueiró dos Vinhos,12
 2015,Leiria,Leiria,129
@@ -821,8 +684,7 @@ ANO,DISTRITO,CONCELHO,NCCO
 2015,Leiria,Pedrógão Grande,51
 2015,Leiria,Peniche,42
 2015,Leiria,Pombal,104
-2015,Leiria,Porto De Mós,3
-2015,Leiria,Porto de Mós,57
+2015,Leiria,Porto de Mós,60
 2015,Leiria,Óbidos,63
 2015,Lisboa,Alenquer,159
 2015,Lisboa,Amadora,87
@@ -834,21 +696,17 @@ ANO,DISTRITO,CONCELHO,NCCO
 2015,Lisboa,Loures,157
 2015,Lisboa,Lourinhã,86
 2015,Lisboa,Mafra,95
-2015,Lisboa,ODIVELAS,92
-2015,Lisboa,Odivelas,7
+2015,Lisboa,Odivelas,99
 2015,Lisboa,Oeiras,44
 2015,Lisboa,Sintra,266
-2015,Lisboa,Sobral De Monte Agraço,7
-2015,Lisboa,Sobral de Monte Agraço,46
+2015,Lisboa,Sobral de Monte Agraço,53
 2015,Lisboa,Torres Vedras,176
-2015,Lisboa,Vila Franca De Xira,4
-2015,Lisboa,Vila Franca de Xira,77
+2015,Lisboa,Vila Franca de Xira,81
 2015,Portalegre,Alter do Chão,11
 2015,Portalegre,Arronches,15
 2015,Portalegre,Avis,14
 2015,Portalegre,Campo Maior,34
-2015,Portalegre,Castelo De Vide,2
-2015,Portalegre,Castelo de Vide,6
+2015,Portalegre,Castelo de Vide,8
 2015,Portalegre,Crato,8
 2015,Portalegre,Elvas,82
 2015,Portalegre,Fronteira,6
@@ -856,8 +714,7 @@ ANO,DISTRITO,CONCELHO,NCCO
 2015,Portalegre,Marvão,18
 2015,Portalegre,Monforte,7
 2015,Portalegre,Nisa,21
-2015,Portalegre,Ponte De Sor,1
-2015,Portalegre,Ponte de Sor,42
+2015,Portalegre,Ponte de Sor,43
 2015,Portalegre,Portalegre,29
 2015,Portalegre,Sousel,10
 2015,Porto,Amarante,323
@@ -866,24 +723,18 @@ ANO,DISTRITO,CONCELHO,NCCO
 2015,Porto,Gondomar,348
 2015,Porto,Lousada,239
 2015,Porto,Maia,215
-2015,Porto,Marco De Canaveses,17
-2015,Porto,Marco de Canaveses,231
+2015,Porto,Marco de Canaveses,248
 2015,Porto,Matosinhos,94
 2015,Porto,Paredes,401
-2015,Porto,Paços De Ferreira,1
-2015,Porto,Paços de Ferreira,219
+2015,Porto,Paços de Ferreira,220
 2015,Porto,Penafiel,444
 2015,Porto,Porto,1
-2015,Porto,Póvoa De Varzim,1
-2015,Porto,Póvoa de Varzim,64
+2015,Porto,Póvoa de Varzim,65
 2015,Porto,Santo Tirso,302
-2015,Porto,TROFA,54
-2015,Porto,Trofa,41
+2015,Porto,Trofa,95
 2015,Porto,Valongo,131
-2015,Porto,Vila Do Conde,3
-2015,Porto,Vila Nova De Gaia,24
-2015,Porto,Vila Nova de Gaia,262
-2015,Porto,Vila do Conde,133
+2015,Porto,Vila do Conde,136
+2015,Porto,Vila Nova de Gaia,286
 2015,Santarém,Abrantes,80
 2015,Santarém,Alcanena,62
 2015,Santarém,Almeirim,34
@@ -899,16 +750,14 @@ ANO,DISTRITO,CONCELHO,NCCO
 2015,Santarém,Mação,25
 2015,Santarém,Ourém,78
 2015,Santarém,Rio Maior,61
-2015,Santarém,Salvaterra De Magos,1
-2015,Santarém,Salvaterra de Magos,56
+2015,Santarém,Salvaterra de Magos,57
 2015,Santarém,Santarém,162
 2015,Santarém,Sardoal,8
 2015,Santarém,Tomar,111
 2015,Santarém,Torres Novas,60
 2015,Santarém,Vila Nova da Barquinha,12
 2015,Setúbal,Alcochete,30
-2015,Setúbal,Alcácer Do Sal,4
-2015,Setúbal,Alcácer do Sal,32
+2015,Setúbal,Alcácer do Sal,36
 2015,Setúbal,Almada,165
 2015,Setúbal,Barreiro,67
 2015,Setúbal,Grândola,65
@@ -920,65 +769,48 @@ ANO,DISTRITO,CONCELHO,NCCO
 2015,Setúbal,Sesimbra,29
 2015,Setúbal,Setúbal,87
 2015,Setúbal,Sines,17
-2015,Viana Do Castelo,Arcos De Valdevez,35
-2015,Viana Do Castelo,Caminha,6
-2015,Viana Do Castelo,Monção,8
-2015,Viana Do Castelo,Paredes De Coura,17
-2015,Viana Do Castelo,Ponte Da Barca,41
-2015,Viana Do Castelo,Ponte De Lima,27
-2015,Viana Do Castelo,Valença,5
-2015,Viana Do Castelo,Viana Do Castelo,29
-2015,Viana Do Castelo,Vila Nova De Cerveira,2
-2015,Viana do Castelo,Arcos de Valdevez,267
-2015,Viana do Castelo,Caminha,88
+2015,Viana do Castelo,Arcos de Valdevez,302
+2015,Viana do Castelo,Caminha,94
 2015,Viana do Castelo,Melgaço,17
-2015,Viana do Castelo,Monção,87
-2015,Viana do Castelo,Paredes de Coura,45
-2015,Viana do Castelo,Ponte da Barca,132
-2015,Viana do Castelo,Ponte de Lima,240
-2015,Viana do Castelo,Valença,52
-2015,Viana do Castelo,Viana do Castelo,192
-2015,Viana do Castelo,Vila Nova de Cerveira,31
+2015,Viana do Castelo,Monção,95
+2015,Viana do Castelo,Paredes de Coura,62
+2015,Viana do Castelo,Ponte da Barca,173
+2015,Viana do Castelo,Ponte de Lima,267
+2015,Viana do Castelo,Valença,57
+2015,Viana do Castelo,Viana do Castelo,221
+2015,Viana do Castelo,Vila Nova de Cerveira,33
 2015,Vila Real,Alijó,64
 2015,Vila Real,Boticas,98
 2015,Vila Real,Chaves,181
-2015,Vila Real,Mesão frio,10
+2015,Vila Real,Mesão Frio,10
 2015,Vila Real,Mondim de Basto,31
 2015,Vila Real,Montalegre,321
 2015,Vila Real,Murça,40
 2015,Vila Real,Peso da Régua,34
-2015,Vila Real,Ribeira De Pena,3
-2015,Vila Real,Ribeira de Pena,85
+2015,Vila Real,Ribeira de Pena,88
 2015,Vila Real,Sabrosa,24
-2015,Vila Real,Santa Marta De Penaguião,6
-2015,Vila Real,Santa Marta de Penaguião,16
+2015,Vila Real,Santa Marta de Penaguião,22
 2015,Vila Real,Valpaços,175
-2015,Vila Real,Vila Pouca De Aguiar,8
-2015,Vila Real,Vila Pouca de Aguiar,106
+2015,Vila Real,Vila Pouca de Aguiar,114
 2015,Vila Real,Vila Real,114
 2015,Viseu,Armamar,20
-2015,Viseu,Carregal Do Sal,2
-2015,Viseu,Carregal do Sal,15
+2015,Viseu,Carregal do Sal,17
 2015,Viseu,Castro Daire,109
 2015,Viseu,Cinfães,297
 2015,Viseu,Lamego,68
 2015,Viseu,Mangualde,72
-2015,Viseu,Moimenta Da Beira,4
-2015,Viseu,Moimenta da Beira,41
+2015,Viseu,Moimenta da Beira,45
 2015,Viseu,Mortágua,8
 2015,Viseu,Nelas,41
-2015,Viseu,Oliveira De Frades,1
-2015,Viseu,Oliveira de Frades,55
-2015,Viseu,Penalva Do Castelo,1
-2015,Viseu,Penalva do Castelo,13
+2015,Viseu,Oliveira de Frades,56
+2015,Viseu,Penalva do Castelo,14
 2015,Viseu,Penedono,15
 2015,Viseu,Resende,131
 2015,Viseu,Santa Comba Dão,14
 2015,Viseu,Sernancelhe,42
 2015,Viseu,Sátão,19
 2015,Viseu,São João da Pesqueira,44
-2015,Viseu,São Pedro Do Sul,5
-2015,Viseu,São Pedro do Sul,31
+2015,Viseu,São Pedro do Sul,36
 2015,Viseu,Tabuaço,14
 2015,Viseu,Tarouca,38
 2015,Viseu,Tondela,68
@@ -999,30 +831,23 @@ ANO,DISTRITO,CONCELHO,NCCO
 2015,Évora,Viana do Alentejo,4
 2015,Évora,Vila Viçosa,5
 2015,Évora,Évora,56
-2016,Aveiro,Albergaria-a-Velha,5
-2016,Aveiro,Albergaria-a-velha,59
+2016,Aveiro,Albergaria-a-Velha,64
 2016,Aveiro,Anadia,35
 2016,Aveiro,Arouca,58
 2016,Aveiro,Aveiro,94
-2016,Aveiro,Castelo De Paiva,1
-2016,Aveiro,Castelo de Paiva,32
+2016,Aveiro,Castelo de Paiva,33
 2016,Aveiro,Espinho,26
 2016,Aveiro,Estarreja,37
 2016,Aveiro,Mealhada,26
 2016,Aveiro,Murtosa,6
-2016,Aveiro,Oliveira De Azeméis,3
-2016,Aveiro,Oliveira Do Bairro,1
-2016,Aveiro,Oliveira de Azeméis,60
-2016,Aveiro,Oliveira do Bairro,48
+2016,Aveiro,Oliveira de Azeméis,63
+2016,Aveiro,Oliveira do Bairro,49
 2016,Aveiro,Ovar,63
-2016,Aveiro,Santa Maria Da Feira,9
-2016,Aveiro,Santa Maria da Feira,109
-2016,Aveiro,Sever Do Vouga,5
-2016,Aveiro,Sever do Vouga,47
+2016,Aveiro,Santa Maria da Feira,118
+2016,Aveiro,Sever do Vouga,52
 2016,Aveiro,São João da Madeira,2
 2016,Aveiro,Vagos,30
-2016,Aveiro,Vale De Cambra,1
-2016,Aveiro,Vale de Cambra,30
+2016,Aveiro,Vale de Cambra,31
 2016,Aveiro,Águeda,83
 2016,Aveiro,Ílhavo,28
 2016,Beja,Aljustrel,12
@@ -1042,82 +867,63 @@ ANO,DISTRITO,CONCELHO,NCCO
 2016,Braga,Amares,50
 2016,Braga,Barcelos,122
 2016,Braga,Braga,135
-2016,Braga,Cabeceiras De Basto,1
-2016,Braga,Cabeceiras de Basto,115
+2016,Braga,Cabeceiras de Basto,116
 2016,Braga,Celorico de Basto,172
 2016,Braga,Esposende,21
 2016,Braga,Fafe,187
 2016,Braga,Guimarães,240
-2016,Braga,Póvoa De Lanhoso,4
-2016,Braga,Póvoa de Lanhoso,191
+2016,Braga,Póvoa de Lanhoso,195
 2016,Braga,Terras de Bouro,59
-2016,Braga,VIZELA,11
 2016,Braga,Vieira do Minho,92
-2016,Braga,Vila Nova De Famalicão,1
-2016,Braga,Vila Nova de Famalicão,167
+2016,Braga,Vila Nova de Famalicão,168
 2016,Braga,Vila Verde,182
-2016,Braga,Vizela,9
-2016,Bragança,Alfândega Da Fé,2
-2016,Bragança,Alfândega da Fé,10
+2016,Braga,Vizela,20
+2016,Bragança,Alfândega da Fé,12
 2016,Bragança,Bragança,68
-2016,Bragança,Carrazeda De Ansiães,1
-2016,Bragança,Carrazeda de Ansiães,27
-2016,Bragança,Freixo De Espada À Cinta,8
-2016,Bragança,Freixo de Espada À Cinta,54
-2016,Bragança,Freixo de Espada à Cinta,2
-2016,Bragança,Macedo De Cavaleiros,2
-2016,Bragança,Macedo de Cavaleiros,17
-2016,Bragança,Miranda Do Douro,1
-2016,Bragança,Miranda do Douro,19
+2016,Bragança,Carrazeda de Ansiães,28
+2016,Bragança,Freixo de Espada à Cinta,64
+2016,Bragança,Macedo de Cavaleiros,19
+2016,Bragança,Miranda do Douro,20
 2016,Bragança,Mirandela,53
 2016,Bragança,Mogadouro,33
-2016,Bragança,Torre De Moncorvo,1
-2016,Bragança,Torre de Moncorvo,52
-2016,Bragança,Vila FLor,4
-2016,Bragança,Vila Flor,17
+2016,Bragança,Torre de Moncorvo,53
+2016,Bragança,Vila Flor,21
 2016,Bragança,Vimioso,18
 2016,Bragança,Vinhais,60
 2016,Castelo Branco,Belmonte,5
 2016,Castelo Branco,Castelo Branco,96
 2016,Castelo Branco,Covilhã,64
 2016,Castelo Branco,Fundão,42
-2016,Castelo Branco,Idanha-a-Nova,1
-2016,Castelo Branco,Idanha-a-nova,32
+2016,Castelo Branco,Idanha-a-Nova,33
 2016,Castelo Branco,Oleiros,8
 2016,Castelo Branco,Penamacor,12
-2016,Castelo Branco,Proença-a-nova,20
+2016,Castelo Branco,Proença-a-Nova,20
 2016,Castelo Branco,Sertã,57
-2016,Castelo Branco,Vila Velha De Ródão,8
-2016,Castelo Branco,Vila Velha de Ródão,43
 2016,Castelo Branco,Vila de Rei,2
+2016,Castelo Branco,Vila Velha de Ródão,51
 2016,Coimbra,Arganil,23
 2016,Coimbra,Cantanhede,37
 2016,Coimbra,Coimbra,72
-2016,Coimbra,Condeixa-a-nova,16
-2016,Coimbra,Figueira Da Foz,2
-2016,Coimbra,Figueira da Foz,31
+2016,Coimbra,Condeixa-a-Nova,16
+2016,Coimbra,Figueira da Foz,33
 2016,Coimbra,Góis,23
 2016,Coimbra,Lousã,18
 2016,Coimbra,Mira,26
-2016,Coimbra,Miranda Do Corvo,1
-2016,Coimbra,Miranda do Corvo,25
-2016,Coimbra,Montemor-o-Velho,1
-2016,Coimbra,Montemor-o-velho,33
-2016,Coimbra,Oliveira Do Hospital,9
-2016,Coimbra,Oliveira do Hospital,38
+2016,Coimbra,Miranda do Corvo,26
+2016,Coimbra,Montemor-o-Velho,34
+2016,Coimbra,Oliveira do Hospital,47
 2016,Coimbra,Pampilhosa da Serra,5
 2016,Coimbra,Penacova,16
 2016,Coimbra,Penela,21
 2016,Coimbra,Soure,30
 2016,Coimbra,Tábua,16
-2016,Coimbra,Vila Nova De Poiares,1
-2016,Coimbra,Vila Nova de Poiares,12
+2016,Coimbra,Vila Nova de Poiares,13
 2016,Faro,Albufeira,20
 2016,Faro,Alcoutim,2
 2016,Faro,Aljezur,12
 2016,Faro,Castro Marim,10
 2016,Faro,Faro,16
-2016,Faro,Lagoa,21
+2016,Faro,lagoa,21
 2016,Faro,Lagos,13
 2016,Faro,Loulé,40
 2016,Faro,Monchique,12
@@ -1126,8 +932,8 @@ ANO,DISTRITO,CONCELHO,NCCO
 2016,Faro,Silves,43
 2016,Faro,São Brás de Alportel,8
 2016,Faro,Tavira,19
-2016,Faro,Vila Real de Santo António,9
 2016,Faro,Vila do Bispo,4
+2016,Faro,Vila Real de Santo António,9
 2016,Guarda,Aguiar da Beira,17
 2016,Guarda,Almeida,28
 2016,Guarda,Celorico da Beira,26
@@ -1136,23 +942,20 @@ ANO,DISTRITO,CONCELHO,NCCO
 2016,Guarda,Gouveia,31
 2016,Guarda,Guarda,50
 2016,Guarda,Manteigas,4
-2016,Guarda,Mêda,30
+2016,Guarda,mêda,30
 2016,Guarda,Pinhel,31
 2016,Guarda,Sabugal,35
 2016,Guarda,Seia,54
 2016,Guarda,Trancoso,35
-2016,Guarda,Vila Nova De Foz Côa,1
-2016,Guarda,Vila Nova de Foz Côa,43
+2016,Guarda,Vila Nova de Foz Côa,44
 2016,Leiria,Alcobaça,57
 2016,Leiria,Alvaiázere,20
 2016,Leiria,Ansião,18
 2016,Leiria,Batalha,7
 2016,Leiria,Bombarral,28
-2016,Leiria,Caldas Da Rainha,3
-2016,Leiria,Caldas da Rainha,51
+2016,Leiria,Caldas da Rainha,54
 2016,Leiria,Castanheira de Pêra,15
-2016,Leiria,Figueiró Dos Vinhos,22
-2016,Leiria,Figueiró dos Vinhos,1
+2016,Leiria,Figueiró dos Vinhos,23
 2016,Leiria,Leiria,86
 2016,Leiria,Marinha Grande,30
 2016,Leiria,Nazaré,20
@@ -1163,7 +966,7 @@ ANO,DISTRITO,CONCELHO,NCCO
 2016,Leiria,Óbidos,70
 2016,Lisboa,Alenquer,143
 2016,Lisboa,Amadora,55
-2016,Lisboa,Arruda Dos Vinhos,50
+2016,Lisboa,Arruda dos Vinhos,50
 2016,Lisboa,Azambuja,81
 2016,Lisboa,Cadaval,25
 2016,Lisboa,Cascais,65
@@ -1174,13 +977,10 @@ ANO,DISTRITO,CONCELHO,NCCO
 2016,Lisboa,Odivelas,8
 2016,Lisboa,Oeiras,22
 2016,Lisboa,Sintra,215
-2016,Lisboa,Sobral De Monte Agraço,5
-2016,Lisboa,Sobral de Monte Agraço,47
+2016,Lisboa,Sobral de Monte Agraço,52
 2016,Lisboa,Torres Vedras,155
-2016,Lisboa,Vila Franca De Xira,2
-2016,Lisboa,Vila Franca de Xira,24
-2016,Portalegre,Alter Do Chão,1
-2016,Portalegre,Alter do Chão,13
+2016,Lisboa,Vila Franca de Xira,26
+2016,Portalegre,Alter do Chão,14
 2016,Portalegre,Arronches,3
 2016,Portalegre,Avis,10
 2016,Portalegre,Campo Maior,36
@@ -1192,8 +992,7 @@ ANO,DISTRITO,CONCELHO,NCCO
 2016,Portalegre,Marvão,9
 2016,Portalegre,Monforte,7
 2016,Portalegre,Nisa,13
-2016,Portalegre,Ponte De Sor,4
-2016,Portalegre,Ponte de Sor,22
+2016,Portalegre,Ponte de Sor,26
 2016,Portalegre,Portalegre,19
 2016,Portalegre,Sousel,10
 2016,Porto,Amarante,273
@@ -1202,22 +1001,17 @@ ANO,DISTRITO,CONCELHO,NCCO
 2016,Porto,Gondomar,253
 2016,Porto,Lousada,327
 2016,Porto,Maia,146
-2016,Porto,Marco De Canaveses,1
-2016,Porto,Marco de Canaveses,264
+2016,Porto,Marco de Canaveses,265
 2016,Porto,Matosinhos,60
 2016,Porto,Paredes,637
-2016,Porto,Paços De Ferreira,5
-2016,Porto,Paços de Ferreira,234
+2016,Porto,Paços de Ferreira,239
 2016,Porto,Penafiel,543
-2016,Porto,Póvoa De Varzim,1
-2016,Porto,Póvoa de Varzim,38
+2016,Porto,Póvoa de Varzim,39
 2016,Porto,Santo Tirso,267
 2016,Porto,Trofa,118
 2016,Porto,Valongo,200
-2016,Porto,Vila Do Conde,16
-2016,Porto,Vila Nova De Gaia,1
-2016,Porto,Vila Nova de Gaia,277
-2016,Porto,Vila do Conde,119
+2016,Porto,Vila do Conde,135
+2016,Porto,Vila Nova de Gaia,278
 2016,Santarém,Abrantes,72
 2016,Santarém,Alcanena,39
 2016,Santarém,Almeirim,17
@@ -1240,8 +1034,7 @@ ANO,DISTRITO,CONCELHO,NCCO
 2016,Santarém,Torres Novas,30
 2016,Santarém,Vila Nova da Barquinha,8
 2016,Setúbal,Alcochete,18
-2016,Setúbal,Alcácer Do Sal,5
-2016,Setúbal,Alcácer do Sal,24
+2016,Setúbal,Alcácer do Sal,29
 2016,Setúbal,Almada,109
 2016,Setúbal,Barreiro,50
 2016,Setúbal,Grândola,44
@@ -1253,92 +1046,69 @@ ANO,DISTRITO,CONCELHO,NCCO
 2016,Setúbal,Sesimbra,22
 2016,Setúbal,Setúbal,56
 2016,Setúbal,Sines,20
-2016,Viana Do Castelo,Arcos De Valdevez,2
-2016,Viana Do Castelo,Caminha,5
-2016,Viana Do Castelo,Melgaço,1
-2016,Viana Do Castelo,Monção,12
-2016,Viana Do Castelo,Paredes De Coura,2
-2016,Viana Do Castelo,Ponte De Lima,6
-2016,Viana Do Castelo,Valença,13
-2016,Viana Do Castelo,Viana Do Castelo,16
-2016,Viana Do Castelo,Vila Nova De Cerveira,3
-2016,Viana do Castelo,Arcos de Valdevez,223
-2016,Viana do Castelo,Caminha,43
-2016,Viana do Castelo,Melgaço,26
-2016,Viana do Castelo,Monção,75
-2016,Viana do Castelo,Paredes de Coura,94
+2016,Viana do Castelo,Arcos de Valdevez,225
+2016,Viana do Castelo,Caminha,48
+2016,Viana do Castelo,Melgaço,27
+2016,Viana do Castelo,Monção,87
+2016,Viana do Castelo,Paredes de Coura,96
 2016,Viana do Castelo,Ponte da Barca,139
-2016,Viana do Castelo,Ponte de Lima,237
-2016,Viana do Castelo,Valença,64
-2016,Viana do Castelo,Viana do Castelo,133
-2016,Viana do Castelo,Vila Nova de Cerveira,15
+2016,Viana do Castelo,Ponte de Lima,243
+2016,Viana do Castelo,Valença,77
+2016,Viana do Castelo,Viana do Castelo,149
+2016,Viana do Castelo,Vila Nova de Cerveira,18
 2016,Vila Real,Alijó,22
 2016,Vila Real,Boticas,93
 2016,Vila Real,Chaves,106
 2016,Vila Real,Mesão Frio,21
-2016,Vila Real,Mondim De Basto,7
-2016,Vila Real,Mondim de Basto,19
+2016,Vila Real,Mondim de Basto,26
 2016,Vila Real,Montalegre,292
 2016,Vila Real,Murça,31
-2016,Vila Real,Peso Da Régua,1
-2016,Vila Real,Peso da Régua,20
-2016,Vila Real,Ribeira De Pena,2
-2016,Vila Real,Ribeira de Pena,38
+2016,Vila Real,Peso da Régua,21
+2016,Vila Real,Ribeira de Pena,40
 2016,Vila Real,Sabrosa,14
 2016,Vila Real,Santa Marta de Penaguião,24
 2016,Vila Real,Valpaços,107
-2016,Vila Real,Vila Pouca De Aguiar,6
-2016,Vila Real,Vila Pouca de Aguiar,82
+2016,Vila Real,Vila Pouca de Aguiar,88
 2016,Vila Real,Vila Real,87
 2016,Viseu,Armamar,13
-2016,Viseu,Carregal Do Sal,1
-2016,Viseu,Carregal do Sal,28
+2016,Viseu,Carregal do Sal,29
 2016,Viseu,Castro Daire,123
 2016,Viseu,Cinfães,247
 2016,Viseu,Lamego,89
 2016,Viseu,Mangualde,31
-2016,Viseu,Moimenta Da Beira,2
-2016,Viseu,Moimenta da Beira,28
+2016,Viseu,Moimenta da Beira,30
 2016,Viseu,Mortágua,5
 2016,Viseu,Nelas,27
-2016,Viseu,Oliveira De Frades,2
-2016,Viseu,Oliveira de Frades,34
-2016,Viseu,Penalva Do Castelo,2
-2016,Viseu,Penalva do Castelo,8
+2016,Viseu,Oliveira de Frades,36
+2016,Viseu,Penalva do Castelo,10
 2016,Viseu,Penedono,9
 2016,Viseu,Resende,95
 2016,Viseu,Santa Comba Dão,20
 2016,Viseu,Sernancelhe,23
 2016,Viseu,Sátão,15
-2016,Viseu,São João Da Pesqueira,1
-2016,Viseu,São João da Pesqueira,28
-2016,Viseu,São Pedro Do Sul,2
-2016,Viseu,São Pedro do Sul,16
+2016,Viseu,São João da Pesqueira,29
+2016,Viseu,São Pedro do Sul,18
 2016,Viseu,Tabuaço,5
 2016,Viseu,Tarouca,32
 2016,Viseu,Tondela,46
-2016,Viseu,Vila Nova De Paiva,2
-2016,Viseu,Vila Nova de Paiva,29
+2016,Viseu,Vila Nova de Paiva,31
 2016,Viseu,Viseu,160
 2016,Viseu,Vouzela,11
 2016,Évora,Alandroal,9
 2016,Évora,Arraiolos,14
 2016,Évora,Borba,8
 2016,Évora,Estremoz,35
-2016,Évora,Montemor-o-Novo,13
-2016,Évora,Montemor-o-novo,9
+2016,Évora,Montemor-o-Novo,22
 2016,Évora,Mora,9
 2016,Évora,Mourão,3
 2016,Évora,Portel,9
 2016,Évora,Redondo,15
-2016,Évora,Reguengos De Monsaraz,2
-2016,Évora,Reguengos de Monsaraz,22
+2016,Évora,Reguengos de Monsaraz,24
 2016,Évora,Vendas Novas,10
 2016,Évora,Viana do Alentejo,7
 2016,Évora,Vila Viçosa,6
 2016,Évora,Évora,31
-2017,Aveiro,Albergaria-a-Velha,2
-2017,Aveiro,Albergaria-a-velha,86
+2017,Aveiro,Albergaria-a-Velha,88
 2017,Aveiro,Anadia,47
 2017,Aveiro,Arouca,120
 2017,Aveiro,Aveiro,183
@@ -1381,47 +1151,43 @@ ANO,DISTRITO,CONCELHO,NCCO
 2017,Braga,Guimarães,276
 2017,Braga,Póvoa de Lanhoso,190
 2017,Braga,Terras de Bouro,81
-2017,Braga,VIZELA,1
 2017,Braga,Vieira do Minho,165
 2017,Braga,Vila Nova de Famalicão,189
 2017,Braga,Vila Verde,192
-2017,Braga,Vizela,39
+2017,Braga,Vizela,40
 2017,Bragança,Alfândega da Fé,37
 2017,Bragança,Bragança,151
 2017,Bragança,Carrazeda de Ansiães,50
-2017,Bragança,Freixo de Espada À Cinta,47
+2017,Bragança,Freixo de Espada à Cinta,47
 2017,Bragança,Macedo de Cavaleiros,63
 2017,Bragança,Miranda do Douro,33
 2017,Bragança,Mirandela,94
 2017,Bragança,Mogadouro,63
 2017,Bragança,Torre de Moncorvo,100
-2017,Bragança,Vila FLor,1
-2017,Bragança,Vila Flor,42
+2017,Bragança,Vila Flor,43
 2017,Bragança,Vimioso,50
 2017,Bragança,Vinhais,123
 2017,Castelo Branco,Belmonte,19
 2017,Castelo Branco,Castelo Branco,172
 2017,Castelo Branco,Covilhã,115
 2017,Castelo Branco,Fundão,73
-2017,Castelo Branco,Idanha-a-nova,54
+2017,Castelo Branco,Idanha-a-Nova,54
 2017,Castelo Branco,Oleiros,22
 2017,Castelo Branco,Penamacor,23
-2017,Castelo Branco,Proença-a-nova,23
+2017,Castelo Branco,Proença-a-Nova,23
 2017,Castelo Branco,Sertã,73
-2017,Castelo Branco,Vila Velha de Ródão,49
 2017,Castelo Branco,Vila de Rei,13
+2017,Castelo Branco,Vila Velha de Ródão,49
 2017,Coimbra,Arganil,30
 2017,Coimbra,Cantanhede,71
 2017,Coimbra,Coimbra,123
-2017,Coimbra,Condeixa-a-Nova,1
-2017,Coimbra,Condeixa-a-nova,34
+2017,Coimbra,Condeixa-a-Nova,35
 2017,Coimbra,Figueira da Foz,81
 2017,Coimbra,Góis,19
 2017,Coimbra,Lousã,28
 2017,Coimbra,Mira,41
 2017,Coimbra,Miranda do Corvo,33
-2017,Coimbra,Montemor-o-Velho,2
-2017,Coimbra,Montemor-o-velho,52
+2017,Coimbra,Montemor-o-Velho,54
 2017,Coimbra,Oliveira do Hospital,59
 2017,Coimbra,Pampilhosa da Serra,12
 2017,Coimbra,Penacova,36
@@ -1434,7 +1200,7 @@ ANO,DISTRITO,CONCELHO,NCCO
 2017,Faro,Aljezur,19
 2017,Faro,Castro Marim,11
 2017,Faro,Faro,42
-2017,Faro,Lagoa,16
+2017,Faro,lagoa,16
 2017,Faro,Lagos,20
 2017,Faro,Loulé,53
 2017,Faro,Monchique,17
@@ -1443,8 +1209,8 @@ ANO,DISTRITO,CONCELHO,NCCO
 2017,Faro,Silves,56
 2017,Faro,São Brás de Alportel,16
 2017,Faro,Tavira,38
-2017,Faro,Vila Real de Santo António,15
 2017,Faro,Vila do Bispo,5
+2017,Faro,Vila Real de Santo António,15
 2017,Guarda,Aguiar da Beira,12
 2017,Guarda,Almeida,23
 2017,Guarda,Celorico da Beira,48
@@ -1453,7 +1219,7 @@ ANO,DISTRITO,CONCELHO,NCCO
 2017,Guarda,Gouveia,56
 2017,Guarda,Guarda,69
 2017,Guarda,Manteigas,3
-2017,Guarda,Mêda,63
+2017,Guarda,mêda,63
 2017,Guarda,Pinhel,51
 2017,Guarda,Sabugal,67
 2017,Guarda,Seia,68
@@ -1466,8 +1232,7 @@ ANO,DISTRITO,CONCELHO,NCCO
 2017,Leiria,Bombarral,35
 2017,Leiria,Caldas da Rainha,80
 2017,Leiria,Castanheira de Pêra,14
-2017,Leiria,Figueiró Dos Vinhos,13
-2017,Leiria,Figueiró dos Vinhos,1
+2017,Leiria,Figueiró dos Vinhos,14
 2017,Leiria,Leiria,123
 2017,Leiria,Marinha Grande,42
 2017,Leiria,Nazaré,11
@@ -1478,7 +1243,7 @@ ANO,DISTRITO,CONCELHO,NCCO
 2017,Leiria,Óbidos,102
 2017,Lisboa,Alenquer,207
 2017,Lisboa,Amadora,33
-2017,Lisboa,Arruda Dos Vinhos,32
+2017,Lisboa,Arruda dos Vinhos,32
 2017,Lisboa,Azambuja,73
 2017,Lisboa,Cadaval,50
 2017,Lisboa,Cascais,70
@@ -1522,8 +1287,8 @@ ANO,DISTRITO,CONCELHO,NCCO
 2017,Porto,Santo Tirso,290
 2017,Porto,Trofa,191
 2017,Porto,Valongo,158
-2017,Porto,Vila Nova de Gaia,359
 2017,Porto,Vila do Conde,202
+2017,Porto,Vila Nova de Gaia,359
 2017,Santarém,Abrantes,100
 2017,Santarém,Alcanena,49
 2017,Santarém,Almeirim,32
@@ -1610,7 +1375,7 @@ ANO,DISTRITO,CONCELHO,NCCO
 2017,Évora,Arraiolos,19
 2017,Évora,Borba,15
 2017,Évora,Estremoz,25
-2017,Évora,Montemor-o-novo,24
+2017,Évora,Montemor-o-Novo,24
 2017,Évora,Mora,17
 2017,Évora,Mourão,7
 2017,Évora,Portel,15
@@ -1620,8 +1385,7 @@ ANO,DISTRITO,CONCELHO,NCCO
 2017,Évora,Viana do Alentejo,17
 2017,Évora,Vila Viçosa,6
 2017,Évora,Évora,62
-2018,Aveiro,Albergaria-a-Velha,1
-2018,Aveiro,Albergaria-a-velha,90
+2018,Aveiro,Albergaria-a-Velha,91
 2018,Aveiro,Anadia,35
 2018,Aveiro,Arouca,88
 2018,Aveiro,Aveiro,47
@@ -1664,46 +1428,43 @@ ANO,DISTRITO,CONCELHO,NCCO
 2018,Braga,Guimarães,183
 2018,Braga,Póvoa de Lanhoso,106
 2018,Braga,Terras de Bouro,44
-2018,Braga,VIZELA,1
 2018,Braga,Vieira do Minho,78
 2018,Braga,Vila Nova de Famalicão,91
 2018,Braga,Vila Verde,163
-2018,Braga,Vizela,24
+2018,Braga,Vizela,25
 2018,Bragança,Alfândega da Fé,45
 2018,Bragança,Bragança,79
 2018,Bragança,Carrazeda de Ansiães,52
-2018,Bragança,Freixo de Espada À Cinta,34
+2018,Bragança,Freixo de Espada à Cinta,34
 2018,Bragança,Macedo de Cavaleiros,31
 2018,Bragança,Miranda do Douro,42
 2018,Bragança,Mirandela,41
 2018,Bragança,Mogadouro,37
 2018,Bragança,Torre de Moncorvo,55
-2018,Bragança,Vila FLor,1
-2018,Bragança,Vila Flor,41
+2018,Bragança,Vila Flor,42
 2018,Bragança,Vimioso,31
 2018,Bragança,Vinhais,55
 2018,Castelo Branco,Belmonte,19
 2018,Castelo Branco,Castelo Branco,111
 2018,Castelo Branco,Covilhã,62
 2018,Castelo Branco,Fundão,73
-2018,Castelo Branco,Idanha-a-Nova,1
-2018,Castelo Branco,Idanha-a-nova,46
+2018,Castelo Branco,Idanha-a-Nova,47
 2018,Castelo Branco,Oleiros,18
 2018,Castelo Branco,Penamacor,19
-2018,Castelo Branco,Proença-a-nova,25
+2018,Castelo Branco,Proença-a-Nova,25
 2018,Castelo Branco,Sertã,28
-2018,Castelo Branco,Vila Velha de Ródão,16
 2018,Castelo Branco,Vila de Rei,6
+2018,Castelo Branco,Vila Velha de Ródão,16
 2018,Coimbra,Arganil,4
 2018,Coimbra,Cantanhede,38
 2018,Coimbra,Coimbra,46
-2018,Coimbra,Condeixa-a-nova,17
+2018,Coimbra,Condeixa-a-Nova,17
 2018,Coimbra,Figueira da Foz,28
 2018,Coimbra,Góis,2
 2018,Coimbra,Lousã,11
 2018,Coimbra,Mira,12
 2018,Coimbra,Miranda do Corvo,20
-2018,Coimbra,Montemor-o-velho,14
+2018,Coimbra,Montemor-o-Velho,14
 2018,Coimbra,Oliveira do Hospital,4
 2018,Coimbra,Pampilhosa da Serra,9
 2018,Coimbra,Penacova,15
@@ -1716,7 +1477,7 @@ ANO,DISTRITO,CONCELHO,NCCO
 2018,Faro,Aljezur,23
 2018,Faro,Castro Marim,19
 2018,Faro,Faro,26
-2018,Faro,Lagoa,13
+2018,Faro,lagoa,13
 2018,Faro,Lagos,20
 2018,Faro,Loulé,60
 2018,Faro,Monchique,24
@@ -1725,8 +1486,8 @@ ANO,DISTRITO,CONCELHO,NCCO
 2018,Faro,Silves,56
 2018,Faro,São Brás de Alportel,12
 2018,Faro,Tavira,33
-2018,Faro,Vila Real de Santo António,5
 2018,Faro,Vila do Bispo,7
+2018,Faro,Vila Real de Santo António,5
 2018,Guarda,Aguiar da Beira,11
 2018,Guarda,Almeida,16
 2018,Guarda,Celorico da Beira,9
@@ -1735,7 +1496,7 @@ ANO,DISTRITO,CONCELHO,NCCO
 2018,Guarda,Gouveia,10
 2018,Guarda,Guarda,28
 2018,Guarda,Manteigas,2
-2018,Guarda,Mêda,23
+2018,Guarda,mêda,23
 2018,Guarda,Pinhel,11
 2018,Guarda,Sabugal,42
 2018,Guarda,Seia,20
@@ -1748,8 +1509,7 @@ ANO,DISTRITO,CONCELHO,NCCO
 2018,Leiria,Bombarral,6
 2018,Leiria,Caldas da Rainha,37
 2018,Leiria,Castanheira de Pêra,5
-2018,Leiria,Figueiró Dos Vinhos,10
-2018,Leiria,Figueiró dos Vinhos,1
+2018,Leiria,Figueiró dos Vinhos,11
 2018,Leiria,Leiria,61
 2018,Leiria,Marinha Grande,12
 2018,Leiria,Nazaré,4
@@ -1760,7 +1520,7 @@ ANO,DISTRITO,CONCELHO,NCCO
 2018,Leiria,Óbidos,30
 2018,Lisboa,Alenquer,107
 2018,Lisboa,Amadora,57
-2018,Lisboa,Arruda Dos Vinhos,35
+2018,Lisboa,Arruda dos Vinhos,35
 2018,Lisboa,Azambuja,54
 2018,Lisboa,Cadaval,22
 2018,Lisboa,Cascais,58
@@ -1803,8 +1563,8 @@ ANO,DISTRITO,CONCELHO,NCCO
 2018,Porto,Santo Tirso,171
 2018,Porto,Trofa,44
 2018,Porto,Valongo,79
-2018,Porto,Vila Nova de Gaia,197
 2018,Porto,Vila do Conde,104
+2018,Porto,Vila Nova de Gaia,197
 2018,Santarém,Abrantes,65
 2018,Santarém,Alcanena,24
 2018,Santarém,Almeirim,30
@@ -1891,8 +1651,7 @@ ANO,DISTRITO,CONCELHO,NCCO
 2018,Évora,Arraiolos,11
 2018,Évora,Borba,9
 2018,Évora,Estremoz,24
-2018,Évora,Montemor-o-Novo,1
-2018,Évora,Montemor-o-novo,11
+2018,Évora,Montemor-o-Novo,12
 2018,Évora,Mora,6
 2018,Évora,Mourão,9
 2018,Évora,Portel,13
@@ -1902,8 +1661,7 @@ ANO,DISTRITO,CONCELHO,NCCO
 2018,Évora,Viana do Alentejo,6
 2018,Évora,Vila Viçosa,2
 2018,Évora,Évora,37
-2019,Aveiro,Albergaria-a-Velha,3
-2019,Aveiro,Albergaria-a-velha,52
+2019,Aveiro,Albergaria-a-Velha,55
 2019,Aveiro,Anadia,23
 2019,Aveiro,Arouca,55
 2019,Aveiro,Aveiro,83
@@ -1953,7 +1711,7 @@ ANO,DISTRITO,CONCELHO,NCCO
 2019,Bragança,Alfândega da Fé,54
 2019,Bragança,Bragança,56
 2019,Bragança,Carrazeda de Ansiães,27
-2019,Bragança,Freixo de Espada À Cinta,18
+2019,Bragança,Freixo de Espada à Cinta,18
 2019,Bragança,Macedo de Cavaleiros,26
 2019,Bragança,Miranda do Douro,5
 2019,Bragança,Mirandela,32
@@ -1966,24 +1724,23 @@ ANO,DISTRITO,CONCELHO,NCCO
 2019,Castelo Branco,Castelo Branco,90
 2019,Castelo Branco,Covilhã,91
 2019,Castelo Branco,Fundão,115
-2019,Castelo Branco,Idanha-a-nova,41
+2019,Castelo Branco,Idanha-a-Nova,41
 2019,Castelo Branco,Oleiros,20
 2019,Castelo Branco,Penamacor,16
-2019,Castelo Branco,Proença-a-nova,17
+2019,Castelo Branco,Proença-a-Nova,17
 2019,Castelo Branco,Sertã,36
-2019,Castelo Branco,Vila Velha de Ródão,12
 2019,Castelo Branco,Vila de Rei,2
+2019,Castelo Branco,Vila Velha de Ródão,12
 2019,Coimbra,Arganil,13
 2019,Coimbra,Cantanhede,47
 2019,Coimbra,Coimbra,37
-2019,Coimbra,Condeixa-a-nova,16
+2019,Coimbra,Condeixa-a-Nova,16
 2019,Coimbra,Figueira da Foz,63
 2019,Coimbra,Góis,5
 2019,Coimbra,Lousã,9
 2019,Coimbra,Mira,6
 2019,Coimbra,Miranda do Corvo,9
-2019,Coimbra,Montemor-o-Velho,1
-2019,Coimbra,Montemor-o-velho,24
+2019,Coimbra,Montemor-o-Velho,25
 2019,Coimbra,Oliveira do Hospital,13
 2019,Coimbra,Pampilhosa da Serra,7
 2019,Coimbra,Penacova,11
@@ -1996,7 +1753,7 @@ ANO,DISTRITO,CONCELHO,NCCO
 2019,Faro,Aljezur,15
 2019,Faro,Castro Marim,15
 2019,Faro,Faro,35
-2019,Faro,Lagoa,10
+2019,Faro,lagoa,10
 2019,Faro,Lagos,30
 2019,Faro,Loulé,68
 2019,Faro,Monchique,8
@@ -2005,8 +1762,8 @@ ANO,DISTRITO,CONCELHO,NCCO
 2019,Faro,Silves,54
 2019,Faro,São Brás de Alportel,20
 2019,Faro,Tavira,36
-2019,Faro,Vila Real de Santo António,14
 2019,Faro,Vila do Bispo,17
+2019,Faro,Vila Real de Santo António,14
 2019,Guarda,Aguiar da Beira,10
 2019,Guarda,Almeida,10
 2019,Guarda,Celorico da Beira,13
@@ -2015,7 +1772,7 @@ ANO,DISTRITO,CONCELHO,NCCO
 2019,Guarda,Gouveia,22
 2019,Guarda,Guarda,24
 2019,Guarda,Manteigas,4
-2019,Guarda,Mêda,17
+2019,Guarda,mêda,17
 2019,Guarda,Pinhel,15
 2019,Guarda,Sabugal,48
 2019,Guarda,Seia,22
@@ -2028,8 +1785,7 @@ ANO,DISTRITO,CONCELHO,NCCO
 2019,Leiria,Bombarral,11
 2019,Leiria,Caldas da Rainha,72
 2019,Leiria,Castanheira de Pêra,1
-2019,Leiria,Figueiró Dos Vinhos,9
-2019,Leiria,Figueiró dos Vinhos,2
+2019,Leiria,Figueiró dos Vinhos,11
 2019,Leiria,Leiria,83
 2019,Leiria,Marinha Grande,18
 2019,Leiria,Nazaré,5
@@ -2040,7 +1796,7 @@ ANO,DISTRITO,CONCELHO,NCCO
 2019,Leiria,Óbidos,61
 2019,Lisboa,Alenquer,109
 2019,Lisboa,Amadora,35
-2019,Lisboa,Arruda Dos Vinhos,31
+2019,Lisboa,Arruda dos Vinhos,31
 2019,Lisboa,Azambuja,86
 2019,Lisboa,Cadaval,28
 2019,Lisboa,Cascais,66
@@ -2084,8 +1840,8 @@ ANO,DISTRITO,CONCELHO,NCCO
 2019,Porto,Santo Tirso,83
 2019,Porto,Trofa,46
 2019,Porto,Valongo,106
-2019,Porto,Vila Nova de Gaia,152
 2019,Porto,Vila do Conde,69
+2019,Porto,Vila Nova de Gaia,152
 2019,Santarém,Abrantes,75
 2019,Santarém,Alcanena,25
 2019,Santarém,Almeirim,31
@@ -2172,8 +1928,7 @@ ANO,DISTRITO,CONCELHO,NCCO
 2019,Évora,Arraiolos,13
 2019,Évora,Borba,8
 2019,Évora,Estremoz,35
-2019,Évora,Montemor-o-Novo,9
-2019,Évora,Montemor-o-novo,24
+2019,Évora,Montemor-o-Novo,33
 2019,Évora,Mora,15
 2019,Évora,Mourão,16
 2019,Évora,Portel,19
@@ -2183,8 +1938,7 @@ ANO,DISTRITO,CONCELHO,NCCO
 2019,Évora,Viana do Alentejo,9
 2019,Évora,Vila Viçosa,12
 2019,Évora,Évora,82
-2020,Aveiro,Albergaria-a-Velha,1
-2020,Aveiro,Albergaria-a-velha,54
+2020,Aveiro,Albergaria-a-Velha,55
 2020,Aveiro,Anadia,16
 2020,Aveiro,Arouca,51
 2020,Aveiro,Aveiro,50
@@ -2234,37 +1988,36 @@ ANO,DISTRITO,CONCELHO,NCCO
 2020,Bragança,Alfândega da Fé,21
 2020,Bragança,Bragança,38
 2020,Bragança,Carrazeda de Ansiães,11
-2020,Bragança,Freixo de Espada À Cinta,9
+2020,Bragança,Freixo de Espada à Cinta,9
 2020,Bragança,Macedo de Cavaleiros,17
 2020,Bragança,Miranda do Douro,9
 2020,Bragança,Mirandela,42
 2020,Bragança,Mogadouro,20
 2020,Bragança,Torre de Moncorvo,18
-2020,Bragança,Vila FLor,5
-2020,Bragança,Vila Flor,14
+2020,Bragança,Vila Flor,19
 2020,Bragança,Vimioso,15
 2020,Bragança,Vinhais,44
 2020,Castelo Branco,Belmonte,11
 2020,Castelo Branco,Castelo Branco,88
 2020,Castelo Branco,Covilhã,57
 2020,Castelo Branco,Fundão,43
-2020,Castelo Branco,Idanha-a-nova,28
+2020,Castelo Branco,Idanha-a-Nova,28
 2020,Castelo Branco,Oleiros,14
 2020,Castelo Branco,Penamacor,16
-2020,Castelo Branco,Proença-a-nova,7
+2020,Castelo Branco,Proença-a-Nova,7
 2020,Castelo Branco,Sertã,23
-2020,Castelo Branco,Vila Velha de Ródão,13
 2020,Castelo Branco,Vila de Rei,5
+2020,Castelo Branco,Vila Velha de Ródão,13
 2020,Coimbra,Arganil,8
 2020,Coimbra,Cantanhede,25
 2020,Coimbra,Coimbra,48
-2020,Coimbra,Condeixa-a-nova,6
+2020,Coimbra,Condeixa-a-Nova,6
 2020,Coimbra,Figueira da Foz,43
 2020,Coimbra,Góis,13
 2020,Coimbra,Lousã,7
 2020,Coimbra,Mira,11
 2020,Coimbra,Miranda do Corvo,7
-2020,Coimbra,Montemor-o-velho,12
+2020,Coimbra,Montemor-o-Velho,12
 2020,Coimbra,Oliveira do Hospital,6
 2020,Coimbra,Pampilhosa da Serra,4
 2020,Coimbra,Penacova,5
@@ -2277,7 +2030,7 @@ ANO,DISTRITO,CONCELHO,NCCO
 2020,Faro,Aljezur,11
 2020,Faro,Castro Marim,11
 2020,Faro,Faro,22
-2020,Faro,Lagoa,4
+2020,Faro,lagoa,4
 2020,Faro,Lagos,22
 2020,Faro,Loulé,24
 2020,Faro,Monchique,8
@@ -2286,8 +2039,8 @@ ANO,DISTRITO,CONCELHO,NCCO
 2020,Faro,Silves,25
 2020,Faro,São Brás de Alportel,9
 2020,Faro,Tavira,21
-2020,Faro,Vila Real de Santo António,11
 2020,Faro,Vila do Bispo,3
+2020,Faro,Vila Real de Santo António,11
 2020,Guarda,Aguiar da Beira,9
 2020,Guarda,Almeida,18
 2020,Guarda,Celorico da Beira,20
@@ -2296,7 +2049,7 @@ ANO,DISTRITO,CONCELHO,NCCO
 2020,Guarda,Gouveia,16
 2020,Guarda,Guarda,45
 2020,Guarda,Manteigas,4
-2020,Guarda,Mêda,32
+2020,Guarda,mêda,32
 2020,Guarda,Pinhel,31
 2020,Guarda,Sabugal,30
 2020,Guarda,Seia,14
@@ -2309,7 +2062,7 @@ ANO,DISTRITO,CONCELHO,NCCO
 2020,Leiria,Bombarral,8
 2020,Leiria,Caldas da Rainha,23
 2020,Leiria,Castanheira de Pêra,2
-2020,Leiria,Figueiró Dos Vinhos,19
+2020,Leiria,Figueiró dos Vinhos,19
 2020,Leiria,Leiria,84
 2020,Leiria,Marinha Grande,3
 2020,Leiria,Nazaré,12
@@ -2320,7 +2073,7 @@ ANO,DISTRITO,CONCELHO,NCCO
 2020,Leiria,Óbidos,49
 2020,Lisboa,Alenquer,68
 2020,Lisboa,Amadora,23
-2020,Lisboa,Arruda Dos Vinhos,36
+2020,Lisboa,Arruda dos Vinhos,36
 2020,Lisboa,Azambuja,44
 2020,Lisboa,Cadaval,9
 2020,Lisboa,Cascais,15
@@ -2364,8 +2117,8 @@ ANO,DISTRITO,CONCELHO,NCCO
 2020,Porto,Santo Tirso,163
 2020,Porto,Trofa,85
 2020,Porto,Valongo,169
-2020,Porto,Vila Nova de Gaia,138
 2020,Porto,Vila do Conde,49
+2020,Porto,Vila Nova de Gaia,138
 2020,Santarém,Abrantes,54
 2020,Santarém,Alcanena,17
 2020,Santarém,Almeirim,19
@@ -2452,8 +2205,7 @@ ANO,DISTRITO,CONCELHO,NCCO
 2020,Évora,Arraiolos,10
 2020,Évora,Borba,12
 2020,Évora,Estremoz,27
-2020,Évora,Montemor-o-Novo,9
-2020,Évora,Montemor-o-novo,4
+2020,Évora,Montemor-o-Novo,13
 2020,Évora,Mora,2
 2020,Évora,Mourão,7
 2020,Évora,Portel,6
@@ -2463,8 +2215,7 @@ ANO,DISTRITO,CONCELHO,NCCO
 2020,Évora,Viana do Alentejo,5
 2020,Évora,Vila Viçosa,9
 2020,Évora,Évora,28
-2021,Aveiro,Albergaria-a-Velha,20
-2021,Aveiro,Albergaria-a-velha,16
+2021,Aveiro,Albergaria-a-Velha,36
 2021,Aveiro,Anadia,14
 2021,Aveiro,Arouca,78
 2021,Aveiro,Aveiro,50
@@ -2507,45 +2258,43 @@ ANO,DISTRITO,CONCELHO,NCCO
 2021,Braga,Guimarães,75
 2021,Braga,Póvoa de Lanhoso,68
 2021,Braga,Terras de Bouro,24
-2021,Braga,VIZELA,1
 2021,Braga,Vieira do Minho,95
 2021,Braga,Vila Nova de Famalicão,59
 2021,Braga,Vila Verde,66
-2021,Braga,Vizela,18
+2021,Braga,Vizela,19
 2021,Bragança,Alfândega da Fé,6
 2021,Bragança,Bragança,42
 2021,Bragança,Carrazeda de Ansiães,22
-2021,Bragança,Freixo de Espada À Cinta,22
+2021,Bragança,Freixo de Espada à Cinta,22
 2021,Bragança,Macedo de Cavaleiros,14
 2021,Bragança,Miranda do Douro,6
 2021,Bragança,Mirandela,36
 2021,Bragança,Mogadouro,11
 2021,Bragança,Torre de Moncorvo,20
-2021,Bragança,Vila FLor,1
-2021,Bragança,Vila Flor,4
+2021,Bragança,Vila Flor,5
 2021,Bragança,Vimioso,10
 2021,Bragança,Vinhais,33
 2021,Castelo Branco,Belmonte,12
 2021,Castelo Branco,Castelo Branco,65
 2021,Castelo Branco,Covilhã,45
 2021,Castelo Branco,Fundão,45
-2021,Castelo Branco,Idanha-a-nova,26
+2021,Castelo Branco,Idanha-a-Nova,26
 2021,Castelo Branco,Oleiros,4
 2021,Castelo Branco,Penamacor,6
-2021,Castelo Branco,Proença-a-nova,9
+2021,Castelo Branco,Proença-a-Nova,9
 2021,Castelo Branco,Sertã,19
-2021,Castelo Branco,Vila Velha de Ródão,6
 2021,Castelo Branco,Vila de Rei,4
+2021,Castelo Branco,Vila Velha de Ródão,6
 2021,Coimbra,Arganil,11
 2021,Coimbra,Cantanhede,18
 2021,Coimbra,Coimbra,28
-2021,Coimbra,Condeixa-a-nova,2
+2021,Coimbra,Condeixa-a-Nova,2
 2021,Coimbra,Figueira da Foz,22
 2021,Coimbra,Góis,7
 2021,Coimbra,Lousã,5
 2021,Coimbra,Mira,6
 2021,Coimbra,Miranda do Corvo,8
-2021,Coimbra,Montemor-o-velho,13
+2021,Coimbra,Montemor-o-Velho,13
 2021,Coimbra,Oliveira do Hospital,8
 2021,Coimbra,Pampilhosa da Serra,6
 2021,Coimbra,Penacova,4
@@ -2558,7 +2307,7 @@ ANO,DISTRITO,CONCELHO,NCCO
 2021,Faro,Aljezur,17
 2021,Faro,Castro Marim,16
 2021,Faro,Faro,29
-2021,Faro,Lagoa,15
+2021,Faro,lagoa,15
 2021,Faro,Lagos,20
 2021,Faro,Loulé,54
 2021,Faro,Monchique,12
@@ -2567,8 +2316,8 @@ ANO,DISTRITO,CONCELHO,NCCO
 2021,Faro,Silves,40
 2021,Faro,São Brás de Alportel,4
 2021,Faro,Tavira,29
-2021,Faro,Vila Real de Santo António,8
 2021,Faro,Vila do Bispo,3
+2021,Faro,Vila Real de Santo António,8
 2021,Guarda,Aguiar da Beira,8
 2021,Guarda,Almeida,13
 2021,Guarda,Celorico da Beira,11
@@ -2577,7 +2326,7 @@ ANO,DISTRITO,CONCELHO,NCCO
 2021,Guarda,Gouveia,7
 2021,Guarda,Guarda,28
 2021,Guarda,Manteigas,3
-2021,Guarda,Mêda,15
+2021,Guarda,mêda,15
 2021,Guarda,Pinhel,17
 2021,Guarda,Sabugal,27
 2021,Guarda,Seia,15
@@ -2590,7 +2339,7 @@ ANO,DISTRITO,CONCELHO,NCCO
 2021,Leiria,Bombarral,9
 2021,Leiria,Caldas da Rainha,9
 2021,Leiria,Castanheira de Pêra,2
-2021,Leiria,Figueiró Dos Vinhos,7
+2021,Leiria,Figueiró dos Vinhos,7
 2021,Leiria,Leiria,48
 2021,Leiria,Marinha Grande,13
 2021,Leiria,Nazaré,2
@@ -2601,7 +2350,7 @@ ANO,DISTRITO,CONCELHO,NCCO
 2021,Leiria,Óbidos,11
 2021,Lisboa,Alenquer,96
 2021,Lisboa,Amadora,37
-2021,Lisboa,Arruda Dos Vinhos,25
+2021,Lisboa,Arruda dos Vinhos,25
 2021,Lisboa,Azambuja,41
 2021,Lisboa,Cadaval,21
 2021,Lisboa,Cascais,40
@@ -2646,8 +2395,8 @@ ANO,DISTRITO,CONCELHO,NCCO
 2021,Porto,Santo Tirso,82
 2021,Porto,Trofa,60
 2021,Porto,Valongo,16
-2021,Porto,Vila Nova de Gaia,114
 2021,Porto,Vila do Conde,11
+2021,Porto,Vila Nova de Gaia,114
 2021,Santarém,Abrantes,37
 2021,Santarém,Alcanena,11
 2021,Santarém,Almeirim,26
@@ -2734,8 +2483,7 @@ ANO,DISTRITO,CONCELHO,NCCO
 2021,Évora,Arraiolos,10
 2021,Évora,Borba,14
 2021,Évora,Estremoz,16
-2021,Évora,Montemor-o-Novo,23
-2021,Évora,Montemor-o-novo,12
+2021,Évora,Montemor-o-Novo,35
 2021,Évora,Mora,7
 2021,Évora,Mourão,10
 2021,Évora,Portel,12
@@ -2745,8 +2493,7 @@ ANO,DISTRITO,CONCELHO,NCCO
 2021,Évora,Viana do Alentejo,10
 2021,Évora,Vila Viçosa,10
 2021,Évora,Évora,42
-2022,Aveiro,Albergaria-a-Velha,8
-2022,Aveiro,Albergaria-a-velha,23
+2022,Aveiro,Albergaria-a-Velha,31
 2022,Aveiro,Anadia,14
 2022,Aveiro,Arouca,64
 2022,Aveiro,Aveiro,38
@@ -2758,12 +2505,12 @@ ANO,DISTRITO,CONCELHO,NCCO
 2022,Aveiro,Oliveira de Azeméis,50
 2022,Aveiro,Oliveira do Bairro,17
 2022,Aveiro,Ovar,29
-2022,Aveiro,Santa Maria da Feira,85
+2022,Aveiro,Santa Maria da Feira,86
 2022,Aveiro,Sever do Vouga,10
 2022,Aveiro,São João da Madeira,1
 2022,Aveiro,Vagos,15
 2022,Aveiro,Vale de Cambra,19
-2022,Aveiro,Águeda,20
+2022,Aveiro,Águeda,21
 2022,Aveiro,Ílhavo,9
 2022,Beja,Aljustrel,8
 2022,Beja,Almodôvar,8
@@ -2779,54 +2526,53 @@ ANO,DISTRITO,CONCELHO,NCCO
 2022,Beja,Serpa,14
 2022,Beja,Vidigueira,12
 2022,Braga,Amares,10
-2022,Braga,Barcelos,46
+2022,Braga,Barcelos,47
 2022,Braga,Braga,35
 2022,Braga,Cabeceiras de Basto,64
 2022,Braga,Celorico de Basto,79
 2022,Braga,Esposende,11
-2022,Braga,Fafe,156
-2022,Braga,Guimarães,67
-2022,Braga,Póvoa de Lanhoso,94
+2022,Braga,Fafe,159
+2022,Braga,Guimarães,69
+2022,Braga,Póvoa de Lanhoso,96
 2022,Braga,Terras de Bouro,32
-2022,Braga,VIZELA,1
 2022,Braga,Vieira do Minho,71
 2022,Braga,Vila Nova de Famalicão,78
-2022,Braga,Vila Verde,90
-2022,Braga,Vizela,14
+2022,Braga,Vila Verde,93
+2022,Braga,Vizela,15
 2022,Bragança,Alfândega da Fé,7
 2022,Bragança,Bragança,51
 2022,Bragança,Carrazeda de Ansiães,25
-2022,Bragança,Freixo de Espada À Cinta,14
-2022,Bragança,Macedo de Cavaleiros,13
+2022,Bragança,Freixo de Espada à Cinta,14
+2022,Bragança,Macedo de Cavaleiros,15
 2022,Bragança,Miranda do Douro,12
 2022,Bragança,Mirandela,34
 2022,Bragança,Mogadouro,20
 2022,Bragança,Torre de Moncorvo,17
 2022,Bragança,Vila Flor,5
-2022,Bragança,Vimioso,10
-2022,Bragança,Vinhais,40
+2022,Bragança,Vimioso,11
+2022,Bragança,Vinhais,41
 2022,Castelo Branco,Belmonte,11
 2022,Castelo Branco,Castelo Branco,53
-2022,Castelo Branco,Covilhã,65
+2022,Castelo Branco,Covilhã,66
 2022,Castelo Branco,Fundão,45
-2022,Castelo Branco,Idanha-a-nova,18
+2022,Castelo Branco,Idanha-a-Nova,18
 2022,Castelo Branco,Oleiros,6
 2022,Castelo Branco,Penamacor,5
-2022,Castelo Branco,Proença-a-nova,5
+2022,Castelo Branco,Proença-a-Nova,5
 2022,Castelo Branco,Sertã,27
-2022,Castelo Branco,Vila Velha de Ródão,5
 2022,Castelo Branco,Vila de Rei,4
+2022,Castelo Branco,Vila Velha de Ródão,5
 2022,Coimbra,Arganil,9
-2022,Coimbra,Cantanhede,37
-2022,Coimbra,Coimbra,64
-2022,Coimbra,Condeixa-a-nova,6
-2022,Coimbra,Figueira da Foz,35
+2022,Coimbra,Cantanhede,38
+2022,Coimbra,Coimbra,66
+2022,Coimbra,Condeixa-a-Nova,6
+2022,Coimbra,Figueira da Foz,36
 2022,Coimbra,Góis,4
-2022,Coimbra,Lousã,32
+2022,Coimbra,Lousã,33
 2022,Coimbra,Mira,10
 2022,Coimbra,Miranda do Corvo,3
-2022,Coimbra,Montemor-o-velho,20
-2022,Coimbra,Oliveira do Hospital,20
+2022,Coimbra,Montemor-o-Velho,20
+2022,Coimbra,Oliveira do Hospital,21
 2022,Coimbra,Pampilhosa da Serra,5
 2022,Coimbra,Penacova,6
 2022,Coimbra,Penela,7
@@ -2838,7 +2584,7 @@ ANO,DISTRITO,CONCELHO,NCCO
 2022,Faro,Aljezur,5
 2022,Faro,Castro Marim,5
 2022,Faro,Faro,19
-2022,Faro,Lagoa,9
+2022,Faro,lagoa,9
 2022,Faro,Lagos,6
 2022,Faro,Loulé,33
 2022,Faro,Monchique,4
@@ -2847,41 +2593,41 @@ ANO,DISTRITO,CONCELHO,NCCO
 2022,Faro,Silves,19
 2022,Faro,São Brás de Alportel,4
 2022,Faro,Tavira,16
-2022,Faro,Vila Real de Santo António,4
 2022,Faro,Vila do Bispo,5
+2022,Faro,Vila Real de Santo António,4
 2022,Guarda,Aguiar da Beira,2
 2022,Guarda,Almeida,12
 2022,Guarda,Celorico da Beira,9
 2022,Guarda,Figueira de Castelo Rodrigo,27
-2022,Guarda,Fornos de Algodres,14
+2022,Guarda,Fornos de Algodres,15
 2022,Guarda,Gouveia,14
-2022,Guarda,Guarda,37
+2022,Guarda,Guarda,39
 2022,Guarda,Manteigas,2
-2022,Guarda,Mêda,12
-2022,Guarda,Pinhel,20
+2022,Guarda,mêda,12
+2022,Guarda,Pinhel,21
 2022,Guarda,Sabugal,29
 2022,Guarda,Seia,29
 2022,Guarda,Trancoso,16
 2022,Guarda,Vila Nova de Foz Côa,11
 2022,Leiria,Alcobaça,15
 2022,Leiria,Alvaiázere,5
-2022,Leiria,Ansião,8
+2022,Leiria,Ansião,9
 2022,Leiria,Batalha,9
 2022,Leiria,Bombarral,1
 2022,Leiria,Caldas da Rainha,16
 2022,Leiria,Castanheira de Pêra,7
-2022,Leiria,Figueiró Dos Vinhos,6
-2022,Leiria,Leiria,64
+2022,Leiria,Figueiró dos Vinhos,6
+2022,Leiria,Leiria,65
 2022,Leiria,Marinha Grande,20
 2022,Leiria,Nazaré,1
 2022,Leiria,Pedrógão Grande,1
 2022,Leiria,Peniche,4
-2022,Leiria,Pombal,70
+2022,Leiria,Pombal,71
 2022,Leiria,Porto de Mós,15
 2022,Leiria,Óbidos,8
 2022,Lisboa,Alenquer,56
 2022,Lisboa,Amadora,24
-2022,Lisboa,Arruda Dos Vinhos,14
+2022,Lisboa,Arruda dos Vinhos,14
 2022,Lisboa,Azambuja,36
 2022,Lisboa,Cadaval,14
 2022,Lisboa,Cascais,24
@@ -2909,30 +2655,30 @@ ANO,DISTRITO,CONCELHO,NCCO
 2022,Portalegre,Ponte de Sor,10
 2022,Portalegre,Portalegre,11
 2022,Portalegre,Sousel,5
-2022,Porto,Amarante,140
+2022,Porto,Amarante,141
 2022,Porto,Baião,115
-2022,Porto,Felgueiras,98
-2022,Porto,Gondomar,153
-2022,Porto,Lousada,61
+2022,Porto,Felgueiras,102
+2022,Porto,Gondomar,155
+2022,Porto,Lousada,62
 2022,Porto,Maia,69
-2022,Porto,Marco de Canaveses,120
-2022,Porto,Matosinhos,31
-2022,Porto,Paredes,145
-2022,Porto,Paços de Ferreira,80
-2022,Porto,Penafiel,339
+2022,Porto,Marco de Canaveses,122
+2022,Porto,Matosinhos,32
+2022,Porto,Paredes,147
+2022,Porto,Paços de Ferreira,81
+2022,Porto,Penafiel,340
 2022,Porto,Porto,16
 2022,Porto,Póvoa de Varzim,24
-2022,Porto,Santo Tirso,148
+2022,Porto,Santo Tirso,149
 2022,Porto,Trofa,113
 2022,Porto,Valongo,41
-2022,Porto,Vila Nova de Gaia,150
 2022,Porto,Vila do Conde,28
+2022,Porto,Vila Nova de Gaia,152
 2022,Santarém,Abrantes,40
 2022,Santarém,Alcanena,12
 2022,Santarém,Almeirim,14
 2022,Santarém,Alpiarça,9
-2022,Santarém,Benavente,22
-2022,Santarém,Cartaxo,18
+2022,Santarém,Benavente,23
+2022,Santarém,Cartaxo,19
 2022,Santarém,Chamusca,14
 2022,Santarém,Constância,7
 2022,Santarém,Coruche,18
@@ -2940,17 +2686,17 @@ ANO,DISTRITO,CONCELHO,NCCO
 2022,Santarém,Ferreira do Zêzere,8
 2022,Santarém,Golegã,2
 2022,Santarém,Mação,9
-2022,Santarém,Ourém,66
-2022,Santarém,Rio Maior,19
+2022,Santarém,Ourém,65
+2022,Santarém,Rio Maior,20
 2022,Santarém,Salvaterra de Magos,20
 2022,Santarém,Santarém,52
-2022,Santarém,Sardoal,13
+2022,Santarém,Sardoal,14
 2022,Santarém,Tomar,35
-2022,Santarém,Torres Novas,27
+2022,Santarém,Torres Novas,28
 2022,Santarém,Vila Nova da Barquinha,3
 2022,Setúbal,Alcochete,15
 2022,Setúbal,Alcácer do Sal,21
-2022,Setúbal,Almada,36
+2022,Setúbal,Almada,37
 2022,Setúbal,Barreiro,12
 2022,Setúbal,Grândola,21
 2022,Setúbal,Moita,14
@@ -2961,21 +2707,20 @@ ANO,DISTRITO,CONCELHO,NCCO
 2022,Setúbal,Sesimbra,11
 2022,Setúbal,Setúbal,14
 2022,Setúbal,Sines,7
-2022,Viana do Castelo,Arcos de Valdevez,167
+2022,Viana do Castelo,Arcos de Valdevez,172
 2022,Viana do Castelo,Caminha,11
 2022,Viana do Castelo,Melgaço,32
-2022,Viana do Castelo,Monção,46
+2022,Viana do Castelo,Monção,48
 2022,Viana do Castelo,Paredes de Coura,43
-2022,Viana do Castelo,Ponte da Barca,81
-2022,Viana do Castelo,Ponte de Lima,67
+2022,Viana do Castelo,Ponte da Barca,82
+2022,Viana do Castelo,Ponte de Lima,69
 2022,Viana do Castelo,Valença,64
-2022,Viana do Castelo,Viana do Castelo,60
+2022,Viana do Castelo,Viana do Castelo,61
 2022,Viana do Castelo,Vila Nova de Cerveira,14
 2022,Vila Real,Alijó,14
 2022,Vila Real,Boticas,52
-2022,Vila Real,Chaves,89
-2022,Vila Real,Mesão Frio,33
-2022,Vila Real,Mesão frio,1
+2022,Vila Real,Chaves,90
+2022,Vila Real,Mesão Frio,34
 2022,Vila Real,Mondim de Basto,25
 2022,Vila Real,Montalegre,166
 2022,Vila Real,Murça,27
@@ -2984,21 +2729,21 @@ ANO,DISTRITO,CONCELHO,NCCO
 2022,Vila Real,Sabrosa,12
 2022,Vila Real,Santa Marta de Penaguião,15
 2022,Vila Real,Valpaços,78
-2022,Vila Real,Vila Pouca de Aguiar,74
+2022,Vila Real,Vila Pouca de Aguiar,75
 2022,Vila Real,Vila Real,69
 2022,Viseu,Armamar,13
 2022,Viseu,Carregal do Sal,5
 2022,Viseu,Castro Daire,66
 2022,Viseu,Cinfães,107
-2022,Viseu,Lamego,31
-2022,Viseu,Mangualde,23
-2022,Viseu,Moimenta da Beira,22
-2022,Viseu,Mortágua,5
+2022,Viseu,Lamego,32
+2022,Viseu,Mangualde,22
+2022,Viseu,Moimenta da Beira,23
+2022,Viseu,Mortágua,4
 2022,Viseu,Nelas,18
 2022,Viseu,Oliveira de Frades,12
 2022,Viseu,Penalva do Castelo,15
 2022,Viseu,Penedono,5
-2022,Viseu,Resende,33
+2022,Viseu,Resende,34
 2022,Viseu,Santa Comba Dão,2
 2022,Viseu,Sernancelhe,8
 2022,Viseu,Sátão,19
@@ -3007,15 +2752,14 @@ ANO,DISTRITO,CONCELHO,NCCO
 2022,Viseu,Tabuaço,4
 2022,Viseu,Tarouca,18
 2022,Viseu,Tondela,15
-2022,Viseu,Vila Nova de Paiva,27
+2022,Viseu,Vila Nova de Paiva,28
 2022,Viseu,Viseu,63
 2022,Viseu,Vouzela,5
 2022,Évora,Alandroal,7
 2022,Évora,Arraiolos,12
 2022,Évora,Borba,10
 2022,Évora,Estremoz,10
-2022,Évora,Montemor-o-Novo,15
-2022,Évora,Montemor-o-novo,1
+2022,Évora,Montemor-o-Novo,16
 2022,Évora,Mora,2
 2022,Évora,Mourão,17
 2022,Évora,Portel,9
