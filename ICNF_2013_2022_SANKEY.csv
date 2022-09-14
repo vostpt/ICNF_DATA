@@ -2510,7 +2510,7 @@ ANO,DISTRITO,CONCELHO,NCCO
 2022,Aveiro,São João da Madeira,3
 2022,Aveiro,Vagos,22
 2022,Aveiro,Vale de Cambra,31
-2022,Aveiro,Águeda,23
+2022,Aveiro,Águeda,24
 2022,Aveiro,Ílhavo,14
 2022,Beja,Aljustrel,11
 2022,Beja,Almodôvar,10
@@ -2532,14 +2532,14 @@ ANO,DISTRITO,CONCELHO,NCCO
 2022,Braga,Celorico de Basto,104
 2022,Braga,Esposende,18
 2022,Braga,Fafe,199
-2022,Braga,Guimarães,93
+2022,Braga,Guimarães,92
 2022,Braga,Póvoa de Lanhoso,112
 2022,Braga,Terras de Bouro,37
 2022,Braga,Vieira do Minho,76
 2022,Braga,Vila Nova de Famalicão,95
 2022,Braga,Vila Verde,150
 2022,Braga,Vizela,18
-2022,Bragança,Alfândega da Fé,8
+2022,Bragança,Alfândega da Fé,9
 2022,Bragança,Bragança,56
 2022,Bragança,Carrazeda de Ansiães,30
 2022,Bragança,Freixo de Espada à Cinta,15
@@ -2566,7 +2566,7 @@ ANO,DISTRITO,CONCELHO,NCCO
 2022,Coimbra,Cantanhede,53
 2022,Coimbra,Coimbra,85
 2022,Coimbra,Condeixa-a-Nova,11
-2022,Coimbra,Figueira da Foz,46
+2022,Coimbra,Figueira da Foz,45
 2022,Coimbra,Góis,5
 2022,Coimbra,Lousã,36
 2022,Coimbra,Mira,9
@@ -2611,18 +2611,18 @@ ANO,DISTRITO,CONCELHO,NCCO
 2022,Guarda,Vila Nova de Foz Côa,12
 2022,Leiria,Alcobaça,19
 2022,Leiria,Alvaiázere,8
-2022,Leiria,Ansião,9
+2022,Leiria,Ansião,7
 2022,Leiria,Batalha,10
 2022,Leiria,Bombarral,5
 2022,Leiria,Caldas da Rainha,24
 2022,Leiria,Castanheira de Pêra,7
 2022,Leiria,Figueiró dos Vinhos,7
-2022,Leiria,Leiria,73
-2022,Leiria,Marinha Grande,26
+2022,Leiria,Leiria,74
+2022,Leiria,Marinha Grande,25
 2022,Leiria,Nazaré,1
 2022,Leiria,Pedrógão Grande,4
 2022,Leiria,Peniche,4
-2022,Leiria,Pombal,85
+2022,Leiria,Pombal,83
 2022,Leiria,Porto de Mós,21
 2022,Leiria,Óbidos,9
 2022,Lisboa,Alenquer,66
@@ -2681,17 +2681,17 @@ ANO,DISTRITO,CONCELHO,NCCO
 2022,Santarém,Cartaxo,23
 2022,Santarém,Chamusca,15
 2022,Santarém,Constância,7
-2022,Santarém,Coruche,28
+2022,Santarém,Coruche,29
 2022,Santarém,Entroncamento,5
 2022,Santarém,Ferreira do Zêzere,10
 2022,Santarém,Golegã,2
 2022,Santarém,Mação,10
 2022,Santarém,Ourém,90
-2022,Santarém,Rio Maior,29
+2022,Santarém,Rio Maior,28
 2022,Santarém,Salvaterra de Magos,25
 2022,Santarém,Santarém,62
 2022,Santarém,Sardoal,16
-2022,Santarém,Tomar,48
+2022,Santarém,Tomar,47
 2022,Santarém,Torres Novas,33
 2022,Santarém,Vila Nova da Barquinha,3
 2022,Setúbal,Alcochete,15
@@ -2712,9 +2712,9 @@ ANO,DISTRITO,CONCELHO,NCCO
 2022,Viana do Castelo,Melgaço,37
 2022,Viana do Castelo,Monção,62
 2022,Viana do Castelo,Paredes de Coura,46
-2022,Viana do Castelo,Ponte da Barca,136
+2022,Viana do Castelo,Ponte da Barca,134
 2022,Viana do Castelo,Ponte de Lima,87
-2022,Viana do Castelo,Valença,69
+2022,Viana do Castelo,Valença,70
 2022,Viana do Castelo,Viana do Castelo,73
 2022,Viana do Castelo,Vila Nova de Cerveira,16
 2022,Vila Real,Alijó,17
@@ -2730,7 +2730,7 @@ ANO,DISTRITO,CONCELHO,NCCO
 2022,Vila Real,Santa Marta de Penaguião,19
 2022,Vila Real,Valpaços,98
 2022,Vila Real,Vila Pouca de Aguiar,86
-2022,Vila Real,Vila Real,89
+2022,Vila Real,Vila Real,88
 2022,Viseu,Armamar,12
 2022,Viseu,Carregal do Sal,9
 2022,Viseu,Castro Daire,68
