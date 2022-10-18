@@ -2504,12 +2504,12 @@ ANO,DISTRITO,CONCELHO,NCCO
 2022,Aveiro,Murtosa,3
 2022,Aveiro,Oliveira de Azeméis,64
 2022,Aveiro,Oliveira do Bairro,20
-2022,Aveiro,Ovar,37
+2022,Aveiro,Ovar,38
 2022,Aveiro,Santa Maria da Feira,108
 2022,Aveiro,Sever do Vouga,10
 2022,Aveiro,São João da Madeira,1
 2022,Aveiro,Vagos,22
-2022,Aveiro,Vale de Cambra,32
+2022,Aveiro,Vale de Cambra,33
 2022,Aveiro,Águeda,25
 2022,Aveiro,Ílhavo,15
 2022,Beja,Aljustrel,12
@@ -2540,7 +2540,7 @@ ANO,DISTRITO,CONCELHO,NCCO
 2022,Braga,Vila Verde,160
 2022,Braga,Vizela,20
 2022,Bragança,Alfândega da Fé,9
-2022,Bragança,Bragança,63
+2022,Bragança,Bragança,61
 2022,Bragança,Carrazeda de Ansiães,30
 2022,Bragança,Freixo de Espada à Cinta,14
 2022,Bragança,Macedo de Cavaleiros,19
@@ -2552,8 +2552,8 @@ ANO,DISTRITO,CONCELHO,NCCO
 2022,Bragança,Vimioso,11
 2022,Bragança,Vinhais,52
 2022,Castelo Branco,Belmonte,10
-2022,Castelo Branco,Castelo Branco,72
-2022,Castelo Branco,Covilhã,69
+2022,Castelo Branco,Castelo Branco,73
+2022,Castelo Branco,Covilhã,70
 2022,Castelo Branco,Fundão,56
 2022,Castelo Branco,Idanha-a-Nova,22
 2022,Castelo Branco,Oleiros,9
@@ -2620,7 +2620,7 @@ ANO,DISTRITO,CONCELHO,NCCO
 2022,Leiria,Leiria,80
 2022,Leiria,Marinha Grande,28
 2022,Leiria,Pedrógão Grande,4
-2022,Leiria,Peniche,2
+2022,Leiria,Peniche,3
 2022,Leiria,Pombal,87
 2022,Leiria,Porto de Mós,22
 2022,Leiria,Óbidos,9
@@ -2668,7 +2668,7 @@ ANO,DISTRITO,CONCELHO,NCCO
 2022,Porto,Porto,20
 2022,Porto,Póvoa de Varzim,42
 2022,Porto,Santo Tirso,192
-2022,Porto,Trofa,143
+2022,Porto,Trofa,144
 2022,Porto,Valongo,56
 2022,Porto,Vila do Conde,33
 2022,Porto,Vila Nova de Gaia,190
@@ -2691,7 +2691,7 @@ ANO,DISTRITO,CONCELHO,NCCO
 2022,Santarém,Santarém,69
 2022,Santarém,Sardoal,17
 2022,Santarém,Tomar,49
-2022,Santarém,Torres Novas,35
+2022,Santarém,Torres Novas,36
 2022,Santarém,Vila Nova da Barquinha,2
 2022,Setúbal,Alcochete,15
 2022,Setúbal,Alcácer do Sal,23
@@ -2702,7 +2702,7 @@ ANO,DISTRITO,CONCELHO,NCCO
 2022,Setúbal,Montijo,31
 2022,Setúbal,Palmela,76
 2022,Setúbal,Santiago do Cacém,25
-2022,Setúbal,Seixal,17
+2022,Setúbal,Seixal,16
 2022,Setúbal,Sesimbra,15
 2022,Setúbal,Setúbal,18
 2022,Setúbal,Sines,7
@@ -2729,7 +2729,7 @@ ANO,DISTRITO,CONCELHO,NCCO
 2022,Vila Real,Santa Marta de Penaguião,20
 2022,Vila Real,Valpaços,103
 2022,Vila Real,Vila Pouca de Aguiar,91
-2022,Vila Real,Vila Real,77
+2022,Vila Real,Vila Real,76
 2022,Viseu,Armamar,12
 2022,Viseu,Carregal do Sal,10
 2022,Viseu,Castro Daire,72
