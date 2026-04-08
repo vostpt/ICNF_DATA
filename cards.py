@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 
-# Cards Dashboard
+# Cards dashboard
 
-# Import Libraries 
+# Import libraries
 
 import time
 import numpy as np
@@ -15,12 +15,12 @@ from dash import Input, Output, dcc, html
 import dash_bootstrap_components as dbc
 
 
-# Get data from CSV 
+# Load data from CSV
 
 df_in = pd.read_csv('https://raw.githubusercontent.com/vostpt/ICNF_DATA/main/ICNF_2013_2022_full.csv')
 
 
-# DATA CLEAN UP 
+# Data cleanup
 
 # Deal with some duplicates names across source and target
 df_in["CONCELHO"] = df_in["CONCELHO"].str.capitalize()
@@ -50,17 +50,17 @@ print("HELLO")
 print(df_app.head())
 
 
-# Create First Variables 
+# Create first variables
 
 var_burnt_area = round(df_in.AREATOTAL.sum(),2)
 var_total_fires = df_in.NCCO.count()
 var_distrito = "All"
 
-# Create first graph 
+# Create first graph
 
 fig = px.bar(df_app, x='ANO', y='AREATOTAL',template='plotly_dark')
 
-# Design Cards 
+# Design cards
 
 card_burnt_area = dbc.Card(
     dbc.CardBody(
@@ -89,7 +89,7 @@ card_district = dbc.Card(
     ),color="primary",
 )
 
-# Create Cards Layout 
+# Create cards layout
 
 cards = dbc.Row(
     [
@@ -102,7 +102,7 @@ cards = dbc.Row(
 
 
 
-# Create App Layout 
+# Create app layout
 
 
 app.layout = dbc.Container(
@@ -142,7 +142,7 @@ app.layout = dbc.Container(
                                 multi=False,  # allow multiple dropdown values to be selected
                                 searchable=True,  # allow user-searching of dropdown values
                                 search_value="",  # remembers the value searched in dropdown
-                                placeholder="Please select District",  # gray, default text shown when no option is selected
+                                placeholder="Please select a district",  # gray, default text shown when no option is selected
                                 clearable=True,  # allow user to removes the selected value
                                 style={
                                     "width": "100%"
@@ -163,7 +163,7 @@ app.layout = dbc.Container(
     ], # end container
 ) # end layout 
 
-# APP CALL BACKS FROM DROPDOWN 
+# App callbacks from dropdown
 
 @app.callback(
     Output(component_id="graph",component_property="figure"),
@@ -212,7 +212,7 @@ def cards_vars(dropdown_district):
 
 
 
-# Load APP 
+# Load app
 
 if __name__ == "__main__":
     app.run_server(debug=True, port=8888)

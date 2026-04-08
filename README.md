@@ -2,22 +2,22 @@
 
 # ICNF_DATA
 
-## A repository for ICNF data 
+## A repository of ICNF data
 
-This repository holds historical data from ICNF as well as daily updated data from that institution 
+This repository contains historical ICNF data and daily updates from the same institution.
 
 ## SOURCE
 
 https://fogos.icnf.pt/localizador/webserviceocorrencias.asp
 
-## HISTORICAL DATA 
-.csv files with raw data from 2014 to 2020 
+## HISTORICAL DATA
+.csv files with raw data from 2013 to 2022.
 
-## Requiremnts 
+## Requirements
 
 Python 3.9.4
 
-Create a virtual environment and install 
+Create a virtual environment and install:
 
 pandas==1.2.4
 
