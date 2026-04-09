@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 
 
-# This script is supposed to only run once 
+# This script is intended to run only once
 
-# import necessary libraries
+# Import required libraries
 import pandas as pd
 import os
 import glob
@@ -11,8 +11,7 @@ import plotly.express as px
 import datetime 
 
 
-# use glob to get all the csv files
-# in the folder
+# Use glob to collect all CSV files in the current folder
 path = os.getcwd()
 csv_files = glob.glob(os.path.join(path, "*.csv"))
 
